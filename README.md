@@ -1,2 +1,4 @@
 # ChatCat-GPT
-This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically. Building an AI that will answer anything you ask it about Cats. T
+This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically. 
+
+I love cats and wanted to create or replicate something similar to Chat-GPT to further understand and gain knowledge about Generative Pre-trained Transformers (GPT).
