@@ -17,7 +17,7 @@ Current implementation follows a few key papers:
 
 ### Usage
 
-The included `names.txt` dataset, as an example, has the most common 32K names takes from [ssa.gov](https://www.ssa.gov/oact/babynames/) for the year 2018. It looks like:
+The included `names.txt` dataset, as an example, has over 15,000 cat names I pulled off the website "www.kessels.com"
 
 ```
 Alchemy
@@ -39,41 +39,6 @@ Training progress and logs and model will all be saved to the working directory 
 ```bash
 $ python makemore.py -i names.txt -o names --sample-only
 ```
-
-This will load the best model so far and print more samples on demand. Here are some unique baby names that get eventually generated from current default settings (test logprob of ~1.92, though much lower logprobs are achievable with some hyperparameter tuning):
-
-```
-dontell
-khylum
-camatena
-aeriline
-najlah
-sherrith
-ryel
-irmi
-taislee
-mortaz
-akarli
-maxfelynn
-biolett
-zendy
-laisa
-halliliana
-goralynn
-brodynn
-romima
-chiyomin
-loghlyn
-melichae
-mahmed
-irot
-helicha
-besdy
-ebokun
-lucianno
-```
-
-Have fun!
 
 ### License
 
