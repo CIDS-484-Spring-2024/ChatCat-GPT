@@ -782,7 +782,6 @@ Aztec
 Azure
 Azzuki
 Azzul
-
 Balraj
 Balthazar
 Balzac
@@ -1991,7 +1990,6 @@ Byron (after Lord Byron)
 Byte
 Bytops
 BZBug
-
 Camile
 Camilla
 Camille
@@ -3116,7 +3114,6 @@ Cyril
 Cyrus
 Cyrus Rumblethump
 Czar
-
 Dani
 Dani California
 Dania
@@ -5440,7 +5437,6 @@ Gypsy
 Gypsyrose
 Gyro
 Gyzmo
-
 Heimdall (Viking mythology: The guard of Bifrost)
 Heiney Man
 Heiress
@@ -5790,7 +5786,6 @@ Hyper Kitty
 Hyperion
 Hytek
 Hyzen
-
 Indycule
 Indykins
 Indypinnykinnykins
@@ -6384,7 +6379,6 @@ Jynx
 Jynxetta Puny-pants (sweety-kitty) Pendragon
 Jyrky
 Jzero
-
 Kaepa
 Kafir
 Kafka
@@ -7120,7 +7114,6 @@ Kym Wilde
 Kyra
 Kyrie
 Kzif
-
 Lap Slut
 Lap Top
 Lapis
@@ -7681,7 +7674,6 @@ Lyra
 Lyric
 Lysanne
 Lyzen
-
 Marianne
 Marichat
 Maricho
@@ -9099,7 +9091,6 @@ Mystina
 Mystique
 Myth
 Mytsz
-
 Neutron
 Neutron Star
 Nevermore
@@ -9369,7 +9360,6 @@ Nyssa
 Nystan (Swedish for "yarn ball")
 Nytrogen
 Nyx (Greek goddess of night)
-
 Obi Wan Kenobi
 Obie (O.B.)
 Obijuan
@@ -9610,7 +9600,6 @@ Ozymandius
 Ozzie
 Ozzy
 Ozzy Pawsburn
-
 Pacino
 Packcat
 Packrat
@@ -10699,7 +10688,6 @@ Pyrex
 Pywacket
 Pywacki
 Pâté
-
 Quango
 Quantas
 Quantum
@@ -10762,7 +10750,6 @@ Quizzical
 Quoddy
 Qute Qitty
 Qwilleran
-
 Rachel
 Rachel (from the TV sitcom "Friends")
 Rachel (from the tv-series "Friends")
@@ -11363,7 +11350,6 @@ Ryder
 Ryeli
 Ryelle
 Ryon
-
 Sabbath
 Sabby
 Sabella
@@ -13164,7 +13150,6 @@ Syndrome (after the character in the movie "The Incredibles")
 Synergy
 Syntax
 Syracuse
-
 T.M. (Tex Mex)
 T.M. (Thomas Magnum)
 T.N.T.
@@ -14302,7 +14287,6 @@ Tyson
 Tytain
 Tzitzi
 Tzitzulica
-
 Uki
 Ulee
 Ulian
@@ -14380,7 +14364,6 @@ Uwe
 Uzee
 Uz
 Uzo
-
 Valja
 Valkyrie
 Valleygirl
@@ -14548,7 +14531,6 @@ Vouvray
 Voyager
 Vroom Vroom
 Vulcan
-
 Whitenose
 Whiteshoes
 Whitey
@@ -14806,7 +14788,6 @@ Xuxa la Gata
 Xylon
 Xylophone
 Xzana (pronounced Zana)
-
 Yawgmoth
 Yawhmoth
 Yawney
