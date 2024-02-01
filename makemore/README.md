@@ -15,7 +15,7 @@ Current implementation follows a few key papers:
 - GRU, following [Kyunghyun Cho et al. 2014](https://arxiv.org/abs/1409.1259)
 - Transformer, following [Vaswani et al. 2017](https://arxiv.org/abs/1706.03762)
 
-### Usage
+Usage
 
 The included `names.txt` dataset, as an example, has over 15,000 cat names I pulled off the website "www.kessels.com"
 
@@ -31,15 +31,15 @@ Ulee
 Let's point the script at it:
 
 ```bash
-$ python makemore.py -i names.txt -o names
+python makemore.py -i names.txt -o names
 ```
 
 Training progress and logs and model will all be saved to the working directory `names`. The default model is a super tiny 200K param transformer; Many more training configurations are available - see the argparse and read the code. Training does not require any special hardware, it runs on my Macbook Air and will run on anything else, but if you have a GPU then training will fly faster. As training progresses the script will print some samples throughout. However, if you'd like to sample manually, you can use the `--sample-only` flag, e.g. in a separate terminal do:
 
 ```bash
-$ python makemore.py -i names.txt -o names --sample-only
+python makemore.py -i names.txt -o names --sample-only
 ```
 
-### License
+License
 
 MIT
