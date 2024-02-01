@@ -67,8 +67,6 @@ V. Deploying and Improving the Chatbot
 
 VI. Conclusion
 
---- A. Recap of the key points discussed in the blog post.
+--- A. Emphasizing the potential of creating an AI like Chat-GPT from scratch.
 
---- B. Emphasizing the potential of creating an AI like Chat-GPT from scratch.
-
---- C. Encouragement for readers to explore and contribute to the field of AI chatbot development.
+--- B. Encouragement for readers to explore and contribute to the field of AI chatbot development.
