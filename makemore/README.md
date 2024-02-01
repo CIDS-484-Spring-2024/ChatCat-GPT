@@ -19,7 +19,7 @@ Usage
 
 The included `names.txt` dataset, as an example, has over 15,000 cat names I pulled off the website "www.kessels.com"
 
-```
+```text
 Alchemy
 Fluffy
 Zelda
