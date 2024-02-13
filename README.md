@@ -1,4 +1,9 @@
 # ChatCat-GPT
+----------------------------------------------------------------
+
+https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII
+
+----------------------------------------------------------------
 
 This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically.
 
