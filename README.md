@@ -1,10 +1,17 @@
-# ChatCat-GPT
+Current progress update - 02/17/2024
+
+adding a tokenizer called tiktoken. I believe this is the best option for python based AIs. I still am learning all of the requirements to make an AI run so my first milestone video may not have been very clear. My outline was still accurate but it is a ton of learning and I am unsure if I will be able to complete the project by semesters end.
+
+I do feel confident in having a working model of some sort accomplished. Hopefully before milestone 2!
+----------------------------------------------------------------
+
 ----------------------------------------------------------------
 This is the link to my 5 minute milestone 1 video
 
 https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII
 ----------------------------------------------------------------
 
+# ChatCat-GPT
 This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically.
 
 I love cats and wanted to create or replicate something similar to Chat-GPT to further my understanding while gaining knowledge about Generative Pre-trained Transformers (GPT).
