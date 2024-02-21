@@ -5,7 +5,7 @@ Current progress update - 02/20/2024
 
 added the GPTtrainingsample folder. This folder has python code (use kernel 3.12.1 to make it work when it asks which environment to use)
 This code takes the input.txt file which is a list of cat names. It then creates its own
-list of names that are unique and different from the 15000+ names on the input.txt file
+list of names that are unique and different from the 12000+ names on the input.txt file
 
 You can do this on your own computer using VS code. (you can replace the input.txt file with your own.)
 ----------------------------------------------------------------
