@@ -1644,46 +1644,15 @@ Bussetta
 Bussy
 Busta
 Buster
-Buster Brown
-Buster Buster Feather Duster
-Buster Crab
-Buster Crabbe
-Buster Kitten
-Bustopher Jones
 Butch
-Butch Catsidy
 Buter
 Buterscotch
 Buteska
 Butkus
 Butler
-Butt
-Butt Nimbus Wacket
-Butter
-Butterball
-Butterbean
-Butterbutt
-Buttercup
-Butterfinger
-Butterfingers
-Butterfly
-Buttermilk
-Butternut
 Butters
-Butterscotch
-Buttersnap
-Butterworth
-Butthead
-Button
-Buttons
-Buttooskie
-Butts
 Buyo
 Buzby
-Buzlingtonian Gingerbits
-Buzz
-Buzz Balls
-Buzz Lightyear
 Buzzard
 Buzzy
 Byron
@@ -1706,13 +1675,10 @@ Candace
 Candis
 Candsy
 Candy
-Candy Cane
-Candy Corn
 Candycane
 Candyman
 Canelle
 Canelo
-Canine Chaser
 Canis
 Cannoli
 Canterbury
@@ -1729,27 +1695,11 @@ Cappy
 Capreesch
 Caprice
 Capricorn
-Captain
-Captain Cat
-Captain Caveman
-Captain Claws
-Captain Cuddlepuss
-Captain Cuddles
-Captain D
-Captain Fluffy Pants
-Captain Furface
-Captain Jack
-Captain Kirk
-Captain Midnight
-Captain Nemo
-Captain Picard
-Captain Smoky
 Cara
 Cara de Changa
 Caradoc
 Caramba
 Caramel
-Caramel Cat
 Caramelo
 Caramia
 Carbon
@@ -1767,32 +1717,25 @@ Carlyle
 Carmel
 Carmello
 Carmen
-Carmen Sandiego
 Carnation
 Carob
 Carolina
 Caroline
-Carolus Rex
 Carolyn
 Carousel
 Carpet Gator
 Carraway
 Carrie
-Carrie Chapman Cattt
-Carrie Nation
 Carrot
 Carson
-Carson Elliot Andrew
 Carter
 Cartier
 Cartman
-Cartoon Kitty
 Cartouche
 Caruso
 Casablanca
 Casanova
 Casbah
-Case Closed
 Casee
 Casey
 Cash
@@ -1863,12 +1806,6 @@ Catte
 Cattelina
 Cattia
 Cattie
-Cattilla The Hon
-Cattle Vania
-Cattspurr
-Cattulus
-Cattus
-Catty the cat
 Cattzenn
 Caty
 Catzilla
@@ -1879,7 +1816,6 @@ Caviar
 Cayan
 Cayce
 Cayenne
-Cayenne Pepper
 Cayley
 Ceasar
 Ceaser
@@ -1890,7 +1826,6 @@ Cecile
 Cecilia
 Cecily
 Cedric
-Cedric the Red
 Ceefer
 Ceezer
 Cefa
@@ -1930,8 +1865,6 @@ Chaffon
 Chai
 Chaia
 Chainsaw
-Chairman Meow
-Chalchiuhtlicue
 Chalet
 Chalk
 Challenger
@@ -1946,13 +1879,11 @@ Champs
 Chan
 Chance
 Chandler
-Chandler Bing
 Chandon
 Chandra
 Chanel
 Change
 Changeling
-Chani Tailchaser
 Channa
 Chantel
 Chantelle
@@ -1973,25 +1904,10 @@ Charleen
 Charlemagne
 Charlene
 Charles
-Charles Darwin
-Charles Montgomery Burns
 Charleston
 Charley
 Charley Brown
-Charli Lickin Dickens
 Charlie
-Charlie Boy
-Charlie Brown
-Charlie Brown Cat
-Charlie Bucket
-Charlie Chan
-Charlie Chaplin
-Charlie Choo
-Charlie Chubbs
-Charlie Joe
-Charlie Q. Bopper
-Charlie Sooty Garfield
-Charlie Tuna
 Charlotte
 Charm
 Charmer
@@ -2018,8 +1934,6 @@ Chavo
 Chaya
 Chaz
 Che Guevara
-Cheap Thrills
-Cheap Trills
 Chec
 Checca
 Check
@@ -2032,16 +1946,13 @@ Cheeko
 Cheeks
 Cheeky
 Cheerio
-Cheerleader
 Cheers
 Cheeseball
 Cheeseburger
 Cheesecutter
 Cheeser
-Cheesey Annett
 Cheesie
 Cheesy
-Cheesy Poof
 Cheeta
 Cheetah
 Cheetara
@@ -2057,13 +1968,8 @@ Chelsea
 Chemo
 Cher Bear
 Cherokee
-Cherokee Cherrypie
 Cherrie
 Cherry
-Cherry Monster
-Cherry Pie
-Cherry Pig
-Cherry Plump
 Cherub
 Cherus
 Chery
@@ -2115,7 +2021,6 @@ Chikapoo
 Chilawack
 Chile
 Chili
-Chili Pepper
 Chills
 Chimi
 Chimichanga
@@ -2124,7 +2029,6 @@ China
 Chinchilla
 Chinette
 Chinnie
-Chinny Chin Chin
 Chino
 Chinois
 Chinook
@@ -2198,27 +2102,6 @@ Christoper
 Christy
 Chrome
 Chrysoberyl
-Chub Chub Kitty
-Chubbers
-Chubbette
-Chubbie
-Chubbles
-Chubbs
-Chubby
-Chubcub
-Chubfish
-Chublybumkins
-Chubs
-Chubserelli
-Chuck
-Chuckie
-Chuckie Cheeser
-Chuckie Joseph
-Chucklehead
-Chuckles
-Chucky
-Chula
-Chulzpa
 Chumbles
 Chumley
 Chump
@@ -2274,7 +2157,6 @@ Cinjun
 Cinnabar
 Cinnabun
 Cinnamon
-Cinni Mini
 Cinnomin
 Cino
 Cinthia
@@ -2286,7 +2168,6 @@ Cirocco
 Cirrus
 Cisco
 Cissy
-Cit Bolon Tum
 Citron
 Citrus
 Civetta
@@ -2375,9 +2256,6 @@ Coca
 Cochice
 Cockpit
 Coco
-Coco Bean
-Cocoa
-Cococabana
 Coconut
 Cocopuff
 Coda
@@ -2388,8 +2266,6 @@ Cohen
 Coke
 Cola
 Colby
-Cole
-Cole Porter
 Coleco
 Colette
 Colla
@@ -2620,7 +2496,6 @@ Cy
 Cyan
 Cyann
 Cybermax
-Cyclohexitol Inositol
 Cyclops
 Cyd
 Cygnus
@@ -2632,13 +2507,10 @@ Cyparissus
 Cypress
 Cyprus
 Cyrano
-Cyrano de Beaurecat
 Cyril
 Cyrus
-Cyrus Rumblethump
 Czar
 Dani
-Dani California
 Dania
 Daniel
 Danielle
@@ -3772,7 +3644,6 @@ Flopper Bopper
 Flopsy
 Florence
 Florida
-Florénda
 Flossy
 Flounder
 Flower
@@ -11143,24 +11014,18 @@ Tubbs
 Tubby
 Tubs
 Tuchie
-Tuchie Poo
 Tuck
 Tuck
 Tucker
 Tucksy
 Tucky
 Tuco
-Tuddy Woody
 Tudor
 Tuesday
-Tuesday Molly
 Tuey
 Tuff
-Tuff Cookie
-Tuff Stuff
 Tuffster
 Tuffy
-Tuffy Cat
 Tug
 Tugboat
 Tugger

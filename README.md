@@ -1,3 +1,5 @@
+# ChatCat-GPT
+
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -5,9 +7,10 @@ Current progress update - 02/20/2024
 
 added the GPTtrainingsample folder. This folder has python code (use kernel 3.12.1 to make it work when it asks which environment to use)
 This code takes the input.txt file which is a list of cat names. It then creates its own
-list of names that are unique and different from the 12000+ names on the input.txt file
+list of names that are unique and different from the 10000+ names on the input.txt file
 
 You can do this on your own computer using VS code. (you can replace the input.txt file with your own.)
+
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -15,18 +18,21 @@ Current progress update - 02/17/2024
 
 adding a tokenizer called tiktoken. I believe this is the best option for python based AIs. I still am learning all of the requirements to make an AI run so my first milestone video may not have been very clear. My outline was still accurate but it is a ton of learning and I am unsure if I will be able to complete the project by semesters end.
 
-I do feel confident in having a working model of some sort accomplished. Hopefully before milestone 2!
+I do feel confident in having a working model of some sort accomplished. Hopefully before milestone 2
+
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 This is the link to my 5 minute milestone 1 video
 
-https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII
-----------------------------------------------------------------
+<https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII>
 
 ----------------------------------------------------------------
 
-# ChatCat-GPT
+----------------------------------------------------------------
+
+ChatCat-GPT
+
 This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically.
 
 I love cats and wanted to create or replicate something similar to Chat-GPT to further my understanding while gaining knowledge about Generative Pre-trained Transformers (GPT).
@@ -49,7 +55,6 @@ I. Introduction
 
 --- C. Importance of creating an AI like Chat-GPT from scratch.
 
-
 II. Understanding the Basics of Natural Language Processing (NLP)
 
 --- A. Explanation of NLP and its role in chatbot development.
@@ -57,7 +62,6 @@ II. Understanding the Basics of Natural Language Processing (NLP)
 --- B. Overview of key NLP concepts such as tokenization, word embeddings, and language modeling.
 
 --- C. Importance of data preprocessing and cleaning for NLP tasks.
-
 
 III. Building the Neural Network Architecture
 
@@ -69,7 +73,6 @@ III. Building the Neural Network Architecture
 
 --- D. Discussion on fine-tuning and transfer learning for chatbot development.
 
-
 IV. Training the AI Model
 
 --- A. Gathering and preprocessing training data.
@@ -80,7 +83,6 @@ IV. Training the AI Model
 
 --- D. Importance of iterative training and model evaluation.
 
-
 V. Deploying and Improving the Chatbot
 
 --- A. Discussion on deployment options for the AI chatbot.
@@ -90,7 +92,6 @@ V. Deploying and Improving the Chatbot
 --- C. Overview of techniques for handling user queries and generating appropriate responses.
 
 --- D. Ethical considerations and guidelines for responsible AI chatbot development.
-
 
 VI. Conclusion
 
