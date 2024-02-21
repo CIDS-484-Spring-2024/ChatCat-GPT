@@ -1,6 +1,3 @@
-A Cappella
-A Cat
-A Net
 Aaargh
 Aaliyah
 Aaron
@@ -69,7 +66,6 @@ Adacat
 Adagio
 Adakin Skywalker
 Adam
-Adam And Eve
 Adams
 Adcom
 Addie
@@ -259,7 +255,6 @@ Alistair Jones
 Alix
 Aliza
 Alize
-All This and Heaven Too
 Alla
 Alladin
 Allan
@@ -322,20 +317,15 @@ Amber
 Amberwavesoffur
 Ambidextrous
 Ambiguity
-Ambiguous Eunuch FarFromScrewin
+Ambiguous
 Amble
-Ambriel Zodiac, guardian angel of Gemini
+Ambriel
 Ambrose
-Ambrose Ambrogo
-Ambrose Bugger-Boo Pendragon
 Ambrosia
-Ambrosia Jean Marie
 Ambrosious
 Ambush
 Amby
 Amelia
-Amelia Air-Cat
-Amelia Earhart
 Amelie
 Amen-Ra
 Amenhotep
@@ -403,7 +393,6 @@ Andrea
 Andrea Majorie
 Andreas
 Andrew
-Andrew Elliott James David
 Andrew Jackson
 Android
 Andromeda
@@ -487,7 +476,6 @@ Antonia
 Antonio
 Antonio Banderas
 Antony
-Antony And Cleopatra
 Antos
 Antryg
 Anubis
@@ -496,7 +484,6 @@ Anya
 Apache
 Aphrodisia
 Aphrodite
-Aphrodite, The Kitten Of Love
 Apie
 Apocalypse
 Apocalypse Now
@@ -693,16 +680,13 @@ Audubon
 Augger-Dogger
 Auggie
 Auggie Doggie
-Auggie or Augie
 Augie
 August
 August Nights
 Augusta
-Auguste Eighth Month.
 Augustiko
 Augustin
 Augustina
-Augustine "Gus" Hoover
 Augustus
 Aunt Esther
 Aunt Jemima
@@ -825,12 +809,7 @@ Barnaby Jones
 Barnacle
 Barnacle Bill
 Barney
-Barney Cat
-Barney Giggles
-Barney Googles
-Barney Munsch O'Malley
 Baron
-Baron Mungojerrie Chaia Reisinho von Rumplestiltzkin-Sylvester
 Baroque
 Barou
 Barrett
@@ -846,7 +825,6 @@ Bartholomew
 Bartleby
 Bartlee
 Bartles
-Bartles and James
 Bartlett
 Bartleyboo
 Barton
@@ -884,7 +862,6 @@ Bathsheba
 Bation
 Batly
 Batman
-Batman And Robin
 Battina
 Battlecat
 Battlescar Gallacticat
@@ -930,10 +907,6 @@ Beanie Baby
 Beanor
 Beans
 Bear
-Bear Bear
-Bear Cat
-Bear of Very Little Brain
-Bear-Bear
 Bear-we-got
 Beard
 Beardpuller
@@ -961,19 +934,11 @@ Beaudinkle
 Beaudreaux
 Beaufort
 Beauragard
-Beauregard
-Beautiful
-Beautiful Blue Eyes
-Beautty
-Beauty
-Beauty School Drop-Out
-Beauty the Cat
 Beaux
 Beauxcephus
 Beaver
 Beaver Sue
 Beavis
-Beavis And Butthead
 Bebby
 Bebe
 Bebee
@@ -983,7 +948,6 @@ Bebo
 Bechamel
 Becka
 Beckett
-Beckett's Lady Ruth
 Beckham
 Becky
 Bedford
@@ -1017,14 +981,12 @@ Bees
 Beeswax
 Beethoven
 Beetle
-Beetle E. Bailey
 Beetlejuice
 Beeyoootiful
 Beez Louise
 Beezer
 Beezlebub
 Beezo
-Beggin' Earl Jackson
 Begonia
 Behemoth
 Behr
@@ -1035,7 +997,6 @@ Bela Lugosi
 Belabella
 Belah
 Belfry
-Belgarath the Sorcerer
 Belinda
 Belka
 Bell
@@ -1066,7 +1027,6 @@ Belvy
 Belzer
 Bemol
 Ben
-Ben And Jerry
 Ben Her
 Ben Hur
 Benazir
@@ -1078,8 +1038,6 @@ Bengal
 Bengali
 Benito
 Benjamin
-Benjamin Franklin Purrs
-Benjamin Norman Bates
 Benji
 Benkelman
 Bennett
@@ -1087,7 +1045,6 @@ Benni
 Bennie
 Bennington
 Benny
-Benny von Munchkin
 Bensien
 Benson
 Bentley
@@ -1125,7 +1082,6 @@ Besmyertnik
 Bess
 Bessemer
 Besseya
-Besseya The Fearless
 Bessie
 Best
 Bestling
@@ -1140,8 +1096,6 @@ Betsie
 Betsy
 Betsy Rose
 Bette
-Bette Davis
-Bette Davis Eyes
 Bettilla
 Bettina
 Betty
@@ -1166,60 +1120,6 @@ Biddy
 Bierstadt
 Bifakitty
 Biff
-Big
-Big Abe
-Big Baby
-Big Bad Baby Beau
-Big Bad Baby Bentley Billy Joe Bob
-Big Bag
-Big Bear
-Big Beau
-Big Ben
-Big Black
-Big Boo
-Big Boy
-Big Cat
-Big Dipper
-Big Dog
-Big Fat Monster Cat
-Big Fat Yellow Cat aka Ringo
-Big Foot
-Big Galoot
-Big Girl
-Big Guy
-Big Hairy Cat
-Big Headed Galoot
-Big Kitty
-Big Kitty Pye
-Big Lummox
-Big Mac
-Big Mama
-Big Min
-Big Mom
-Big Momma Kitty
-Big Precious
-Big Puss
-Big Red
-Big Runt
-Big Skinny Cat
-Big Time
-Big White Boy
-Big White Boy Kitty
-Big Yellow Cat
-Big-Baby Blubber-Whimp
-Bigboy
-Bigface
-Bigfoot
-Bigfoot The Brain Dead Kitty
-Bigga Boy
-Bigger
-Biggie Boy
-Biggles
-Bigglesworth
-Bigguy
-Bigkitty
-Bigmac
-BigMouth
 Bijou
 Biker
 Biker Coon
@@ -1229,7 +1129,6 @@ Bilbo
 Bilbo Baggins
 Bill
 Bill Howard
-Bill The Hell Cat
 Bill Widders
 Billabong
 Billbull
@@ -1248,7 +1147,6 @@ Bina
 Binbin
 Bindi Sue
 Bing
-Bing and Bong
 Bing Crosby
 Bing-ben
 Bingo
@@ -1271,7 +1169,6 @@ Birthday
 Bis
 Biscotti
 Biscuit
-Biscuit The Neversick
 Bishop
 Bisket
 Bismarck
@@ -1279,9 +1176,6 @@ Bisou
 Bister
 Bistro
 Bit
-Bitch
-Bitch Ass
-Bitchie-Vitchie
 Bitey
 Bitney
 Bits
@@ -1293,41 +1187,11 @@ Bitters
 Bitty
 Bitty-bit
 Bitu
-Bixbee Tortise Shell
 Bizkit
 Bizzy
 Bj
 Bjork
 Bjte Noir
-Black
-Black A
-Black Beauty
-Black Bomber
-Black Boy
-Black Cat
-Black Elk
-Black Eyes
-Black Foot
-Black Imp
-Black Jack
-Black Kitten
-Black Kitty
-Black Kitty Cat
-Black Label
-Black Lady
-Black Magic Secret
-Black Magic Woman
-Black Mamba
-Black Moustache
-Black Nettik
-Black Onyx
-Black Pearl
-Black Peter
-Black Sambuca
-Black Spot
-Black Stuff
-Black Tabby
-Black Velvet
 Blackberry
 Blackbird
 Blackey Blue Eyes
@@ -1343,12 +1207,10 @@ Blaise
 Blake
 Blanca
 Blanche
-Blanche the Cat
 Blarney
 Blaster
 Blaxie
 Blaze
-Blaze Starr Bleach
 Blea
 Bleach
 Blender Guts
@@ -1367,8 +1229,6 @@ Blitzen
 Blizzard
 Blob Cat
 Blobcat
-Blonde Bombshell
-Blondie
 Bloody Wanker
 Blooper
 Blosom
@@ -1379,28 +1239,9 @@ Blotto
 Blu
 Blubber
 Blue
-Blue Baby
-Blue Bell
-Blue Bijou
-Blue Boy
-Blue Comet
-Blue Danube
-Blue Emerald
-Blue Eyes
-Blue Fuzzy Tiger
-Blue Light Special
-Blue Monday
-Blue Money
-Blue Passion
-Blue Rocket
-Blue Sapphire
-Blue's Baby
-Blue's Baby Beatrice
 Bluebeard
 BlueBelle
 Blueberry
-Blueberry Muffin
-Blueberry Peach Parfait
 Bluella
 Blueprint
 Blues
@@ -1408,8 +1249,6 @@ Bluestar
 Bluey
 Blunder
 Blur
-Blurry Cat
-Blurry Kitty
 Blurt
 Bluster
 Bluto
@@ -1432,8 +1271,6 @@ Bobbin
 Bobbobmicbobob
 Bobbos
 Bobby
-Bobby Brown
-Bobby Socks
 Bobbysocks
 Bobcat
 Bobet
@@ -1446,17 +1283,14 @@ Boccaccio
 Bocce
 Bocelli
 Bocephus
-Bocephus Twilliger
 Bodacious
 Bodeer
 Bodhi
-Bodhi Or Bodhisattva
 Bodi
 Bodie
 Body
 Boffin
 Bogart
-Bogart Or Bogie
 Bogey
 Bogeyman
 Boginator
@@ -1505,7 +1339,6 @@ Bonita
 Bonkers
 Bonkers Justice
 Bonnie
-Bonnie And Clyde
 Bonnie Blue
 Bonnie Mewman
 Bonny/Bonnie
@@ -1595,7 +1428,6 @@ Borboleta
 Border
 Borg
 Boris
-Boris And Natasha
 Boris Baryshnakat
 Borris
 Borscht
@@ -1613,14 +1445,12 @@ Botelli
 Botham
 Botitas
 Botswana
-Boubie Or Bouba
 Bouboule
 Boucane
 Boudicca
 Bouffant
 Bougainvillea
 Bouggie
-Boulis Greek for "chubby"
 Bounce
 Bouncer
 Bounty
@@ -2241,7 +2071,6 @@ Chandler Bing
 Chandon
 Chandra
 Chanel
-Chang And Eng
 Change
 Changeling
 Chani Tailchaser
@@ -2326,7 +2155,6 @@ Chee-Chee
 Chee-to
 Chee-toes
 Cheech
-Cheech And Chong
 Cheeko
 Cheeks
 Cheeky
@@ -2822,7 +2650,6 @@ Conway Kitty
 Conway Twitty
 Coo
 Cookie
-Cookie And Cutter
 Cookie Dough
 Cookie Monster
 Cookies-n-Cream
@@ -3122,7 +2949,6 @@ Data
 Dave
 Davey
 David
-David And Goliath
 David Hasselhoff
 Davinci
 Dawn
@@ -3315,7 +3141,6 @@ Dill
 Dillie Doodle
 Dillinger
 Dillon
-Dilly and Dally
 Dilly Dally
 Dim Sum
 Dimitri
@@ -3392,8 +3217,6 @@ Dobi
 Dobie Gillis
 Doc
 Dock
-Doctor
-Doctor Claw
 Dodecahedron
 Dodge
 Dodger
@@ -3411,7 +3234,6 @@ Doggs
 Doglet
 Doheny
 Doink.
-Dolce Or Dulce
 Dolf
 Doll
 Dolly
@@ -3440,7 +3262,6 @@ Donna
 Donna Jane Perkins
 Donner
 Donneybrook
-Donny And Marie
 Doo-Da
 Doobie
 Doobie Brothers
@@ -3459,7 +3280,6 @@ Dookfree
 Dookie
 Doolittle
 Doonesbury
-Door Knob
 Doozelmog
 Dopey-Dum dum
 Dora
@@ -3514,7 +3334,6 @@ Dr. Seuss
 Dr. Spot
 Dr. Who
 Dr. Zhivago
-Dr. Jekyll And Mr.Hyde
 Draco
 Dracula
 Dracula Book
@@ -3652,8 +3471,6 @@ Ebenezer
 Eberhard
 Ebi
 Ebony
-Ebony and Ivory
-Ebony Lady of the Night
 Ebow
 Ebs
 Echo
@@ -3680,9 +3497,7 @@ Edna
 Edora
 Edsel
 Edseletta
-Eduard the Great
 Edward
-Edward Scissor Paws
 Edwin
 Edy
 EE
@@ -3720,7 +3535,6 @@ Eko
 El Gato
 El Gato Flocko
 El Toro
-El-Ron Hubbard Squash
 Ela
 Elaina
 Elana
@@ -3729,8 +3543,6 @@ Elbee
 Elderberry
 Eldridge
 Eleanor
-Eleanor Rigby
-Eleanor Roosevelt
 Electra
 Elena
 Eleni
@@ -3791,7 +3603,6 @@ Elsa
 Elsie
 Eltie
 Elton
-Elton and John
 Elvee
 Elvie
 Elvira
@@ -3802,7 +3613,6 @@ Elvis Catstello
 Elvis J. Kitty
 Elvis Pretzel
 Elway
-Elwood and Jake
 Em
 Ember
 Embers
@@ -3810,19 +3620,14 @@ Emelia
 Emelian
 Emelita
 Emerald
-Emerald Island Girl
 Emery
 Emil
-Emil the Vicious
 Emilie
-Emiline the Feline
+Emiline
 Emilio
 Emily
-Emily Kristina Patches
 Emis
 Emma
-Emma Elizabeth
-Emma Nintendo Motorboat
 Emma Peel
 Emma-Lee
 Emmalee
@@ -3834,8 +3639,6 @@ Emmy
 Emmy Lou
 Emo
 Emory
-Emperior Creme De Coco
-Emperor Shogun
 Emrys
 Enchantra
 Enchantress
@@ -3878,7 +3681,6 @@ Ernesto
 Ernie
 Eros
 Erpy Cat
-Errand Boy
 Errol
 Ertha Kitt
 Escada
@@ -4136,7 +3938,6 @@ Feonia
 Feral
 Ferapont
 Ferdinand
-Ferdinand de la Casa
 Ferdy
 Fergie
 Fergus
@@ -4323,7 +4124,6 @@ Flop
 Flopper
 Flopper Bopper
 Flopsy
-Flora Or Fauna
 Florence
 Florida
 Florida Kitty
@@ -4354,7 +4154,6 @@ Fluffmister
 Fluffo
 Fluffster
 Fluffy
-Fluffy And Sassy
 Fluffy Bum Mc.Cuddles
 Fluffy Butt
 Fluffy Love
@@ -4417,12 +4216,7 @@ Fortuna
 Fos
 Fosgate
 Foster
-Found
-Four-By
-Four-Legged Reason For Living
-Four-Oh-Seven
 Fox
-Fox "spooky" Mulder
 Foxbat
 Foxi
 Foxie
@@ -4465,7 +4259,6 @@ Frankenfurter
 Frankenstein
 Frankie
 Frankie Blue Eyes
-Frankincense and Purr
 Franklberry Mchooterflurry
 Franklin
 Franklin Blue
@@ -4935,7 +4728,6 @@ Gilda Radner
 Gildo
 Gilgamesh
 Gilligan
-Gilligan And Skipper
 Gilmore
 Gilroy
 Gimi
@@ -5118,7 +4910,6 @@ Goulash
 Goustav
 Graaben
 Grace
-Grace and Glory
 Grace Elizabeth
 Grace Kitty
 Grace Olivia
@@ -5132,8 +4923,6 @@ Graham Crackers
 Gramma
 Gramps
 Grand
-Grand Duke Friedman
-Grand Waffle
 Grandeur
 Grandma
 Grandpaw
@@ -5197,7 +4986,6 @@ Gretzky
 Greven
 Grey
 Grey A
-Grey And White Baby
 Grey Bear
 Grey Cat
 Grey Gatsby
@@ -5291,7 +5079,6 @@ Gumba-gumba
 Gumball
 Gumbo
 Gumby
-Gumby And Pokey
 Gumdrop
 Gummie Bear
 Gummitch
@@ -5488,7 +5275,6 @@ Hiss
 Hissy
 Hissy Face
 Historia
-Hit And Run
 Hizanherz
 Ho Chi
 Ho Kitty
@@ -5712,31 +5498,13 @@ Inkers
 Inkheart after the book by Cornelia Funke
 Inki
 Inkin
-Inkster
-Inkster-Doodle
-Inkus
-Inkus Stinkus Domininkus
-Inky
-Inky Bear
-Inky Dink
-Inky Dinky Doo
-Inky Poo
-Inky-Stinky-Poo
-Inna-gadda-da-vida
-Inspector Gadget
-Inspector Kibble
-Intel Inside
 Intelectus
 Interkitty
-International Man of Mystery
-International Spy Kitty
-Internet
 Intie
 Intrepid
 Intruder
 Invisible
 Invitation
-Io pronounced: Ee-Oh
 Ioannina
 Iodine
 Iona
@@ -5749,11 +5517,6 @@ Irasan
 Irie
 Irina
 Iris
-Irish
-Irish Cream
-Irish Eyes
-Irish Pride
-Irix after the operating system by Silicon Graphics
 Irma
 Iro
 Irresistible
@@ -5761,13 +5524,12 @@ Irving
 Irwin
 Isa
 Isaac
-IsaB short for Isabella
-Isabeau from the movie LadyHawke
+Isa
+Isabeau
 Isabel
 Isabella
-Isabella Jalepeno Gutierrez
 Isabelle
-Isabelle.
+Isabelle
 Isabelly Motts
 Isabelly Motzarelli
 Isadora
@@ -5776,15 +5538,14 @@ Isela
 Isembard
 Isha
 Ishcabible
-Ishido Japanese for "stone"
-Ishkabibble named after a 1940s singer
+Ishido
+Ishkabibble
 Ishmael
 Ishta
-Ishtar goddess
+Ishtar
 Isidor
 Isis
-Iskender Turkish name of Alexander the Great
-Island Girl
+Iskender
 Ismael
 Isodora
 Isolde
@@ -5792,55 +5553,41 @@ Isosceles
 Isotta
 Issabella
 Issac
-Issie after the village "Issoire" in France
+Issie
 Isterband
 Istoobad
-IT
-Ita Conchita Consuela
 Itallia
 Itch
 Itchicus
 Itchy
-Itchy and Scratchy
-Itchy Brother
 Itsy
 Itsy-Bitsy
 Itty
 Itty Bit
-Itty Bitty
-Itty Bitty Pretty Kitty
 Itty-Bits
-Itzpapalotl Aztec mythology: goddess of agriculture
+Itzpapalotl
 Itzy
 Ivan
-Ivan Beauyevitch
-Ivan the Terrible
 Ivana
 Ivar
 Iverson
-Ivory and Ebony
 Ivy
-Ivy League
-Ix Chel Maya mythology: the goddess of the moon
-Ixtab Maya mythology: the goddess of the hanged
-Ixtlilton Aztec mythology: the god of healing, feasting and games
+Ixtab
+Ixtlilton
 Izabella
 Izmail
 Izot
 Izy
 Izzie
 Izzy
-Izzy B
-
 Jade
-Jade Judzia Maria Contessa vosh Kura Jones-shaffer
 Jady
 Jadzia
 Jaeger
 Jaffa
 Jag
 Jagger
-Jago A character in a Victorian book who battled against the odds
+Jago
 Jaguar
 Jai
 Jai Alai
@@ -5854,19 +5601,13 @@ Jakob
 Jakoby
 Jakov
 Jala
-Jalapeno after a chile pepper
+Jalapeno
 Jalina
 Jama
 Jamaica
 Jamal
-Jambo Swahili for "hello"
+Jambo
 Jamee
-James
-James Belushi
-James Brown
-James Dean
-James T. Kirk
-James Taylor
 Jameson
 Jamesopia
 Jamie
@@ -5876,8 +5617,6 @@ Jammer
 Jamocha
 Jana
 Jane
-Jane Furtin
-Jane the Monkey Girl
 Janel
 Janet
 Janie
@@ -5885,7 +5624,7 @@ Janipurr
 Jansen
 Janssen
 Japan
-Jareth after Jareth the Goblin King in the movie 'Labyrinth'
+Jareth
 Jarhad
 Jarhead
 Jarl
@@ -5899,13 +5638,12 @@ Jason
 Jaspa
 Jasper
 Jaspurr
-JassBall after the game Jezzball
+JassBall
 Jassmine
 Jat
 Java
 Java Bean
 Java City
-Java Cup o'
 Javert
 Javex
 Javi
@@ -5915,7 +5653,7 @@ Jaws
 Jax
 Jaya
 Jayce
-Jaymes and Bartles
+Jaymes
 Jazebel
 Jazel
 Jazmine
@@ -5932,15 +5670,9 @@ Jazzpurr
 Jazzy
 Jazzy-Cat
 Jazzycat
-Je T'Aime French for "I love you"
+Je
 Jean
 Jean Luc
-Jean-Claude
-Jean-Clawed Kitty
-Jean-Luc LeChat
-Jean-Luc Picard
-Jean-Luke
-Jean-Paul Gizmondo
 Jeanette
 Jeannette
 Jeannie
@@ -5954,7 +5686,6 @@ Jedi
 Jeebee
 Jeebie
 Jeep
-Jeepers Creepers
 Jeeves
 Jeevesy
 Jeff
@@ -5965,18 +5696,11 @@ Jeffrey
 Jeffry
 Jefrette
 Jekyll
-Jell-o
-Jellaby after the butler in Tom Stoppard's play "Arcadia"
 Jellicle
 Jellico
 Jellifur
 Jello
 Jelly
-Jelly Baby
-Jelly Bean
-Jelly Belly
-Jelly Roll
-Jelly-Belly
 Jellylorum
 Jemima
 Jen
@@ -5989,13 +5713,6 @@ Jennifer
 Jennifur
 Jennifurr
 Jennipurr
-Jenny
-Jenny Any Dots Marovich
-Jenny Craig
-Jenny Eizentier
-Jenny Fur
-Jenny Jones
-Jenny-Le-Strange
 Jenzy
 Jeoffry
 Jeramiah
@@ -6010,12 +5727,7 @@ Jeronimo
 Jerred
 Jerri-cat
 Jerrie
-Jerry after Jerry Garcia, The Grateful Dead
-Jerry from cartoon "Tom and Jerry"
-Jerry Ford
-Jerry Lee after Jerry Lee Lewis
-Jerry Springer
-Jerry Springy
+Jerry
 Jersey
 Jerzey
 Jerzy
@@ -6026,8 +5738,6 @@ Jessabunny
 Jessakitty
 Jessamine
 Jesse
-Jesse James
-Jesse's Girl
 Jesser
 Jessi
 Jessica
@@ -6036,13 +5746,7 @@ Jessie James
 Jessy
 Jester
 Jet
-Jet Boy after the song by New York Dolls
-Jet Ski
-Jet Star
-Jeter after Derek Sanderson Jeter, Yankee's shortstop
 Jethro
-Jethro Dante McFluffers
-Jethro Tull
 Jethrow
 JetStream
 Jetsum
@@ -6057,16 +5761,12 @@ Jezzabella
 Jezzybelly
 Jibbs
 Jibril
-Jig-A-Boots
 Jigga
 Jigger
 Jiggie
-Jiggle Belly
 Jiggles
 Jiggy
-Jiggy Cornflakes
 Jigsaw
-Jiji from the animated movie "Kiki's Delivery Service" "Majo no Takkyuubin"
 Jill
 Jilley
 Jillian
@@ -6075,23 +5775,17 @@ Jilly
 Jim
 Jimal
 Jimeno
-Jimi Hendrix
 Jiminy
 Jimmerson
 jimmpyo
 Jimmy
-Jimmy Sue
-Jimmy T.
 Jin Jin
 Jing
-Jingle Cat
 Jingles
 Jinjee
 Jinksy
 Jinx
-Jinx tiger
 Jinxy
-Jip Jap Pooper Lack
 Jippsie
 Jipsee
 Jissy
@@ -6101,46 +5795,20 @@ Jiwfer
 Jj
 Jo
 Jo Jo
-Jo Jo Bean
-Jo'Briel
 Jo-Jo
 Jo-Ni
-Joan Blue-She
-Joan The Cat
-Joanna after the character in "The Rescuers Down Under" cartoon
+Joanna
 Job
 Jock
 Joe
-Joe Cool
-Joe Friday
-Joe Katz
-Joe-sip
 Joel
 Joeline
 Joelle
 Joely
-Joey
-Joey Bishop
-Joey Elf
-Joey Poos
-Johann Sebastian Bach
-Johann-Sebastian Cat
-Johann-Sebastian Puss
 Johannesburg
 John
-John Cougar Mellencat
-John Cougar Mellocat
-John Deere
-John F. Kitty
-John John
-John Quincy Adams
 Johnnie
 Johnny
-Johnny 5 from the movie "Short Circuit"
-Johnny B. Bad
-Johnny B. Goode
-Johnny Carson
-Johnny Go Round
 Joi
 Joie
 Joie de Vivre
@@ -6148,7 +5816,7 @@ Jojo
 Jojoba
 Joker
 Joli
-Jolie French for "pretty"
+Jolie
 Joliet
 Jolly
 Jona
@@ -6156,13 +5824,10 @@ Jonah
 Jonas
 Jonathan
 Jonathon
-Jonathon Thomas St. John
 Jones
 Jonescat
 Jonesie
 Jonesy
-Jonesy Girl
-Joni Mitchell
 Jonie
 Jonsie
 Joomper
@@ -6174,12 +5839,10 @@ Jordan
 Jordana
 Jordon
 Jordy
-Joris Dutch for George
-Jorje Spanish for George
+Joris
+Jorje
 Joscelin
 Jose
-Jose Canseco
-Jose Luis
 Josee
 Josefina
 Joseph
@@ -6194,114 +5857,84 @@ Josie
 Jossie
 Jotunheimen
 Jovan
-Jovi after Jon Bon Jovi
+Jovi
 Jovian
 Joy
-Joyce after James Augustine Aloysius Joyce, Irish writer and poet
-Jp
-JPS pronounced Japes
-JR
-JR Mewing
-Jr.
+Joyce
 JT
 Jub
-Jubei after the character in the Japanese anime "Ninja Scroll"
+Jubei
 Jubilation
 Jubilee
 Judas
 Judd
 Judge
-Judge Judy
 Judy
-Judy Agnew
-Judy Blue-Eyes
 Juggernaut
 Juggysmooch
 Jughead
 Juice
 Juilee
 Juilet
-Juji after "Juji Garame", the name of a throw in the Aikido martial art
+Juji
 Juju
 Jujube
 Jukebox
-Jukebox Hero
 Julep
 Jules
-Jules Winfield
 Julia
-Julia Torped
+Julia
 Julian
 Julie
-Julie Sombrero
-Juliet and Romeo
+Juliet
 Juliette
 Julio
-Julius after Julius Caesar
-Julius from the book "Julius, the baby of the world" by Kevin Henkes
+Julius
 Jumal
 Jumanji
 Jumbo
 Jumpei
 Jumper
-Jumpin Jacques Flash
+Jumpin
 Jumpiter
 Jumpy
 Junco
 June
-June Bug
-June Bugger Boo
 Junebug
 Junebugg
-Jungle Girl
-Jungle Jim
-Jungle Kitty
 Juninho
 Junior
-Junior Mint
-Junior Partner
 Juniper
 Junkyard
-Junkyard Dog
 Juno
-Jup Jup after the character in the children's show "Hi-5"
+Jup Jup
 Jupiter
 Jurgen
-Jury Duty
 Just
-Just a Minute
-Just in Time
-Just Jack after the character on the Will & Grace tv show
 Justa
-Justa Boy
-Justa Girl
-Justa Kitty
 Justice
 Justin
-Justin Tyme
 Justine
 Justus
 Justy
 Jutta
 Jynx
-Jynxetta Puny-pants sweety-kitty Pendragon
+Jynxetta
 Jyrky
 Jzero
 Kaepa
 Kafir
 Kafka
-Kafka Jabat
-Kahlan after the character in Terry Goodkind's "Sword of Truth" novels
-Kahlil after Lebanese writer Kahlil Gibran
+Kahlan
+Kahlil
 Kahlua
-Kahlua and Cream
 Kahneeta
 Kahula
 Kahuna
 Kai
 Kaileb
-Kailin Irish for "girl"
-Kailua city on the Hawaiian island of Oahu
+Kailin
+Kailua
 Kairi
 Kairo
 Kaiser
@@ -6324,29 +5957,24 @@ Kalamazoo
 Kaleidoscope
 Kaleipuss
 Kalhia
-Kali after the Indian goddess of death
+Kali
 Kali-cat
-Kalico Kat
-Kalico Kidd
+Kalico
 Kalifornia
 Kalinik
 Kalli
-Kallisti from a Greek myth
+Kallisti
 Kallisticat
 Kally
 Kalyn
 Kamala
 Kamere
 Kami
-Kami Kaze Kutie
-Kami Kaze Kutie Kitty
-Kami Wami
-Kami-kaze
-Kamin From Star trek episode "Inner Light"
-Kamina after the El Camino car
+Kamin
+Kamina
 Kamper
 Kamu
-Kan-u-Uayeyab Maya mythology: the god who guarded cities
+Kan-u-Uayeyab
 Kana
 Kanace
 Kanada
@@ -6356,21 +5984,16 @@ Kandy
 Kane
 Kanga
 Kanji
-Kannika Japanese for "jasmine like blossom"
+Kannika
 Kantishna
-Kanye after the rap artist Kanye West
+Kanye
 Kao
-Kaos Kitty
 Kapiton
-Kaptain Kitty Kat
 Kara
 Karakall
-Karakall Kat
 Karaoke
-Karate Kid
 Kareball
 Kareem
-Kareem Abdul-JumpsFar
 Kareena
 Karen
 Kari
@@ -6384,15 +6007,14 @@ Karschikiis
 Kasablanka
 Kasey Jo
 Kasha
-Kashin from Flash Gordon cartoon
+Kashin
 Kashka
-Kashka Russian for "kitten"
 Kashmir
 Kashmire
 Kasia
 Kasian
 Kaska
-Kaspaas Afrikaans for Casper
+Kaspaas
 Kasper
 Kaspurr
 Kassandra
@@ -6406,18 +6028,15 @@ Kat Sam
 Katalina
 Katana
 Katarina
-Katawnay play on Vitani, character in "The Lion King 2"
+Katawnay
 Katayama
 Kate
-Kate and Allie
-Kate The Cat
 Katelyn
-Katerchen German for "small cat"
+Katerchen
 Katerina
-Katharina Witt
+Katharina
 Katherine
-Katherine the Gray
-Kathi after a character in the Lymond novels by Dorothy Dunnett
+Kathi
 Kathleen
 Katia
 Katiat
@@ -6431,10 +6050,9 @@ Katie Lynn
 Katie Scarlet
 Katie-Kins
 Katina
-Katinka after the character in the movie "Zoolander"
+Katinka
 Katish
 Katisha
-Katisha Tish Push of Pitty-Tu
 Katita
 Katitzu
 Katka
@@ -6443,16 +6061,16 @@ Kato
 Katona
 KaToosa
 Katrina
-Katrine The Great
+Katrine
 Katrinka
 Kattaiffi
 Katten
 Kattie
 Katty
-KattyWomper Katskill, Doctor of Womptometry
+KattyWomper
 Katy
 Katya
-Katze German for "cat"
+Katze
 Katzl
 Katzu
 Kavan
@@ -6461,7 +6079,6 @@ Kay Bee
 Kaya
 Kaybee
 Kaybill
-Kayce Marie
 Kaycee
 Kayla
 Kayle
@@ -6477,18 +6094,14 @@ Kazbah
 Kazimir
 Kazmir
 Kazooie
-Kazza The Second
 Kazzie
 Kazziebah
-KC-10 US Air Force refuelling jet
 Kea
 Keanu
 Keanu Kaki
 Kechi
 Keddie
-Kedi Turkish for "cat"
 Kee
-Kee-Koh-Pookie-Boo
 Keebler
 Keegan
 Keekee
@@ -6504,8 +6117,6 @@ Keeper
 Keepers
 Keepurrs
 Keesha
-Keesha Julian
-Keesha Kitty
 Keetah
 Keets
 Keeva
@@ -6516,13 +6127,12 @@ Kegyma
 Keifer
 Keiki
 Keiko
-Keiko Japanese for "happy" or "beloved"
-Keira after the actress Keira Knightley
+Keiko
+Keira
 Keiran
-Keisa Finnish for "cat"
+Keisa
 Keith
 Keke
-Keko-T The "T" stands for "Trouble"
 Kekoa
 Kel
 Kelby
@@ -6532,20 +6142,17 @@ Kelli
 Kellogg
 Kelloggs
 Kelly
-Kelly Temp Cat
 Kelou
 Kelsey
 Kelso
 Kelvin
 Kemage
 Ken
-Ken And Barbie
 Kenai
 Kenan
 Kendall
 Kendra
-Kendra E'Kieron
-Kenji after Michael Kenji Shinoda, from the band Linkin Park
+Kenji
 Kennedy
 Kenny
 Kenny Gee
@@ -6555,13 +6162,12 @@ Kensington
 Kentucky
 Kenya
 Keo
-Keone Hawaiian for "little rascal"
+Keone
 Kepler
 Kepurr
 Keri
 Kermit
-Kermit the Kat
-Kermodi after the white bear in B.C.
+Kermodi
 Kerouac
 Kerowyn
 Kerry
@@ -6584,11 +6190,11 @@ Keyter
 Kezia
 Khaki
 Khaleesi
-Khamu Egyptian for "beloved"
+Khamu
 Khan
 Khara
 Khatt
-Khayman character in Anne Rice's vampire chronicles
+Khayman
 Khina
 KhitKhat
 Khmer
@@ -6597,7 +6203,6 @@ Khomeini
 Khyber
 Ki Ling
 Kia
-Kia Ora Traditional Maori for "hello" and/or "goodbye"
 Kiana
 Kiara
 Kibbeling
@@ -6608,7 +6213,6 @@ Kid
 Kid E. Kat
 Kidder
 Kidino
-Kidosho Swahili for "very beautiful woman"
 Kiefer
 Kielbasa
 Kieri
@@ -6620,22 +6224,16 @@ Kikki Neko
 Kikky
 Kiko
 Kiku
-Kiku Japanese for 'chrysanthemum'
 Kila
-Kilby after Craig Kilborn of the Late, Late Show
+Kilby
 Killalldogs
 Killashandra
 Killer
 Killer Cat
 Killian
-Killing Danish for "kitten"
 Killmouski
 Kilo
 Kim
-Kim Chee
-Kim Nuvoletta
-Kim Possible after the cartoon
-Kim The Dreaded Hamwort
 Kimba
 Kimbra
 Kimbundu
@@ -6647,16 +6245,6 @@ Kimmy Kimmy
 Kimo
 Kimykat
 Kincaid
-Kinda Fat
-King
-King Arther
-King Caesar
-King Eric
-King Grumble The Good
-King Kong
-King Louie XIV
-King PooPoo
-King Tut
 Kingarthur
 Kingfisher
 Kinglear
@@ -6665,12 +6253,8 @@ Kingsford
 Kingsley
 Kingston
 Kinibari
-Kinich Kakmo Maya mythology: the sun god
 Kink
 Kinko
-Kinky
-Kinky-Pie
-Kinky-Poo
 Kinny
 Kino
 Kinsey
@@ -6684,10 +6268,8 @@ Kip
 Kiph
 Kipkat
 Kipling
-Kipling after Rudyard Kipling, writer
 Kipp
 Kipper
-Kipper Moxley Fiercely Panthure Jackson-Pop
 Kippiness
 Kippy
 Kir Kira
@@ -6701,35 +6283,14 @@ Kirisawa
 Kirk
 Kirkwood
 Kirsten
-Kirstie Alley-Kat
 Kirsty
-Kisa Russian for "kitty"
+Kisa
 Kisan
 Kisha
-Kisin Maya mythology: the evil earthquake spirit
+Kisin
 Kismet
-Kiss Kiss
-Kiss Me Kate
-Kiss Me Kitty
 Kissa
 Kissafur
-Kisses
-Kissi-fur
-Kissie
-Kissie Madonna
-Kissimmee Baby
-Kissin-Cat
-Kissy
-Kissy Kitty
-Kissycat
-Kit
-Kit Cat
-Kit Karson
-Kit Kat
-Kit Kat Bar
-Kit'n Hook
-Kit-Kat
-Kit-Kit
 Kita
 Kitalie
 Kitamus
@@ -6738,11 +6299,9 @@ Kitara
 Kitbag
 Kitbull
 Kitchy
-Kitchy-Koo
 Kite
-Kite String
-Kithic Gaelic for "left handed"
-Kiti Siberian Yupik for "cat"
+Kithic
+Kiti
 Kitiara
 Kiticorp
 Kitina
@@ -6753,71 +6312,19 @@ Kitsch
 Kitsen
 Kitska
 Kitsu
-Kitsune Japanese for "fox"
+Kitsune
 Kitsy
 Kitt
 Kitta
 Kittaloon
 Kitten
-Kitten Caboodle
-Kitten Chow
-Kitten From Hell
-Kitten Head
-Kitten Of Yasmin
-Kitten-head
 Kittens
 KitterKatz
 Kittery
 Kittery Mae
 Kitti
-Kittie Kat Korn
 Kittney
 Kitto
-Kitty
-Kitty Ankrom
-Kitty Ann
-Kitty Baby
-Kitty Boo
-Kitty Boy
-Kitty Butt
-Kitty Capachina
-Kitty Carlisle
-Kitty Cat
-Kitty Choo-Choo
-Kitty Cootie Poopie Doodie
-Kitty Fondue
-Kitty Girl
-Kitty Hawk
-Kitty Kai
-Kitty Kat
-Kitty Kitty Loo La Banana
-Kitty Kong
-Kitty Lang
-Kitty Lofton
-Kitty Long Whiskers
-Kitty Lou
-Kitty Man
-Kitty Monster
-Kitty Mouse
-Kitty My Love
-Kitty Newton
-Kitty Pants
-Kitty Poo
-Kitty Prat
-Kitty Sales
-Kitty Scarlett from "Katie Scarlett" in "Gone With The Wind"
-Kitty T.O.O. "The Other One"
-Kitty Tom
-Kitty Winston
-Kitty Ziegenfuss
-Kitty-cat
-Kitty-dee
-Kitty-rina
-Kittybat
-Kittycat
-Kittyina
-KittyKitty
-Kittylicious
 Kittypuss
 Kitue
 Kitwit
@@ -6825,10 +6332,10 @@ Kitzel
 Kitzy
 Kiv
 Kiwi
-Kiya Egyptian mythology
+Kiya
 Kizmet
 Kizzie
-Kizzy From "Roots"
+Kizzy 
 Klaara
 Klahador
 Klara
@@ -6844,32 +6351,24 @@ Klister
 Kloak
 Kloey
 Klondike
-Klondike Gold
 Klutz
 Knaidel
-Knick Knack Paddy Wack
-Knick-Knack
 Knickerbocker
 Knight
 Knockout
-Knocky Jones
 Knothead
 Knucklehead
 Knuckles
-Knuckles Nuclear
 Knurft
 Ko-Ko
 Ko-Yo
-Koa Hawaiian for "strong"
+Koa
 Koala
-Koala Bear
 Kobi
 Kobie
-Kobie Kat
 Koby
 Koda
 Kodak
-Kodak Moment
 Kodalith
 Kodesh
 Kodi
@@ -6882,8 +6381,6 @@ Koi-San
 Kojak
 Koji
 Koko
-Koko And Yumyum
-Koko Head
 Kokokokochanski
 Kokomo
 Kola
@@ -7011,27 +6508,19 @@ Kydar
 Kykii
 Kyle
 Kylie
-Kylie.
 Kym
-Kym Wilde
 Kyra
 Kyrie
 Kzif
-Lap Slut
-Lap Top
 Lapis
 Lapleach
 Laplover
 Lappie
-Lapsang Souchong
-Laptop
 Lara
 Laraza
-Lard Butt
 Lardass
 Larisa
 Larissa
-Lark Hill
 Larry
 Lars
 Laser
@@ -7046,13 +6535,10 @@ Laszlo
 Lathrop
 Latke
 Latte
-Laughing Cow
-Laughing Tree
 Laurant
 Laurel
 Lauren
 Lavender
-Lavender Lace
 Laverne
 Layla
 Lazar
@@ -7060,7 +6546,6 @@ Lazaro
 Lazarus
 Lazy Cat
 Lazyboy
-Le Le Bomb
 Lea
 Leah
 Leander
@@ -7078,7 +6563,6 @@ Leela
 Leela Mew
 Leeloo
 Leemp
-Leener-Beaner
 Leeny
 Leeza
 Lefty
@@ -7100,22 +6584,17 @@ Lemieux
 Lemmy
 Lemon
 Lemur
-Lemur Tail
 Lena
 Lenie
 Lennie
 Lennox
 Lenny
-Lenny And Squiggy
-Lenny Bruce
 Lenore
 Leo
 Leon
-Leon Sphynx
 Leona
 Leonard
 Leonardo
-Leonardo DeCATprio
 Leonela
 Leonid
 Leonora
@@ -7126,7 +6605,6 @@ Leopold
 Lerium
 Leroy
 Leroy Brown
-Les Yeux Grandes
 Lesky
 Leslee
 Leslie
@@ -7134,15 +6612,12 @@ Lessa
 Lessay
 Lestat
 Lester
-Lester Flatt
-Lester Jean
 Lettie
 Leucorhinos
-Leukocyte Catwalker
+Leukocyte
 Levi
 Lew
 Lewis
-Lewis And Clark
 Lex
 Lexi
 Lexi2poo
@@ -7152,7 +6627,6 @@ Lexilady
 Leximer
 Lexis
 Lexus
-Lexus Summer
 Lexxy
 Lexy
 Lhasa
@@ -7164,13 +6638,11 @@ Libby
 Libby Lu
 Libelula
 Liberty
-Liberty And Justice
 Libra
 Licil
 Lick Me
 Licker
 Lickerish
-Lickity-Split
 Lickums
 Licky
 Licorice
@@ -7187,32 +6659,18 @@ Lightning Bug
 Lightning Mcqueen
 Lija
 Lika
-Lil Nicky
-Lil Nugget
-Lil Red
-Lil' Abner
-Lil' Bit
-Lil' Buddy
-Lil' Gray Guy
-Lil' Guy
-Lil' Mama Kitty
-Lil' Miss Pickie
-Lil' Monster
-Lil' One
-Lil' Striped Kitty
-Lil'flip
 Lila
 Lilac
 Lilac Rose
 Lili
 Lilia
-Lilith character in "Cheers"
+Lilith
 Liliya
-Lilla Tabycat
+Lilla
 Lillan
 Lillehammer
 Lillian
-Lillian Pooh Bear
+Lillian
 Lilly
 Lilo
 Lily
@@ -7270,109 +6728,11 @@ Lisu
 Lita
 Litl Bit
 Litmus
-Little
-Little Angel
-Little Annie Oakley
-Little Bean
-Little Bear
-Little Big Eyes
-Little Bit
-Little Bits
-Little Bitty 'Toe
-Little Black Kitty
-Little Bo Peep
-Little Bones
-Little Bot
-Little Boy
-Little Boy Blue
-Little Briches
-Little Bud
-Little Buddha
-Little Buddy
-Little Bunkin
-Little Buntnt
-Little Butt
-Little Cat
-Little Cheese
-Little Cutie
-Little Dave
-Little Dude
-Little Duster
-Little Early
-Little Egypt
-Little English
-Little Fat Daddy
-Little Feet
-Little Fluffer Bean
-Little Flyer
-Little Foot
-Little Frankie
-Little Frieda
-Little Friend
-Little Fuzz
-Little Girl
-Little Goodie Two Shoes
-Little Gray
-Little Guy
-Little Hairball
-Little Her
-Little Izzy
-Little John
-Little Kitty
-Little Kitwort
-Little Knucklebump
-Little Lady
-Little Lady Bug
-Little Lady Pussycat
-Little Lap Kitty
-Little Liz
-Little Liza Jane
-Little Lord Fauntleroy
-Little Lou
-Little Love-Muffin
-Little Madame
-Little Mama
-Little Man
-Little Mew
-Little Miss
-Little Miss Softpaws
-Little Mo
-Little Murphy's
-Little Nettik
-Little O
-Little One
-Little Orange
-Little Orange Poohbear
-Little Paws
-Little Pink Nose
-Little Priss
-Little Puddy
-Little Raccoon Boy
-Little Red
-Little Richard
-Little Runt
-Little Shit
-Little Sister
-Little Sophie
-Little Sox
-Little Stevie
-Little Trouble
-Little Two-Ton
-Little Vittle
-Little Wing
-Little-One
-Littlebit
-Littlecat
-Littlefoot
-Littlepage
-Littlest One
-Liver Fudge Boy
 Livewire
 Livia
 Livorno
 Livy
 Liz
-Liz Gallagher
 Liza
 Lizard
 Lizzie
@@ -7387,7 +6747,6 @@ Locutus
 Loekie
 Loesje
 Lofton
-Lofty Softy
 Logan
 Logitech
 Lois
@@ -7395,7 +6754,6 @@ Lois Lane
 Lokai
 Loke
 Loki
-Loki Anklebiter
 Lokiki
 Lola
 Loli
@@ -7407,27 +6765,17 @@ Lolly
 Lolly-Pop
 Lolo
 London
-Lone Star
-Long John Silver
-Long Socks
-Long Tail
-Long Tall Sally
-Longcat
 Loni
 Lonni
 Looby
 Lookame
-Looney Cat
 Loony
 Loopy Lulu
 Loosey
 Loosey Loosem
 Lopez
-Lord Caspian de Fluff
-Lord Chubster
 Lorelei
 Lorenzo
-Lorenzo Bandini
 Loretta Lynn
 Lorraine
 Lorrie
@@ -7502,15 +6850,6 @@ Lucky Duck
 Lucky-Bob
 Lucretia
 Lucy
-Lucy Twosee
-Lucy And Ricardo
-Lucy Belle
-Lucy Girl
-Lucy Loo Hoo
-Lucy May
-Lucy-Cat
-Lucy-Fur
-Lucy-lou
 Lude
 Ludlow
 Ludo
@@ -7536,7 +6875,6 @@ Lullaby
 Lulu
 Lulubell
 Lum
-Lump Of Fluff
 Lumps
 Lumpy
 Lumumba
@@ -7560,7 +6898,6 @@ Luzie
 Lycos
 Lycus
 Lydia
-Lyndon Johnson
 Lynx
 Lyonhart
 Lyonne
@@ -7573,7 +6910,6 @@ Marianne
 Marichat
 Maricho
 Marie
-Marie Antoinette
 Marie Curie
 Marie-Eve
 Marieka
@@ -7631,12 +6967,6 @@ Marty
 Marvelous
 Marvin
 Mary
-Mary Bagpipe Donut
-Mary Catherine
-Mary Katherine
-Mary Magdalene
-Mary-Ann
-Mary-Kate Olsen
 Maryellen
 Marykay
 Marylou
@@ -7653,9 +6983,6 @@ Maso
 Mason
 Masquerade
 Massander
-Master
-Master Nicholas Christian
-Master Sebastian
 Mastro
 Masya
 Masza
@@ -7679,7 +7006,6 @@ Matrix
 Matrozkine
 Matt
 Matt Catt
-Matter-of-Cat
 Matthew
 Mattie
 Mattox
@@ -7708,55 +7034,34 @@ Maverick
 Mavis
 Mavra
 Max
-Max a million
-Max Houdini
 Maxi
 Maxie
-Maxie Messmaker
-Maxie-boo
-Maxie-Moto
-Maxiefaxiewaxietaxi
 Maxima
-Maximilian Liao Klein
-Maximillian
-Maximillion
-Maximillion Diamond
-Maximillion vonBadcat
 Maximino
 Maximoto
-Maximum Cat
-Maximus
-Maximus Decimus Meridius
+Maximum
 Maxine
-Maxine MacArthur
 Maxlie
 Maxlin
 Maxmillian
 Maxwell
-Maxwell P. Cat
-Maxwell Silver-Hammer
-Maxwell Smart
 Maxx
 Maxy
 Maxy-P
 May
-May Kitty
 May Thai
 May-Ling
 May-pole
 Maya
 Mayahuel
 Maybe
-Maybe Baby
 Maybelline
 Mayfair
 Mayflower
 Mayhem
 MayMay
 Maynard
-Mayor McCheese
 Maysa
-Mazel Tov
 Mazie
 Mazik
 Mazo
@@ -7785,15 +7090,12 @@ Meade
 Meadow
 Meaghan
 Mealy
-Mealykaleekymacka
 Meander
 Meaness
 Measles
-Meat-a-licious
 Meatball
 Meathead
 Meathook
-Meatious Maximus
 Meatloaf
 Meaty Boy
 Meaty Feets
@@ -7801,8 +7103,6 @@ Meatyboy
 Mebo
 Medea
 Medianoche
-Medicine Kitty
-Medicine Man
 Medley
 Medusa
 Mee-Krob
@@ -7818,7 +7118,6 @@ Meep
 Meepers
 Meepy
 Meer
-MeerClar Sloane
 Meesh
 Meesha
 Meeth
@@ -7838,7 +7137,6 @@ Megan Brooke
 Megatoes
 Megellan
 Meggie
-Meggie The Bitch Kitty
 Meghann
 Megs
 Mehitabel
@@ -7939,7 +7237,6 @@ Merissa
 Merlan
 Merle
 Merlin
-Merlin Mc.Cuddle Loaf
 Merlino
 Merlkins
 Merlot
@@ -7994,7 +7291,6 @@ Miasma
 Miata
 Miauert
 Miaumoto
-Miav Danish for "meow"
 Mic Mac
 Mica
 Micaela
@@ -8108,10 +7404,8 @@ Miloe
 Milou
 Milton
 Mima
-Mimas Maxamillian
 Mime
 Mimi
-Mimi - Ow!
 Mimine
 Mimmi
 Mimo
@@ -8139,11 +7433,6 @@ Minga
 Mingo
 Mingus
 Mini
-Mini Gray
-Mini Me
-Mini Min
-Mini Panther
-Mini Pearl
 Minica
 Minie
 Minilotto
@@ -8168,14 +7457,9 @@ Minnerva
 Minnesota
 Minni
 Minnie
-Minnie Mitchell
-Minnie Moo
-Minnie Moo Lazy
-Minnie Mouse
-Minnie Pearl
 Minnow
 Minny
-Mino French for "Puss"
+Mino
 Minoe
 Minoes
 Minon
@@ -8188,7 +7472,7 @@ Minow
 Minsky
 Minster
 Minstrel
-Mint after the herb
+Mint
 Mintaka
 Mintie
 Mintnight
@@ -8196,19 +7480,16 @@ Minue
 Minuet
 Minuette
 Minuish
-Minute Maid
 MinWee
 Minx
 Minyen
-Minz catname in Struwwelpeter
+Minz
 Mip
 Mira
 Mirabell
 Miracle
-Miracle Cat
 Mirage
 Miranda
-Miranda Mabel
 Mirci
 Mircli
 Miri
@@ -8229,7 +7510,6 @@ Mish Mosh
 Misha
 Mishimi
 Mishka
-Mishka Russian for "little bear"
 Mishmash
 Mishnoodle
 Mishra
@@ -8237,83 +7517,20 @@ Mishy
 Misk
 Miso
 Misquita
-Miss Abigail Buttonwood
-Miss Adventure
-Miss Angelica Pureheart
-Miss Ashley
-Miss Buffy
-Miss Chief Mischief
-Miss Cleo
-Miss E.
-Miss Ee
-Miss Gabby
-Miss Jessicat
-Miss Kaya
-Miss Kitty
-Miss Lily
-Miss Limpfooty
-Miss Lucy
-Miss Maple
-Miss Marple
-Miss Meow
-Miss Modest
-Miss Molly
-Miss Moonstone
-Miss Muffett
-Miss Muffin
-Miss Nellie Smellie Yellow-bellie
-Miss Paws
-Miss Penny
-Miss Piggy
-Miss Pittypat
-Miss Pretty Princess Abigail Smooch Face
-Miss Priss
-Miss Prissy
-Miss Purrrfect
-Miss Puss
-Miss Rae
-Miss Relaxation
-Miss Sarah
-Miss Sarah Vaughan
-Miss Strangelove
-Miss T. Bell
-Miss Tizz
-Miss Wiggles
-Miss-Queue
 Missan
-Misser Danish for kitty
 Missie
-Missing Link
 Missle
 Misst
 Missy
-Missy Kitty
-Missy Tardee
 Missycat
 Mist
 Mistee
 Mister
-Mister Brother
-Mister Demonico
-Mister Fuzzy Rubberlips
-Mister MaGoo
-Mister Mister
-Mister Patootie Head
-Mister Perkins
-Mister Puddycat
-Mister Something erother
-Mister Thumbs
 Misti
 Mistiblue Mischief
-Mistifur Mountain Kitty Kat
-Mistifur Mountain Meadow Muffin
 Mistique
 Mistletoe
 Mistoffeles
-Mistress
-Mistress Buffington
-Mistress Of Fridge
-Mistress Quickly
 Misty
 Mit Bo
 Mit-tee
@@ -8327,7 +7544,7 @@ Mithra Louise
 Mithril
 Mitja
 Mitka
-Mitnal Maya mythology: the underworld hell
+Mitnal
 Mito
 Mitou
 Mitsi
@@ -8351,19 +7568,8 @@ Miz Piggy
 Mizzy
 Mlle Butterfly
 Mme Hochi Min
-Mo
-Mo Cuirdh Gaelic for "beloved"
-Mo Vaugh
-Mo-fo
-Mo-i-Rana
-Mo-Jo
-Mo-Mo
-Mobius after the mathematician
 Moby
 Mocha
-Mocha AKA PussyBoots
-Mocha Manx
-Mocha Mix
 Mochi
 Mocka
 Moco
@@ -8372,16 +7578,14 @@ Modem
 Modena
 Modest
 Moe
-Moe Ellen Jeanmarie
 Moe Moe
-Moe-Monster
 Moet
 Moffitt
 Mog
 Mogadishu
 Mogadon
 Mogadonna
-Mogget after the character in the fantasy novels by Garth Nix
+Mogget
 Moggie
 Moglet
 Mogra
@@ -8408,64 +7612,33 @@ Mokin
 Moku
 Mold
 Mole
-Moll Flanders
 Molley
-Molley Muppett
 Molli
 Mollicoddle
 Mollie
 Molly
-Molly Lou
-Molly May Marie
-Molly McButter
-Molly Meganne Noelle
-Molly Molla
-Molly Silverpaws
-Molly Sue
 Mollye
 Molson Moo Cat
-Mom
-Mom Kitty
-Mom-Cat
-Moma Puss
-Momcat
-Momma
-Momma Cat
-Momma Mutz
-Mommy Kitty
-Mommy-Kiddy
-Mommycat
-Momo gangster from the movie "Get Shorty"
 Momotaro
-Mon Ami
-Mon Cher Or Ma Cherie
 Mona
-Mona Lisa
-Mondavi from the californian winery
+Mondavi
 Monday
 Monet
 Money
-Money Honey
 Monger
 Mongo
-Mongo after a character in the movie Blazing Saddles
 Mongoose
 Monica
-Monica Kat
-Monica Lewensky
 Monika
 Monique
 Monk
 Monkey
-Monkey Face
-Monkeybutt
 Mono
 Monochrome
 Monroe
 Monsanto
 Monsieur
 Monster
-Monster Kitty
 Monstrance
 Montague
 Montana
@@ -8473,9 +7646,7 @@ Monte
 Monte Carlo
 Montego
 Monteque
-Montezuma after the Aztec god-king
 Montgomery
-Montgomery Clift
 Monther
 Monty
 Monty Python
@@ -8510,7 +7681,7 @@ Moon Pie
 Moon Unit
 Moona
 Moonbeam
-Moonbean Or Moonmist
+Moonbean
 Mooncat
 Moonchaser
 Mooncritter
@@ -8518,15 +7689,15 @@ Moondance
 Moondust
 Moonflower
 Moongoddess
-Moonie after the late drummer/hotel-room-wrecker Keith Moon
+Moonie
 Moonlight
 Moonraker
 Moonshadow
 Moonshine
-Moonstone Molly
+Moonstone
 Moonstruck
 Moonunit
-Moorea island in Tahiti
+Moorea
 Moose
 Mopar
 Moped
@@ -8534,7 +7705,7 @@ Mopet
 Mophead
 Mophy
 Moppet
-Moppie Sloef
+Moppie
 Mopsy
 Moptop
 Moqui
@@ -8548,8 +7719,6 @@ Mordred
 Morey
 Morgaine
 Morgan
-Morgan Fairkitty
-Morgan LeFey
 Morgana
 Morgen
 Mori
@@ -8557,7 +7726,6 @@ Moriah
 Moriarity
 Moritz
 Mork
-Mork And Mindy
 Morley
 Morning Glory
 Morning Star
@@ -8569,14 +7737,13 @@ Morris Minor
 Morrisey
 Morrison
 Morriz
-Morse after Inspector Morse
+Morse
 Morsel
 Mort
 Mortcake
-Morticia Addams family
-Morticia Morena
+Morticia
 Mortimer
-Mortimore B. Zuckkerman
+Mortimore
 Mortina
 Mortisha
 Morton
@@ -8589,34 +7756,19 @@ Moses
 Mosey
 Moshe
 Moshto
-Mosi Navajo for "cat"
+Mosi
 Mosis
-Most
-Most Handsome
-Mother
-Mother Lode
-Mother Teresa
 Motley
-Motley Crue
-Motley Tue
 Moto
-Motor
-Motor Boat
-Motor Man
-Motor Unit
 Motorino
 Mottebal
-Mouauia ibn Abihi Arabic for "wailing bitch bastard"
+Mouauia
 Moufette
 Mough
 Mountainlion
-Mouse
-Mouse Doggie
-Mouse McNasty
 Mousekewitz
 Mouseman
 Mouser
-Mouser Pounce-Fast
 Mouseripper
 Mousetrap
 Mousie
@@ -8631,8 +7783,6 @@ Mousy
 Mouth
 Mouton
 Movado
-Movie Star
-Movie Star Cat
 Mow
 Mow Mow
 Mowcha
@@ -8642,7 +7792,6 @@ Mowpurrs
 Mowse
 Moxi
 Moxie
-Moxie Muffin
 Moxy
 Moya
 Moyshi
@@ -8651,155 +7800,10 @@ Mozez
 Mozie
 Mozzerella
 Mr Biggelsworth
-Mr Bruce
-Mr Monster
-Mr. "B" "Mr. Bastard"
-Mr. A. Gray
-Mr. Alfred
-Mr. Anderson
-Mr. Apricot
-Mr. Bean
-Mr. Beans
-Mr. Beast
-Mr. Bentley
-Mr. Big
-Mr. Big Stuff
-Mr. Biggles Worth
-Mr. Bigglesworth
-Mr. Bill
-Mr. Blue
-Mr. Bojangles
-Mr. Bonkers from "That 70's Show"
-Mr. Boots
-Mr. Bowles
-Mr. Brown
-Mr. Bubbles
-Mr. Bunny
-Mr. C
-Mr. Cat
-Mr. Chips
-Mr. Choo
-Mr. Clovis Grimm
-Mr. Cold Paws
-Mr. Cotton
-Mr. Dainty Paws
-Mr. Dogfood
-Mr. Fatcat
-Mr. Fi Fi
-Mr. Fish
-Mr. Flatley
-Mr. Fluff
-Mr. Fur
-Mr. Furrbody
-Mr. Fuzz Butt
-Mr. Fuzzy Nose and Toes
-Mr. Fuzzybuns
-Mr. Gingipuss
-Mr. Goober
-Mr. Goodkitty
-Mr. Gotti
-Mr. Hahn after Joe Hahn, from the band Linkin Park
-Mr. Happy
-Mr. Hudson
-Mr. Jade
-Mr. Jenkins
-Mr. Jones
-Mr. K
-Mr. Katt
-Mr. Kitty
-Mr. Kitty to You
-Mr. Krabbs
-Mr. Krinkle
-Mr. LittleHead
-Mr. Lucky
-Mr. Lucy
-Mr. Lurch
-Mr. M.
-Mr. Macgeezer
-Mr. Magoo
-Mr. Magoo.
-Mr. McFluffer
-Mr. Mealy
-Mr. Men
-Mr. Mir
-Mr. Mister
-Mr. Mistoffolees
-Mr. Moe
-Mr. Mouse
-Mr. Moustache after the song by Nirvana
-Mr. Neo
-Mr. Newman after Victor Newman from The Young and the Restless
-Mr. Nibblesworth
-Mr. O'Mally
-Mr. Peepers
-Mr. Pi
-Mr. Pickles
-Mr. PoPo
-Mr. President
-Mr. Puddy
-Mr. Purrbody
-Mr. Purrfect
-Mr. Pussy
-Mr. Roosevelt
-Mr. Sandman
-Mr. Scarfies
-Mr. Sleepers
-Mr. Sleepy
-Mr. Snickers
-Mr. Snuggle Bum
-Mr. Sonny L. Burke L. for "louse"
-Mr. Sox
-Mr. Spaz
-Mr. Taz Man
-Mr. Tibbs
-Mr. Tickle Bum
-Mr. Tilly
-Mr. Tinkles
-Mr. Topplemeyer
-Mr. Tubbsaflubbs
-Mr. Uhtman
-Mr. Underfoot
-Mr. Whiskers
-Mr. Winkie
-Mr. Winston Winnie
-Mr. Wiskers
-Mr. Woo
-Mr. Wooten
-Mr.Cuddly Buns
 Mrackbudha
-Mracks-A-Lot
 Mri'Fa
 Mrrow
-Mrrranda
-Mrs. Naugatuck
-Mrs. Noris after Filch's cat in the Harry Potter books
-Mrs. Peel after the character in the tv-series "The Avengers"
-Mrs. Silverspoon
-Mrs. Tabitha Twitchet from "The Tale of Tom Kitten" by Beatrix Potter
-mrs. Twinklebottoms
-Ms. Agnes Depesto
-Ms. Beach
-Ms. Beasley
-Ms. Bigglesworth
-Ms. Cat
-Ms. Cornwallis
-Ms. Dikky
-Ms. Grey
-Ms. Kitty
-Ms. Lester
-Ms. Meowkins
-Ms. Morgan
-Ms. Piggy
-Ms. President
-Ms. Rascalini
-Ms. Sassy Cat
-Ms. Scott
-Ms. Sweet
-Ms. Terry
-Ms. Woogies
-Mu
-Mu Shu
-Muca Gypsy for "cat"
+Muca
 Muchpurr
 Muckl
 Mucus
@@ -8813,21 +7817,14 @@ Mudgie
 Mudpie
 Mudslide
 Muenster
-Mufasa from The Lion King
-Mufasa from the movie The Lion King
+Mufasa
 Muff
 Muffassa
 Muffet
 Muffi
 Muffie
-Muffie from the Battle Star Glactica tv series
 Muffie-Roo
 Muffin
-Muffin Man
-Muffin Muffin
-Muffin-head
-Muffinhead
-Muffinman
 Muffins
 Muffinster
 Muffioso
@@ -8836,15 +7833,13 @@ Muffy
 Mufti
 Mug
 Mugabe
-Mugatu after the character in the movie "Zoolander"
+Mugatu
 Mugger
-Muggle Bear
 Muggsy
 Mugin
 Mugsy
 Mugwump
 Muha
-Muhammad Ali
 Muira
 Muk
 Mulberry
@@ -8852,11 +7847,10 @@ Mulder
 Muldoon
 Mulle
 Mullet
-Mumbles after the castle in Wales
+Mumbles
 Mumford
 Mumma
-Mummies Little Angel Pie
-Mummu Kitty
+Mummies
 Mumsy
 Muncher
 Munchie
@@ -8874,8 +7868,8 @@ Muon
 Mupee
 Muppet
 Mupps
-Murcielago Lamborghini
-Murderdoll Mayhem after the band Murderdolls
+Murcielago
+Murderdoll
 Murdock
 Murfee
 Murfy
@@ -8905,22 +7899,10 @@ Mustard
 Mutant
 Mutiny
 Mutt
-Mutt the Bald
 Mutza
 Mutzy
-Muu-Muu
-MVP
-My Girl
-My Lady Sam
-My Little Cat
-My Little Girl
-My Little Girl Girl
-My Little One
-My Little Pumpkin
-My love
-My Meow-Meow
 Mya
-Mycroft named for Sherlock Holmes "smarter" brother
+Mycroft
 Myer
 Mykah
 Myki
@@ -8930,16 +7912,15 @@ Mylette
 Mymlan
 Myna
 Mynta
-Mynx Poo-gas Pendragon
+Mynx
 Myra
-Myron Henry Miracle
+Myron
 Myrtle
 Mysha
 Mysin
 Myska
 Mystaya
 Mystery
-Mystery Girl
 Mysti
 Mystic
 Mystina
@@ -8947,13 +7928,9 @@ Mystique
 Myth
 Mytsz
 Neutron
-Neutron Star
 Nevermore
 Neville
 Nevvy
-New Cat
-New Kitty
-New York
 Newark
 Newie
 Newman
@@ -8963,12 +7940,9 @@ Newt
 Newtie
 Newton
 NezPas
-Nezumi Japanese for "mouse"
-Ngaio after New Zealand mystery writer Ngaio Marsh
-Ngongee Nguhn
+Nezumi
+Ngaio
 Niabi
-Niagra Falls
-Niagra Falls Down
 Niah
 Niarobi
 Nibbles
@@ -8981,26 +7955,20 @@ Nicedemos
 Nicholas
 Nicias
 Nick
-Nick-the-Cat
 Nickedemus
 Nickel
 Nickerson
-Nicki
-Nicki-Baby
 Nickleby
 Nickles
 Nicky
-Nicky Jean
-Nicky Legs
 Nico
 Nicodemus
-Nicolas Fosbury
 Nicole
 Nicolette
 Nicolodeon
 Nicorette
-Nie-Ma-Imie Polish for "has no name"
-Nielsen after Rick Nielsen, the Cheap Trick guitarist
+Nie-Ma-Imie
+Nielsen
 Nietzsche
 Nieves
 Niffer
@@ -9013,11 +7981,9 @@ Nightcrouler
 Nightmare
 Nightshade
 Nightshadow
-Nigra Latin for "Black"
 Nigthmare
 Nihn
 Nijinsky
-Nik Nak Paddy Wak
 Nika
 Nikademus
 Nike
@@ -9026,52 +7992,44 @@ Niki
 Nikia
 Nikita
 Nikki
-Nikki Kitty
 Nikkita
 Nikko
-Nikkoa "Dark of the Moon"
+Nikkoa
 Niko
-Nikochan Filipino for cat-girl
+Nikochan
 Nikolai
 Nikolaus
 Nikolina
-Nikta Greek word for "night"
+Nikta
 Niky
 Niles
 Nilla
-Nilla-bean
-Nilla-nilla-nilla
 Niller
-Nils After "Nils Master", brand of fishing lure
+Nils
 Nilson
 Nimaway
 Nimbus
 Nimitz
 Nimmao
 Nimo
-Nimoosh Native American for "dog"
+Nimoosh
 Nina
-Ninetynine Maxwell Smart and Agent
-Ningeluu Mallaguuga
+Ninetynine
+Ningeluu
 Nini
 Ninja
 Ninja Racoon
 Ninky
 Ninny
 Nintendo
-Nin~O
-Nin~O-Cat
-Nin~O-Nin~O-Nin~O
-Nin~O-Nuts
 Niobie
 Nipford
 Nipper
 Nippers
-Nipple Fritz Demon
 Nippy
 Nipto
 Nirvana
-Nisha Hindu for "night"
+Nisha
 Nishka
 Nismoasis
 Nissan
@@ -9080,33 +8038,21 @@ Nistka
 Nit
 Nite
 Nitecrawler
-Nitnoi JaiJai
-Nitny
-Nitro
-Nitro Glitter
 Nitrogen
 Nittany
 Nixdorf
 Niyah
 Nizmo
-Njord Viking mythology: the god of wind and sea
-Nkechi meaning "loyal"
-No
-No Kiss
-No Name
-No Pain
-No!
-No-No Bad Cat
-No-tail
-No.1 Suncat
+Njord
+Nkechi
 Noah
 Nobu
 Noby
-Nocturnal Kitty
+Nocturnal
 Nocturne
 Nod
 Noddy
-Nodin Ojibway-Cree for "wind"
+Nodin
 Noel
 Noelle
 Noes
@@ -9114,12 +8060,10 @@ Noey
 Nog
 Noi
 Noire
-Noise Pollution
+Noise
 Noisemaker
 Noisette
 Noisy
-Noisy Kitty
-Noisy Noodle Nuisance
 Nokia
 Nokky
 Nola
@@ -9132,10 +8076,9 @@ Nonna
 Nonsense
 Noodge
 Noodle
-Noodle Bug
 Noodlehead
 Noodles
-Noodnick the Puissant
+Noodnick
 Noogie
 Noogies
 Nook
@@ -9147,12 +8090,10 @@ Norbert
 Norgay
 Nori
 Noriko
-Norka Russian for "Mink"
+Norka
 Norma
 Normajean
 Norman
-Norman Stanley Fletcher from Porridge
-Norman Tinkle Tinkle
 Normania
 Normie
 Norris
@@ -9171,33 +8112,29 @@ Notso Bright
 Nova
 Novella
 Novi
-Nox latin for "night"
+Nox
 Nsync
 Nubbins
 Nubby
-Nubeluz Spanish for "lightning cloud", name of a kids TV show
+Nubeluz
 Nudge
 Nudger
 Nuebby
 Nuget
 Nugget
-Nugget as in Chicken
 Nuggettes
 Nuggie
 Nuisance
 Nula
 Null
 Numa Numa
-Numb Nuts
-Number 1
-Number 1 Champion Sparkplug Sparky
-Nummy Muffin Coocoo Butter
+Nummy
 Numnod
 Nuna
 Nunkie
 Nuno
-Nuppi Finnish for "Button"
-Nuray Turkish for "white moon"
+Nuppi
+Nuray
 Nuria
 Nut-Nut
 Nute
@@ -9210,13 +8147,12 @@ Nyan-Nyan
 Nyla
 Nyles
 Nymph
-Nymphadora after the Nymphadora Tonks character in Harry Potter
+Nymphadora
 Nyssa
-Nystan Swedish for "yarn ball"
+Nystan
 Nytrogen
-Nyx Greek goddess of night
+Nyx
 Obi Wan Kenobi
-Obie O.B.
 Obijuan
 Obo
 Obsidian
@@ -9240,7 +8176,7 @@ Odessa
 Odette
 Odie
 Odile
-Odin Viking mythology: the allmighty god
+Odin
 Odo
 Odyssey
 Oedipus
@@ -9251,14 +8187,8 @@ Off-License
 Often
 Og
 Ogden
-Ogies Afrikaans for "Little eyes"
+Ogies
 Ogopogo
-Oh Arrogant One
-Oh Captain My Captain
-Oh Oh
-Oh-lee
-Oi!
-Oingo
 Oink
 Okavango
 Okee
@@ -9273,13 +8203,6 @@ Ol Yeller
 Ol' Buddy
 Ol' Sport
 Olaf
-Old D
-Old Deuteronomy
-Old Grandad
-Old School
-Old Sweetie
-Old Yeller
-Olde Scratch
 Oleg
 Oleo
 Olga
@@ -9288,49 +8211,34 @@ Olia
 Olimpia
 Olive
 Oliver
-Oliver Sebastian
-Oliver Stone
-Oliver Twister
 Olivette
 Olivia
-Olivia Pawdancer
-Olivia The Otter Cat
-Olivier Serpentine
 Olja
 Olla
 Ollendorff
 Olli
 Ollie
-Ollie Bollie Mc Follie
-Ollie North
-Ollie South
 Olliecat
 Oloff
-Olsen.
+Olsen
 Oly
-Olympia DuKatKis
+Olympia
 Olympician
-Olympus Mons after the great volcano on the planet Mars
+Olympus
 Omaha
 Omar
-Omar Khayyam
-Omar Sharif
 Omega
 Omelet
 Omen
-Ometecuhtli Aztec mythology: the god of duality
+Ometecuhtli
 Omi
-Omiros Greek for "hostage"
+Omiros
 Omni
 Omniscious
 Omonoia
 Onassis
 Ondine
-One Nut
-One-eyed Jack
-One-Pat
-Oni Japanese for 'demon'
-Oni Cheeto
+Oni
 Onion
 Onions
 Only
@@ -9338,13 +8246,10 @@ Onnee
 Onomatopoeia
 Onya
 Onyx
-Onyx O'Kitty
 Ooga-Booga
 Ooh-la-la
 Oona
 Ooopy Poopy
-Ooowwwrrraahh
-Oops
 Oosha
 Ootzsatootsie
 Oozie
@@ -9359,15 +8264,6 @@ Oprah Whiskers
 Optimistic
 Opus
 Orange
-Orange Blossom
-Orange Boy
-Orange Cat
-Orange Harvey
-Orange Juice
-Orange Kitty
-Orange Pekoe
-Orange Pico
-Orange Wishes
 OrangEndymion
 Oranges
 Orangie
@@ -9381,14 +8277,12 @@ Ore
 Oreao
 Oregano
 Oreo
-Oreo Bigfoot Thunderkitty
-Oreo Purrowitz
-Organa named after Princess Leia Organa
+Organa
 Orion
 Oriondo
-Orla Irish name meaning "golden princess"
+Orla
 Orlando
-Orleans after the city
+Orleans
 Orlon
 Orman
 Ornery
@@ -9396,18 +8290,12 @@ Orphan
 Orphan Annie
 Orphelia
 Orpheus
-Orpheus And Euridice
-Orrin G. Cat
 Orsino
 Orson
-Orson Winslow
 Orville
-Orville And Wilbur
 Orvis
 Osborn
 Oscar
-Oscar Mayer
-Oscar Pisser
 Osceola
 Oscer
 Osgood
@@ -9425,10 +8313,9 @@ Other Guy
 Otis
 Otter
 Otto
-Otto Octavius
 Oui
 Ouija
-Ouisa oh-wee-sah
+Ouisa
 Our Gigi
 Outi
 Outlaw
@@ -9438,7 +8325,6 @@ Oven Mitt
 Overboard
 Overdrive
 Ovid
-Ow!
 Owas-sa
 Owen
 Owl
@@ -9448,7 +8334,7 @@ Oxley
 Oy
 Oyen
 Oz
-Ozma after the character in "The Wizard of Oz
+Ozma
 Ozone
 Ozu
 Ozymandius
@@ -9461,14 +8347,11 @@ Packrat
 Packy
 Paco
 Paddie
-Paddie O'Kitty
 Paddin
 Paddington
 Paddles
 Paddwinkle
 Paddy
-Paddy Paws
-Paddy The Large
 Padfoot
 Padme
 Padre
@@ -9483,7 +8366,7 @@ Pain
 Paint
 Paintor
 Paisley
-Paka Swahili for "cat"
+Paka
 Pako
 Pal
 Palamino
@@ -9515,13 +8398,10 @@ Panda
 Panda Bear
 Pandemonium
 Pandora
-Pandora La Principessa
 Pandoura
 Pandy
 Pangor
 Pangur
-Pangur Ban
-Panics And Purrs
 Pankake
 PanPan
 Pansey
@@ -9533,7 +8413,7 @@ Panther
 Panther-cat
 Panthro
 Pantie
-Pantoufle French for "slippers"
+Pantoufle
 Pants
 Pants Boy
 Panzer
@@ -9575,14 +8455,13 @@ Pascht
 Pasha
 Pashakin
 Pashmak
-Pashmina after the mohair accesories, and the character in the Hamtaro cartoons
+Pashmina
 Pashu
-Pasiphae Paleface
+Pasiphae
 Pasquale
 Pasqualina
 Passe-Poil
 Passion
-Passion Puddy
 Passive
 Passport
 Passura
@@ -9593,29 +8472,19 @@ Patapaws
 Patch
 Patchee
 Patches
-Patches a Calico
-Patches Jr.
 Patchita
 Patchouli
 Patchy
-Patecatl Aztec mythology: the god of medicine
+Patecatl
 Patenkats
-Patent Leather Kitty
 Pathfinder
 Patience
-Patio Kitty
 Patoche
-Patola a type of fabric from India
+Patola 
 Patootalinski
 Patootalnski
 Patrice
 Patrick
-Patrick Duffy
-Patrick McGoohan
-Patrick Millo Zooloo
-Patrick O'Brien
-Patrick Prévéreau
-Patrick Swayze
 Patrikei
 Patriot
 Patsy
@@ -9623,19 +8492,14 @@ Patsy Climb
 Patter
 Patti
 Patton
-Patty Cake
-Patty Paws
 Pattycakes
 Paty
 Paul
-Paul McCartney
-Paul Simon
-Paul the Walrus
 Paula
 Pauli
 Paulie
 Paulinus
-Paupa New Guinea
+Paupa
 Pauper
 Pause
 Pavarotti
@@ -9645,8 +8509,6 @@ Pavlonia
 Pavlov
 Pavlova
 Pavo
-Paw McCatney
-Paw-bot
 Pawline
 Pawprints
 Paws
@@ -9654,7 +8516,7 @@ Pawsha
 Pawsome
 Paxil
 Paxton
-Paynal Aztec mythology: the messenger to Huitzilopochtli
+Paynal
 Pays
 Payton
 Pazlo
@@ -9664,50 +8526,32 @@ Peaball
 Peabody
 Peace
 Peach
-Peach Pie
-Peaches
-Peaches 'N Cream
-Peaches Creampuff
 Peachie
 Peachy
 Peak
-Peak Freen
 Pean
 Peanet
 Peanuckle
 Peanut
-Peanut Butter
 Peanutbutter
 Peanuts
 Peapod
 Pearl
-Pearl CloudDancer
-Pearl Django
 Pearlite
 Peaseblossom
 Peaslake
 Peasy
 Pebble
 Pebbles
-Pebbles after the character in 'The Flintstones' cartoons
 Peca
 Pecan
 Peche
 Pecos
-Pecos Bill
 Pedro
-Pee
-Pee Girl
-Pee Wee Herman
-Pee Winky
-Pee-Girl
-Pee-pee-poo-poo-chew-chew
-Pee-U
-Peek
 Peek-a-boo
 Peeka
 Peekie
-Peeky Pinky Sally Whitepaws Kathryn Mather Brooks
+Peeky
 Peep-Bo
 Peeper
 Peeper-doobie
@@ -9725,7 +8569,6 @@ Peggy
 Peka
 Pekie
 Pekoe
-Pekoe after orange pekoe tea
 Pelagea
 Pele
 Pelican
@@ -9743,14 +8586,11 @@ Penny Lane
 Penny No!
 Penthouse
 Peony
-People-person
 Pepe
 Pepin
-Pepin the Red
 Pepita
 Peppa
 Pepper
-Pepper Ann
 Peppercat
 Peppermint
 Pepperone
@@ -9759,29 +8599,22 @@ Peppino
 Pepppa
 Peppurr
 Peppy
-Peppy Pooperdoodle
 Pepsi
-Pepsi-Kitty
 Pequena
 Perch
 Percival
-Perculating Pooky
 Percy
 Perdita
 Perdito
 Pere
 Peregrine
-Perfect Tommy
 Perfection
 Peri
-Peri Turkish for elf, faerie, faery, fairy, fay, genie, peri, pixie, spirit, sprite
 Peritar
 Periwinkle
 Perkins
 Perky
-Permanently Pretty
 Pernod
-Perrin Goldeneyes
 Perriwinkle
 Perro
 Perry
@@ -9800,7 +8633,6 @@ Pesky
 Peso
 Pest
 Pester
-Pesticus Domesticus
 Pestilence
 Pesto
 Pesty
@@ -9810,9 +8642,6 @@ Petalwing
 Pete
 Pete Puma
 Peter
-Peter Pan
-Peter Piper
-Peter The Terrible
 Peterbilt
 Petey
 Petey-Rama
@@ -9838,7 +8667,6 @@ Pewflette
 Pewter
 Peyote
 Peyton
-Pfeffa Spookysocks
 Pfeffer
 Pfefferneuse
 Pfeiffer
@@ -9865,18 +8693,13 @@ Phish
 Phluffball
 Phobos
 Phoebe
-Phoebe Phrankenfeet
-Phoebe Snow after the singer
 Phoenix
-Phoolan Devi
+Phoolan
 Phosphorus
 Phred
-Phred Phang Klah
 Phredd
-Phurpy furry Purry
-Phurson "Fur Person"
-Phut Phat
-Phydeaux "Fido"
+Phut
+Phydeaux
 Phyllo
 Phyrbl
 Pi
@@ -9905,20 +8728,14 @@ Piedmont
 Piepje
 Pierre
 Piesporter
-Pieter a Dutch Friesian name
+Pieter
 Piewacket
 Piff
 Piffles
 Pig
-Pig Kitty
 Pigasus
-Pigeon Poop
 Pigfoot
-Piggles-Wiggles
 Pigglesworth
-Piggly Wiggily
-Piggy
-Piggy-Wiggy
 Piglet
 Pigling Bland
 Pigment
@@ -9929,24 +8746,22 @@ Pikachu
 Pikachy
 Pikal
 Pike
-Pike's Peak
 Pikey
 Pikka
 Pilate
-Pilchard French for "sardine" after the cat of Bob the Builder, a cartoon
 Pilgrim
 Pili
 Pilkku
 Pillow
 Pilot
-Pim Dutch name
-Pima after the native american indian tribe
+Pim
+Pima
 Pimpsta
-Pin Pinnacle Pinskinski Lowinski aka Pin
-Pinanta Divine
+Pin
+Pinanta
 Pinar
 Pincushion
-Pindar Greek poet, known for his victory odes
+Pindar
 Pineapple
 Pinecone
 Pinenut
@@ -9957,17 +8772,11 @@ Pingie
 Pingy
 Pinhead
 Pink
-Pink & Floyd 2 cats
 Pink Panther
 Pink Paws
-Pink-Nosed Curled-Toed Kitty
 Pinkerbee
 Pinkey
 Pinky
-Pinky For Pinky Lee, the painting, and the color of her nose
-Pinky Bubbles
-Pinky Girl
-Pinky Pinkster Pinkowitz
 Pinnacle
 Pinnar
 Pinnochio
@@ -9979,7 +8788,7 @@ Pintas
 Pinto
 Pinto Bean
 Pinwheel
-Piouacket 'Bell, Book and Candle' cat
+Piouacket
 Pious
 Pip
 Piper
@@ -9989,7 +8798,6 @@ Pipi
 Pippa
 Pippen
 Pippi
-Pippi Longstockings
 Pippin
 Pippy
 Pipsqueak
@@ -9997,44 +8805,30 @@ Pipsqueek
 Piquin
 Piranha
 Pirate
-Pirate Pearl
 Pirouette
 Pisa
 Pisancho
 Pisces
 Pischi
 Pish
-Pish-Posh
-Piskey Willow
 Pistachio
 Pistol
 Piston
-Pit-Stop
 Pita
-Pita Pocket
 Pitch
 Piter
 Pitten
 Pitter
-Pitter-Pat
-Pitter-Patter
 Pittsburgh
-Pitty Pat
 Pity
 Piva
 Piwaket
 Pix
-Pix The Cat
 Pixel
-Pixel Purrfect
 Pixie
-Pixie Dust
-Pixie Stix
 Pixo
 Pizza
-Pizza Boy
 Pizzazz
-PJ
 Plankton
 Plastic Monster
 Platinum
@@ -10076,7 +8870,7 @@ Pokerface
 Pokey
 Pokey Paws
 Pokipsey
-Pokipsy used to be Poughkeepsie, but she found that too hard to spell.
+Pokipsy
 Polar Bear
 Polaris
 Policy Wonk
@@ -10095,10 +8889,9 @@ Poly
 Polyester
 Pom
 Pom-Pom
-Pompidou after the french prime minister George Pompidou
+Pompidou
 Pompomdou
 Ponce de Leon
-Ponch after the character in the TV series "CHiPs"
 Ponchielli
 Poncho
 Poncy
@@ -10107,34 +8900,19 @@ Pong
 Pongo
 Ponkles
 Pono
-Poo
-Poo Bear
-Poo-Poo
-Poo-poo Nose Girl
-Poo-Poo Platter
 Pooch
 Poochess
-Poochess Delectisse
 Poochie
-Poochini Opera
 Pood
-Pooddy Tat from Tweety Bird
 Poodeedoots
 Pooders
-Poody Tat
 Pooey
-Poof-Pewf
-Pooflette
 Poofy
 Poogie
 Pooh
-Pooh Bear
-Pooh of Pooh Corner
-Pooh-Bah
 Poohbear
 Poohface
 Pook
-Pook A La
 Pooka
 Pookah
 Pookahontas
@@ -10149,68 +8927,32 @@ Pookie Turtle
 Pookner
 Pookster
 Pooky
-Pooky Monster
-Poon Tang Plenty aka Poon, Pooner
-Pooopsiiiieee
-Poop
-Pooper
-Pooperdinker
-Poopie
-Poopiepants
-PooPoo Butt
-Poopoolini
-PoopPoop
-Poops
-Poops McGillicutty
-Poopsie
-Poopty-Oopty
-Poopy head
-Poor Thing
-Poosey Boy
-Poosha
-Pooshka
-Pooter slang for pussycat
-Pooter Scooter
-Pootie
-Pootle aka His Satanic Majesty Pootle-Flump the Third
-Pootle character in the childrens tv series "The Flumps"
-Poozle
-Pop
 Popcorn
 Pope
-Pope Cat IV
-Pope John Paul The 2nd
 Popeye
-Popia accent on the second syllable, Hokkien Chinese for "egg roll"
+Popia
 Popo
-Popoki Hawaiian for "cat"
+Popoki
 Popover
 PoppaCat
 Poppela
 Popper
-Poppet Ann Softpaws
 Poppett
 Poppie
 Poppins
-Popples after the 1985-1987 cartoon and toys
+Popples
 Poppy
-Poppy-Cat
-Poppy-paws-pumkin
 Poppyseed
 Pops
 Popsicle
 PopTart
 Porcelina
-Porcelina aka Porce
 Porche
 Porgie
 Pork Boy
 Porkchop
 Porker
 Porky
-Porky Appleyard
-Porky Pig
-Porky Pine
 Porridge
 Porsche
 Porsha
@@ -10223,43 +8965,30 @@ Posey
 Posha
 Possom
 Possum
-Possum Fluff
-Poster Nutbag
 Posy
 Poter
-Potpourri sometimes spelled poe-purry
+Potpourri
 Potter
 PouchPuella
-Pouhka after mischievous spirit that takes animal form
-Pouilly-Fuissé
+Pouhka
 Pouka
 Pounce
-Pounce A Daily On
-Pounce de Leon aka deLion
 Pouncequick
 Pouncer
-Pouncer catname in Struwwelpeter
 Pouncival
 Pounter
-Poupee French for "doll"
+Poupee
 Poutsa
 Powder
 PowderPuff
-Power Girl
-Power of Love
-Power Wucket
-Powerful Puddy
 Prana
 Prancer
 Praskovia
 Preakness
 Precious
-Precious Beardpuller
-Precious Russell Cuddlekins
 Predator
 Premier
 Prescott
-Presh short for 'precious'
 President
 Presley
 Presouse
@@ -10267,15 +8996,6 @@ Presto
 Preston
 Prettipaws
 Pretty
-Pretty Baby
-Pretty Boy
-Pretty Boy Floyd
-Pretty Girl
-Pretty Kitty
-Pretty Precious Py Puddy
-Pretty-Eyes
-Prettyboy
-Prettymama
 Pretzel
 Pricilla
 Prickle
@@ -10287,69 +9007,27 @@ Primo
 Primrose
 Primrose Path
 Prince
-Prince Charles
-Prince Charlie after the male lead character in 'Cinderella'
-Prince Charming
-Prince Fluff
-Prince Harry The Second
-Prince Hiniyana
-Prince Metternich
-Prince Myshkin after the character in Dostoevsky's "The Idiot"
-Prince Simi
-Prince Velvetine
 Princepessa
 Princeska Pooch
 Princess
-Princess Annistasia
-Princess Baby Kitten
-Princess Charlie
-Princess Christmas Katerina
-Princess Di
-Princess Diana
-Princess Eleanor of Leanna
-Princess Furball
-Princess Gobnit
-Princess Gutter
-Princess Jasmine
-Princess Leia
-Princess M'Lady Portia
-Princess Pasha
-Princess Peach from Super Mario Brothers
-Princess Penelope Peapod
-Princess Puddypat
-Princess Sarah
-Princess T'Salanah tsuh-lah-nah
-Princess Toes
-Princess Victoria
-Princess Yoda Zebedee Rose
 Princeton
 Pring
 Prinsess
-Prinsess Tigger Lilly
 Prinstin
 Pris
 Priscilla
 Prisila
 Priss
-Priss Illa
 Prissy
-Prissy Sissy With The Sassy Tail
 Priya
-Priya Sanskrit for "love"
-Pro X
-Procurl Harem
 Prodigy
 Professor
-Professor Moriarty
 Progidy
-Prom Queen
 Prometheus
 Promicious
 Promise
 Prongs
 Proton
-Proton the Wonder Cat
-Proud Mary
 Prowler
 Proxy
 Prozac
@@ -10358,59 +9036,39 @@ Prudence
 Prue
 Prune
 Prunella
-Prunella Scales
 Psalms
-Psillycybe silly head
-Psipsinella Greek for "kitty"
-Pslemish Arabic curse meaning "go away" or "get away from me"
-Pssst
-Psycho Kitten
-Psycho Kitty
-Psyco-pants
+Psillycybe
+Psipsinella
+Pslemish
 Puccini
-Puce French for "flea"
+Puce
 Puchtka
 Puck
 Pucky
-Pud a shortened form of the slang term pud-pud
 Pudd
-Puddence Wucket
 Puddin
-Puddin britches
-Puddin'tain
 Pudding
 Puddle
 Puddles
 Puddnum
 Puddy
-Puddy-foots
 Puddypaws
 PuddyTat
 Pudge
-Pudge-Puss
 Pudgette
-Pudgy Bunners
-Pudgy Bunny
-Pudgy Buns
 Puff
-Puff Baby
 Puffalump
-Puffaluptycus Puff or Puffer for short
 Puffball
 Puffer
 Pufferbelly
 Puffin
-Puffing Billy
 Puffle
 Puffy
 Pug
-Pugi-Fatface
 Pugnose
 Pugsley
 Puka
 Pukahontas
-Puke Boy
-Puke Face
 Pukey
 Pukie-kun
 Pukkedemus
@@ -10422,8 +9080,6 @@ Pumba
 Pumkin
 Pumpernickle
 Pumpkin
-Pumpkin Pie
-Pumpkin Pyewacket
 Pumpkinator
 Pumpkinseed
 Pumpy
@@ -10433,16 +9089,10 @@ Pungee
 Punk
 Punken
 Punkin
-Punkin Poodas
-Punkin Puss
-Punkin Seed
-Punkin Spooks Kitty
 Punkintat
 Punko
 Punkster
 Punky
-Punky and Ozzie sister siamese
-Punky Rouxster
 Punt
 Pup
 Pupa
@@ -10450,8 +9100,7 @@ Pupi
 Pupo
 Puppers
 Puppy
-Puppy Cat
-Purcell after composer Henry Purcell
+Purcell
 Purdey
 Purdy
 Purdykat
@@ -10459,15 +9108,6 @@ Pureheart
 Purl
 Purnickity
 Purple
-Purr "n" Pet
-Purr Baby
-Purr-bot
-Purr-fect
-Purr-fecto
-Purr-Fette
-Purr-o-matic
-Purr-Power
-Purrabus Grazen
 Purranha
 Purrball
 Purrbox
@@ -10493,25 +9133,18 @@ Pursula
 Purty Kitter
 Purvis
 Pushka
-Pushkin Russian for "fluffy"
+Pushkin
 Pushy
 Puss
 Puss Cat
 Puss in Boots
 Puss Puss
-Puss-Puss aka The Tormalator
 Pussafuss
 Pusscat
 Pusshead
 Pussita
 Pusskin
 Pussums
-Pussy
-Pussy Galore
-Pussy Gata
-Pussy Pussy
-Pussy Willow
-Pussyfoot
 Pussywillow
 Putin
 Putnam
@@ -10526,16 +9159,11 @@ Puying Maigae
 Puzzball
 Puzzie
 Puzzles
-Py
-Py Kitty
-Py Kitty Good Kitty
 Pyanfar
 Pye
 Pyepye
-PyePye aka The Pye, PyeBoy short for Pyewacket
 Pyewacket
 Pyewackett
-Pyewackett aka Pye-Pye
 Pygmy
 Pyotra
 Pyper
@@ -10546,10 +9174,8 @@ Pâté
 Quango
 Quantas
 Quantum
-Quantum Leaper
 Quanyin
 Quark
-Quark subatomic particle
 Quarky
 Quarter Pound
 Quartz
@@ -10562,9 +9188,6 @@ Quaxo
 Que
 Quedo
 Queen
-Queen Alien
-Queen Bee
-Queen Fang
 Queenie
 Queeny
 Quendi
@@ -10573,11 +9196,9 @@ Quentina
 Querida
 Quesa
 Quesadilla
-Question Mark
-Questor from the Latin 'quaestor' meaning a judge, a seeker of facts
+Questor
 Quetinka
-Quetzalcoati Aztec and Toltec mythology: the feathered serpant god
-Quetzalcoatl Mexican mythology: the god of the air and commerce
+Quetzalcoati
 Quiche
 Quiches
 Quick
@@ -10587,12 +9208,11 @@ Quid Pro Quo
 Quiet One
 Quigley
 Quill
-Quilla Irish-Gaelic: cub
+Quilla
 Quimby
 Quincy
 Quinley
 Quinn
-Quintessential Kitty
 Quinto
 Quirk
 Quirp
@@ -10606,11 +9226,8 @@ Quoddy
 Qute Qitty
 Qwilleran
 Rachel
-Rachel from the TV sitcom "Friends"
-Rachel from the tv-series "Friends"
 Racso
 Radar
-Radar D Kat
 Radburn
 Radcliffe
 Radiance
@@ -10631,11 +9248,9 @@ Raggey Andy
 Raggey Ann
 Raggie
 Raggles
-Raging Bull
 Ragmeister
 Ragmop
 Rags
-Rags 2 Riches
 Ragtime
 Ragu
 Rah Rah
@@ -10644,11 +9259,8 @@ Rahnee
 Raidar
 Raider
 Rain
-Rain Dancer Mao-ness
 Rainbo
 Rainbow
-Rainbow Brite
-Rainbow Dancer
 Raincheck
 Rainmaker
 Raintree
@@ -10669,7 +9281,7 @@ Rambo
 Rambunctious
 Rameesh
 Ramera
-Ramirez after Juan Sanchez Villalobos Ramirez in the movie "Highlander"
+Ramirez
 Ramone
 Ramsay
 Ramses
@@ -10680,11 +9292,9 @@ Rana
 Rance
 Rand
 Randall
-Randall Flagg
 Randi
 Randolph
 Random
-Random Numbers
 Randy
 Ranger
 Rani
@@ -10735,18 +9345,12 @@ Ravioli
 Rawhide
 Rax
 Ray
-Ray Charles
-Ray Man
 Rayata
 Rayburn
 Raymond
-Raymond Burr
-Raymond Chandler
-Rayne
 Raz
 Razmataz
 Razor
-Razor Blade
 Razz
 Razzie
 Razzle
@@ -10758,17 +9362,11 @@ Reba
 Rebbi
 Rebecah
 Rebecca
-Rebecca Sarah
 Rebekah
 Rebel
 Reboot
 Rebound
 Red
-Red Butler
-Red Cloud
-Red Or Redhead
-Red Prince
-Red Riding Hood
 Red Rory
 Redbeard
 Redbone
@@ -10790,26 +9388,23 @@ Reena
 Reeny
 Reese
 Reeses
-Reeses Peanutbutter Cup aka Fats
 Refund
 Reg
 Rega
 Regalo
 Regan
 Regent
-Reggae Sunsplash
+Reggae
 Reggie
 Regina
 Regina Joan
 Regina Phalange
-Regional Transportation District RTD for short
 Regis
 Regulus
 Rehnquist
 Reilly
-Reina de Corazones Spanish for "Queen of Hearts"
+Reina
 Reindeer
-Reisinho Portugese: little king
 Reject
 Reka Mao
 Rella
@@ -10823,9 +9418,8 @@ Remnants
 Remo
 Remus
 Remy
-Ren And Stimpy
+Ren
 Renaissance
-Renaissance Renai for short
 Renata
 Rene Toupee
 Renee
@@ -10849,22 +9443,17 @@ Retuy
 Reuben
 Rev
 Reverend
-Reverend Not Fredsel Dammit
 Rex
-Rex after the Rex Banner character in The Simpsons cartoons
 Rexus
 Rey
-Rey de Corazones Spanish for "King of Hearts"
 Reyna
 Reynold
-RG Max
 Rhapsody
 Rhea
 Rhedd Butler
 Rheilly
 Rhesus
 Rhett
-Rhett Butler
 Rhia
 Rhianna
 Rhiannon
@@ -10876,7 +9465,7 @@ Rhodes
 Rhodesia
 Rhonda
 Rhone
-Rhu And Barb
+Rhu
 Rhubarb
 Rhubard
 Rhya
@@ -10891,24 +9480,18 @@ Richelle
 Riches
 Richter
 Rick
-Rick aka Richard, Dick and Little Man
 Ricka
 Rickey
 Ricki Lake
 Rickie
 Ricky
-Ricky Ghostspirit
-Ricky Ricardo
-Ricky Ticky Tabby
-Ricky-Ticky-Tavi
-Rico
 Rico aka Jerico
 Ricochet
 Ricotta
 Riddle
 Riddler
 Rider
-Ridgeway aka - Reggie, Wiggly, Whichway or Fattyboy
+Ridgeway
 Ridiculous
 Riel
 Riff
@@ -10919,9 +9502,6 @@ Riggor
 Rigley
 Rigoletto
 Rikki
-Rikki-Tikki-Kitty
-Rikki-Tikki-Tavi
-Rikkibain
 Riley
 Rima
 Rimbaud
@@ -10931,25 +9511,14 @@ Rin Tin Tin
 Rindy
 Ringleader
 Ringo
-Ringo Starr
 Rio
-Rip
-Rip Van Winkle
-Rip-Van-Winkle
 Ripley
-Ripley after the novel and the movie "The Talented Mr. Ripley"
 Ripple
 Rippy
-Riri short for retard
+Riri
 Rita
 Ritty
 Ritz
-Ritz Or Ritzy
-River Bean
-River Dancer
-River Mama
-River Walker
-Rix
 Riyadh
 Riz
 Rizla
@@ -10958,17 +9527,11 @@ RJ
 Ro
 Roach
 Roadkill
-Roald Berntsen aka Toonces, named after a private investigator in Norway
-Roast
-Roast-A-Kitty
+Roald
 Rob Roy
 Robbie
 Robert
-Robert Cohen
-Robert Redford
 Robin
-Robin Goodfellow
-Robin of Loxley Loxley is the birthplace of the original Robin Hood
 Robo-cat
 Robocat
 Robroy
@@ -10977,30 +9540,26 @@ Rocca
 Rocco
 Rochester
 Rock
-Rockafella Skank
+Rockafella
 Rockefeller
 Rocker
 Rocket
-Rocket Cat
 Rocketman
 Rockford
 Rocko
 Rocksteady
 Rocky
-Rocky And Bullwinkle
+Rocky
 Rococo
 Rodeo
 Rodesia
-Rodgers & Hammerstein
+Rodgers
 Rodman
 Rodney
-Rodney after the character in the british sitcom "Only Fools And Horses"
 Rodrigo
 Roedtop
 Rogan
 Roger
-Roger Crat
-Roger the Dodger
 Rogue
 Rojo
 Roland
@@ -11008,23 +9567,18 @@ Rolex
 Rolf
 Roli
 Rolls
-Rolo Burmese
 Roma
 Roman
 Romana
 Romani
 Romano
 Romeo
-Romeo And Juliet
 Romeow
 Rommie
 Romola
 Romp
 Romper
 Romulus
-Roméo Cliffhanger
-Ron Ronald Reagan
-Ronaldo
 Rondeau
 Roni
 Ronin
@@ -11038,43 +9592,30 @@ Rontuarue
 Roo
 Rooby
 Rooikat
-Rooikat in Afrikaans. English is Redcat
 Rookie
 Roommate
 Roopis
-Roopis Lert
 Roosevelt
 Rooster
-Rooster-Roo
 Root Beer
 Ror
-Rorschach Inkblot
 Rory
-Rory aka Rors
 Rosabells
 Rosalind
 Rosanna
-Rosanna Banana
 Rosario
 Rosarita
 Roscoe
-Roscoe Rascalini
 Rose
-Rose Kennedy Cat
 Rosebean
-Rosebean from a book by John Lennon
 Rosebud
 Roselily
 Rosemary
-Rosencrantz from Rosencrantz & Guildenstern are Dead
 Rosey
 Rosi
 Rosie
 Rosie Derrida
-Rosita after Joey's chair in Friends
 Ross
-Ross from the TV sitcom "Friends"
-Ross from the tv-series "Friends"
 Rossa
 Rossalini
 Rossini
@@ -11083,11 +9624,9 @@ Roswelle
 Rot
 Rothschild
 Rotten
-Rotten Little Kitty
 Rouge
 Rouhilio
 Roussi
-Route 3
 Roux
 Rouxamond
 Rouxster
@@ -11096,15 +9635,12 @@ Row
 Rowan
 Rowan Tree
 Rowdy
-Rowen Welsh for "slender and wize"
+Rowen
 Rowin
 Rox
-Rox In Sox
 Roxanna
 Roxanne
 Roxas
-Roxette
-Roxi Doodle Bug
 Roxie
 Roxorama
 Roxy
@@ -11114,64 +9650,46 @@ Roxzee
 Roy
 Roy Rogers
 Royal
-Royal Emerald Steele
 Roz
 Roza
 Rozalia
 Rozz
 Ru'Bella
-Ru'Bella aka Bella or Belly
-Ruari Irish for "red king"
 Ruben
 Rubu Dugan
 Ruby
-Ruby Jean
-Ruby Tuesday
 Rucker
 Ruddibuddy
-Rude Boy
 Rudi
 Rudie
 Rudikins
 Rudolf
 Rudolph
-Rudolph Orangino
-Rudolph Patoodolph
 Rudy
-Rudy Patootie
 Rudyard
 Rue
 Ruff
-Ruff Ruff I Love Fetch
 Ruffian
 Ruffles
 Rufie
 Ruford
 Rufus
-Rufus Redcat
-Rufus T. Fleance L'Orange Jones
-Rufus the naked mole cat
 Rug
-Rug Rat
 Ruggles
 Rugrat
 Rum
-Rum Tum
-Rum Tum Tugger
 Rumball
 Rumblekitty
 Rumblepurr
 Rumbles
 Rumhead
 Rumi
-Rumpelstiltskin
 Rumple
 Rumple-Teazer
 Rumplenuts
 Rumples
 Rumplestiltzkin
 Rumpleteazer
-Rumpole Of The Bailey
 Rumpus
 Rumpus Cat
 Runner
@@ -11180,8 +9698,6 @@ Runtis
 Runway
 Rupaul
 Rupert
-Rupert middle name: Biggles
-Rupert [Middle Name: Biggles]
 Ruppert
 Ruru
 Rusafee
@@ -11197,8 +9713,6 @@ Rustle
 Rustler
 Rusty
 Ruth
-Rutherford B. Hayes
-Ruthie aka Baby Ruth
 Rutledge
 Ryanne
 Ryder
@@ -11222,18 +9736,15 @@ Sabrina
 Sabrina Snow
 Sacchan
 Sacco
-Sacco The Amazing Fetch Kitty
 Sachiko
 Sachin
-Sackett from a book about a family named "The Sacketts"
+Sackett
 Sacko
 Sad Sack
 Sada
-Sadaka means "charity" in Turkish
+Sadaka
 Sadhi
 Sadie
-Sadie Hawkins
-Sadie Jadzia Hommel
 Sado
 Sadora
 Safari
@@ -11246,20 +9757,15 @@ Safram
 Saga
 Sagan
 Sage
-Sage Felicity Bridgette
 Sagebrush
 Sagwa
 Sahara
 Sahib
-Sahiba Arabic for "female companion"
+Sahiba
 Sail
 Sailor
 Sailor Boy
 Saint
-Saint Ashlar
-Saint Inklemann
-Saint Paw
-Saint Pawl
 Saja
 Sajak
 Saji
@@ -11270,41 +9776,27 @@ Salamaller
 Salamander
 Salem
 Salerno
-Salley Cat Female alley Cat 
+Salley
 Sallie
-Sallllllllly
 Sally
-Sally Luna
 Salom
 Salome
 Salon
 Salsa
-Salt II
-Salt/Pepper
 Salter
 Salty
 Salvador
 Salvatore
 Sam
-Sam Cat
-Sam Furman
-Sam I Am
-Sam Spade
-Sam The Ratcat
-Sam-Girl
-Sam-I-Am
 Samantha
-Samantha Meowington
-Samara after the character in "The Ring" movie
-Samara Kitty
+Samantha
+Samara
 Samatha
-Samatha Louise
 Samba
 Sambo
 Sambrina
 Sambuca
 Sambuka
-Samda Cat
 Samflash
 Sami
 Samitha
@@ -11314,61 +9806,42 @@ Sammie
 Sammieguy
 Sammsa
 Sammy
-Sammy Blacfoot
-Sammy Dash
-Sammy Davis, Jr.
-Sammy Malone
-Sammy Silverpaws
 Samori
 Sampson
 Samson
-Samson And Delilah
 Samtu
 Samuel
-Samuel Adams
-Samuel Jackson
-Samuel Peckinpaw
 Samurai
-Samus Aran from the Nintendo game "Metroid"
-Samwise Lord of the Rings
+Samus
+Samwise
 San Soo
 Sanani
 Sanar
 Sanborn
 Sancho
-Sanctifikitty
-Sand Rat
 Sanders
 Sandie
 Sandler
-Sandler after the actor Adam Sandler
 Sandman
 Sandoval
 Sandra
 Sandrake
 Sandrine
-Sandunga from a Mexican song
+Sandunga
 Sandy
-Sandy Claws
-Sandy Koufax after Sanford Koufax, baseball pitcher
 Sangievese
 Sangria
 Sanspoof
 Santa
-Santa after the novel by Federico Gamboa
-Santa Fe
-Santa's Little Helper
 Santal
 Santana
 Santaria
 Santi
-Santi aka santi claws, a found cat who had been stuck in a chimney 4 days
 Santini
 Santo
-Sanura Egyptian for "pretty little girl in a field of flowers"
+Sanura
 Sany
 Saphi
-Saphi short for Sapphire Eyed Baby
 Sapphire
 Sappho
 Sara
@@ -11376,10 +9849,8 @@ Sara Burnheart
 Sara Lee
 Sara Rose
 Sarabeth
-Sarabi from The Lion King
 Sarafina
 Sarah
-Sarah's Champagne Truffle
 Saraneth
 Sarasota
 Sarge
@@ -11389,15 +9860,10 @@ Sari
 Sarina
 Sarj
 Sarsaparilla
-Saru "sah-roo"
-Sasa after the DJ from Hong Kong
 Sasaparilla
 Sascha
 Sasche
 Sasha
-Sasha Jhoie
-Sasha Silvertoes
-Sasha Whitebelly
 Sasha Yar
 Sasha-Pasha
 Sashapuss
@@ -11407,36 +9873,24 @@ Sashquatch
 Saskia
 Sasquach
 Sasquatch
-Sasquatch has extra toes and hence is a bigfoot
 Sass
 Sassa-Cat
 Sassafras
-Sassafrass Sassy
 Sassea
-Sassenach those who are not Scottish
+Sassenach
 Sassette
 Sassy
-Sassy McCat
-Sassy Pearl
-Sassy Stinson
-Satai pronounced suh+tie - from the tv show Babylon 5. It means revered one
+Satai
 Satana
 Satay
 Satchel
 Satchmo
 Satellite
-Sati Egyptian Goddess whose arrow was so swift it kept rivers flowing
 Satin
-Satin Doll
-Satin Doll Baby
-Satine after the character in the musical 'Moulin Rouge'
 Sativa
 Satori
 Saturday
 Saturn
-Saturnian Amulet
-Sauce Or Saucy
-Saucey for Saucier Mississippi
 Saucy
 Sausage
 Sauvage
@@ -11447,7 +9901,6 @@ Savernake
 Savoy
 Savvers
 Savvy
-Sawda Female Arabian name, meaning "black one"
 Sawyer
 Saxon
 Saxton
@@ -11465,8 +9918,8 @@ Scampi
 Scamps
 Scampurr
 Scandalous
-Scar from The Lion King
-Scaramouche a character in the play "Scaramouche"
+Scar
+Scaramouche
 Scarborough
 Scardey
 Scardie-Cat
@@ -11477,10 +9930,8 @@ Scaredy Cat
 Scarface
 Scarlet
 Scarlett
-Scarlett And Rhett
-Scarsborough the Fair
+Scarsborough
 Scary Mary
-Scat as in Scat-Cat
 Scatter
 Schatzie
 Scheherazade
@@ -11488,14 +9939,13 @@ Schizo
 Schlumphene
 Schmedl
 Schmeichel
-Schmitty the little kitty
+Schmitty
 Schmoo
 Schmooze
 Schmoozer
 Schmuckie
 Schnapps
 Schnee
-Schnee "snow" in German
 Schnickles
 Schnitzel
 Schnitzy
@@ -11504,9 +9954,7 @@ Schnook
 Schnuggems
 Scholastica
 Schooner
-Schputtie Butt-toosk
 Schrodinger
-Schrodinger's Cat of physics fame
 Schroeder
 Schuffalufagus
 Schuler
@@ -11524,39 +9972,22 @@ Scone
 Scoobie
 Scoobs
 Scooby
-Scooby Doobie Doo
-Scooby Doobies
-Scooby-Doo
-Scootacious P. Fruitwinkle aka Scooty, aka Scooty Fruit
 Scooter
-Scooter Loo
-Scooter Pie
-Scooter The Midnight Hooter
-Scooter Toot-toot Tat
-Scooter-Boodah
-Scorpanon
 Scorpio
 Scorpion
 Scotch
-Scotch & Soda
 Scott
 Scottie
 Scotty
 Scoundrel
 Scout
 Scrapper
-Scrappleton Pie
 Scrappy
-Scrappy Too
-Scrappy-Doo
 Scratch
 Scratchy
-Scratchy McFleaface III
-Scratchy-Patchy
 Scrawny
 Scrawny Cat
 Screamer
-Screaming Meme
 Screech
 Screwtop
 Scribbles
@@ -11565,48 +9996,32 @@ Scrooge
 Scruff
 Scruffy
 Scruge
-Scrumptious
-Scrumpy after the home-made apple cider
-Scsi
-Scsi "scuzzie"
-Scsi2
-Scsi2 "scuzzie too"
 Scuba
 Scud
 Scudder
 Scully
-Scully-faced Butthead
 Scuma
 Scummy
 Scutter
 Scuzzface
 Scylla
-Sea Bisquit
-Sea Dog
-Seabone Sam
 Seabreeze
 Seairah
 Seal
-SeaLab 2021
 Seamus
 Sean
 Seanna
-Seanna, Goddess of Water
-Search And Destroy
-Seargent Tibbs from 101 Dalmations
+Search
+Seargent
 Seattle
 Sebastian
-Sebastian Napolean Bonaparte Bartholomew
-Sebastian Napolean Bonaparte Bartholomew MacGillikitty II
-Sebastian White Paws
 Sebatstion
 Sebby
 Sebbys
 Sedona Sage
 See Saw
-See-A-Tee after the spelling of c-a-t
 Seeger
-Sef Egyption Mythology: loday
+Sef
 Sefton
 Sega
 Segun
@@ -11615,14 +10030,10 @@ Seinfeld
 Seka
 Sekita
 Sekmet
-Sekmet named after the Egyption lion-headed goddess
 Sekou
 Selby
 Selena
-Selena after the goddess Selene
 Selene
-Selene after the Greek godess of the moon
-Selene Lilth Zildjian
 Selenium
 Selig
 Selina
@@ -11634,25 +10045,15 @@ Semba
 Semi
 Semik
 Seminole
-Senator Loomis P Nutley III
 Seneca
-Senior
-Senior Assistant Mouser
-Senior Kitty
 Senna
 Senneca
 Senorita
-Senorita Kitty
-Senorita Margarita
 Sensei
 Sentral
 Sephanie
 Sephanine
 Sepher
-Sepher-Do
-Sepher-Doodle
-Sephie
-Sephie-Sephie-Sefie
 Sephora
 Sephronia
 Sequoia
@@ -11660,10 +10061,6 @@ Sera
 Serafim
 Serafima
 Serai
-Serai aka Rennie, Renley, Rai, Dragon a giant red tabby
-Seraphim Hebrew word for angels
-Seren for Serendipidity
-Seren from the word "serenity"
 Serena
 Serenade
 Serendipity
@@ -11680,37 +10077,30 @@ Sesi
 Sessan
 Set
 Seth
-Setra after the coach brand "Setra-Kässbohrer"
+Setra
 Settete
 Seurat
 Seuss
 Seven
-Seventh Heaven
-Seventy Five
 Severus
 Seville
 Sevvie
 Seward
 Sexkitten
 Sexton
-Sexy Cat
-Sexy Kelsey
 Seychelles
-Seymore Our cat who likes to hide that we want to "see more" of
+Seymore
 Seymour
-Sgt. Pepper
 Sha-Na-Na
 Sha-Sha
 Shaaz
-Shabanu after the book "Shabanu: daughter of the wind" by Suzanne Fisher Staples
+Shabanu
 Shabou
 Shack
 Shada
-Shades of Grey
 Shadi
 Shadow
 Shadow
-Shadow "Houdini"
 Shadow Chat
 Shadow-Bear
 Shadowfax
@@ -11722,14 +10112,14 @@ Shaft
 Shaggy
 Shah
 Shahalie
-Shai hebrew for "gift"
+Shai
 Shaina
 Shajanapur
 Shaka Zulu
 Shakes
 Shakespeare
 Shakespurr
-Shakilah Pygmy for "black female"
+Shakilah
 Shakira
 Shalimar
 Shalklad
@@ -11743,7 +10133,7 @@ Shamrocka
 Shamu
 Shamus
 Shamus Blue
-Shana Yiddish for "princess"
+Shana
 Shandy
 Shane
 Shanghi
@@ -11754,7 +10144,6 @@ Shannenay
 Shannon
 Shanti
 Shaq
-Shaquille O'Neil
 Shar
 Share
 Sharkey
@@ -11762,7 +10151,7 @@ Sharky
 Sharni
 Sharp
 Shasha
-Shashi Kapoor after the Indian actor
+Shashi
 Shasta
 Shastri
 Shatzie
@@ -11777,7 +10166,7 @@ Shaynapet
 Shaynapie
 Shaynapoo
 Shaynapretzel
-Shaynapuddin'
+Shaynapuddin
 Shaynie
 Shaynmeister
 Shazbot
@@ -11786,20 +10175,16 @@ Shazzam
 She-Devil
 She-she
 Sheba
-Sheba-Do
-Sheba-Maud
-Shebe-Debe
-Sheeba after the cat food
+Sheeba
 Sheeber
 Sheena
 Sheer
 Sheera
 Sheeva
 Sheffield
-Shego character in the "Kim Possible" cartoon
+Shego
 Shegwah
 Sheik
-Sheik Djobouti
 Sheila
 Shelby
 Sheldon
@@ -11810,7 +10195,7 @@ Shemaya
 Shenanigans
 Shepert
 Shepherd
-Sherazade variation of Scheherazade
+Sherazade
 Sherbert
 Sherbet
 Shere Khan
@@ -11818,11 +10203,8 @@ Sheridan
 Sheriff
 Sheringham
 Sherlock
-Sherlock and Watson
-Sherlock Holmes
 Sherly
 Sherman
-Sherman Tank
 Sherry
 Sherwin
 Sherwood
@@ -11830,30 +10212,26 @@ Shia
 Shicalf
 Shiitake
 Shika
-Shikilah Pygmy for "black female"
-Shiko Japanese for "claw"
+Shikilah
+Shiko
 Shiksa
 Shila
 Shilo
 Shiloh
-Shim Shim Shiree
 Shima
 Shimi
 Shimmer
-Shimmering Ice Puzzle
 Shimmy
 Shine
 Shingles
 Shingy
-Shining Star
 Shinka
-Shino Japanese for "a long thin piece of bamboo"
-Shiny New Penny
+Shino
+Shiny
 Shirah
 Shiraz
-Shirin Persian for "Sweet"
+Shirin
 Shirley
-Shirley Temple
 Shish
 Shishka
 Shit
@@ -11861,10 +10239,9 @@ Shitakii
 Shitface
 Shithead
 Shittin
-Shitty Kitty
 Shiva
 Shlomo
-Shmatte Yiddish for "rag", an old or ragged garment
+Shmatte
 Shminok
 Shmoo
 Shmoopie
@@ -11875,11 +10252,10 @@ Shnoo
 Shnookums
 Sho-Shona
 Shoda
-Shodabear Hebrew for "silly knight"
 Shoela
 Shoeless
 Shogun
-Shohornemar Hebrew for "black tiger"
+Shohornemar
 Shoni
 Shoobbie
 Shoogar
@@ -11891,14 +10267,12 @@ Shortcake
 Shortstop
 Shorttail
 Shorty
-Shorty Mcshort Shorts
 Shosh
 Shoshony
 Shotgun
 Shotzie
 Shotzy
 Shout
-Shovel Head
 Show
 Showboat
 Showdy
@@ -11917,7 +10291,6 @@ Shubert
 Shuffin
 Shuggy
 Shukran
-Shunka Witco
 Shunkman
 Shut Up
 Shy
@@ -11931,14 +10304,11 @@ Siam
 Siamese
 Siamsa
 Siani
-Siati pronounced C-A-T Si-A-Ti
 Siberian Tiger
 Sibyl
 Siciliano
 Sicily
 Sid
-Sid And Nancy
-Sid Vicious
 Sideways
 Sidewinder
 Sidmeister
@@ -11955,7 +10325,7 @@ Sierra Leone
 Sifka
 Sigma
 Sigmund
-Sigri from the Greek Isle of the same name
+Sigri
 Sigurd
 Siki
 Sikkim
@@ -11970,43 +10340,26 @@ Silkers
 Silkwood
 Silkworth
 Silky
-Silky Beast
 Sillabub
 Silly
-Silly Maybelline The Acid Queen
-Silly Sidney
 Silva
 Silver
-Silver Fox
-Silver Mountain
-Silver Streak
-Silver Toes
-Silverspoon
 Silverstein
 Silvester
 Silvia
 Silvie
 Silvina
-Silvio from the sitcom "The Sopranos"
-Sim-shin
-Sim-Silly-Sim
+Silvio
 Sima
-Simba
-Simba from The Lion King
-Simba Kie
-Simba Sue
 Simbad
 Simena
 Simeon
 Simkin
 Simochka
 Simon
-Simon Says
-Simon Sez
 Simone
 Simons
 Simpatico
-Simply Red
 Simpson
 Sin
 Sinatra
@@ -12015,53 +10368,21 @@ Sinbar
 Sinclair
 Sinder
 Sine
-Sing Lee A-Cha-Cha
 Singe
 Singer
-Singh Hindu for "lion"
+Singh
 Sinister
 Sinker
 Sinoe
 Sinora
-Sinta after the Indonesian mythical princess
+Sinta
 Sintya
-Sir
-Sir Callaway
-Sir Ding Bat of Ashburn
-Sir Fat Lowis
-Sir Fatness
-Sir Higgenpoof
-Sir Lancelot
-Sir Little Bigfeets
-Sir Little Bigfoot
-Sir Max the Fearful
-Sir Meowington Pudger Cat The Third
-Sir Michael's Harley of Campton
-Sir Nicholas
-Sir Nickapoopalot
-Sir Poop-a-lot
-Sir Poops-A-Lot
-Sir Prance Alot
-Sir Purr-A-Lot
-Sir Purrs-a-lot
-Sir Raider
-Sir Sebastian
-Sir Seddrik
-Sir Simon Cinnamon
-Sir Stinkalot the 1st
-Sir Thomas Lipton
-Sir Tigger The Blue after Tigger in Winnie the Pooh
-Sir Weebit
-Sir Weeble Wobblybottom
-Sir William
-Sir Winston Whines-A-lot
-Sir Wyles of Ashencoat a play on "Agincourt"
 Sirana
 Siren
 Sirius
 Sirus
 Sisco
-Siskel And Ebert
+Siskel
 Sisko
 Sissy
 Sister
@@ -12069,9 +10390,8 @@ Sita
 Sitar
 Sitka
 Sitsa
-Sitting Bull
 Siva
-Siva after the Hindu god of destruction
+Siva
 Six
 Six Toes
 Sixer
@@ -12081,17 +10401,17 @@ Sizi
 Sizzle
 Sjakie
 Sjimmie
-Sjors Dutch version of George
+Sjors
 Skank
 Skanky
 Skat
-Skattie Afrikaans for "little treasure"
+Skattie
 Skatz
 Skedaddle
 Skeeder
 Skeet
 Skeeter
-Skeletor character in the Masters of the Universe cartoon
+Skeletor
 Sketchy
 Skidder
 Skids
@@ -12123,7 +10443,7 @@ Skunky
 Sky
 Sky Hawk
 Skye
-Skyelar Cricket Sc'thyst
+Skyelar
 Skyla
 Skyler
 Skymble
@@ -12140,11 +10460,8 @@ Slats
 Slax
 Sleek
 Sleepy
-Sleepy Cat
-Sleepy Eye
-Sleepy Jackson
 Sleestack
-Slenderback Treecatimous
+Slenderback
 Slicer
 Slick
 Slick Willie
@@ -12152,17 +10469,12 @@ Slicker
 Slickers
 Slicks
 Slickster
-Slicky the Porch Panther
 Slider
 Slim
-Slim Jim
 Slinker
 Slinkerdoodle
-Slinkus.
+Slinkus
 Slinky
-Slinky D.
-Slinky Malinky
-Slinky Pinky
 Slinx
 Slipknot
 Slippers
@@ -12170,23 +10482,14 @@ Slippery
 Slither
 Slither Cat
 Slitzercoo
-Slobbash Butterball
 Slobbechops
 Slobber-Puss
-Slobbers
-Sloopy
-Sloppy
 Sloth
 Slugger
 Sluggo
 Slurp
-Slut Cat
-Sly
-Sly Boy
-Slykitty
 Slytherin
 Smack
-Small Man in a Catsuit
 Smartie
 Smarty
 Smash
@@ -12194,7 +10497,6 @@ Smasher
 Smeagol
 Smedly
 Smeghammer
-Smelly Cat
 Smidge
 Smidgen
 Smidgeons
@@ -12202,33 +10504,20 @@ Smidget
 Smidgewidge
 Smiles
 Smiley
-Smiley Buttons
 Smirkin
 Smith
-Smith And Wesson
-Smither the Poop
 Smitty
 Smizza
 Smocky
 Smog
-Smok'n Sally
 Smoka
 Smoke
 Smoker
 Smokeshack
 Smokey
-Smokey Jo
-Smokey Joe
-Smokey Joe roach
-Smokey Kitty
-Smokey the Bandit
-Smokey/Smokie
 Smokie
 Smoko
 Smoky
-Smoky Baby
-Smoky Cat
-Smoky One-Eye
 Smoochee
 Smoocher
 Smoochers
@@ -12263,12 +10552,6 @@ Sneaky
 Sneaky Joe
 Sneezy
 Snicker
-Snicker Doddles
-Snicker Doodles
-Snicker-Doodle
-Snickers
-Snickle Fritz
-SnickleFritz Schnurren German for 'Purry Rascal'
 Sniff
 Sniffer
 Sniffles
@@ -12283,7 +10566,6 @@ Snocap
 Snodgrass
 Snoez
 Snoogie
-Snoogin' Kitty
 Snoogybear
 Snook
 Snooker
@@ -12300,8 +10582,6 @@ Snoops
 Snoopy
 Snooty
 Snorkler
-Snorky
-Snorky Kitty
 Snorri
 Snorter
 SnotBall
@@ -12309,24 +10589,6 @@ Snotje
 Snots
 Snout
 Snow
-Snow Princess
-Snow White
-Snow-girl
-Snowball
-Snowberry
-Snowbird
-Snowbunny
-Snowcat
-Snowfall
-Snowfire
-Snowflake
-Snowie
-Snowman
-Snowmist
-Snowshoe
-Snowshoes
-Snowstorm
-Snowy
 Snuff
 Snuffelufugus
 Snuffles
@@ -12336,28 +10598,25 @@ Snugganuts
 Snugglebunny
 Snugglepuss
 Snuggles
-Snuggles Or Snuggle-Puss
 Snöggur
 So Me
 Sobby
-Sock 'em Boppers
 Sockie Boy
 Socks
 Socrates
 Socs
 Soda
-Sodom And Gomorrah
+Sodom
 Sofa
 Sofia
-Sofia Luisa Princess Dirty Feet
-Sofka Russian for "wise"
+Sofka
 Soft
 Sohare
 Sok
 Solan
 Solar
 Soleil
-Solid Snake from the video game "Metal Gear Solid"
+Solid Snake
 Solie
 Soliloquy
 Solitaire
@@ -12366,15 +10625,13 @@ Solo
 Soloman
 Solomon
 Solsjakeer
-Solskjaer pronounced "Soul shaker"
+Solskjaer
 Solstice
 Solt
 Soluna
 Somara
-Sombra Spanish for "shadow"
+Sombra
 Somchai
-Some Sissy Kitty
-SOMEone!
 Somerset
 Sonar
 Sonata
@@ -12384,9 +10641,6 @@ Sonic
 Sonja
 Sonnet
 Sonny
-Sonny And Cher
-Sonny Bono
-Sonny Delight
 Sonoma
 Sonora
 Sonta
@@ -12407,12 +10661,11 @@ Sopher
 Sophia
 Sophie
 Sophie Lilac
-Sophie/Sophia
 Sora
 Soran
 Sorassa
 Sorbet
-Sorcerer Or Sorceress
+Sorcerer
 Sorceror
 Sorcha
 Sorcorn
@@ -12425,12 +10678,9 @@ Souki
 Soup
 Sour Soup
 Sourdough
-Southern Comfort
-Southern Lady
 Southpaw
 Souverain
 Sox
-Sox/Soxy
 Soxy
 Soybay
 Space Cadet
@@ -12439,21 +10689,16 @@ Spackman
 Spade
 Spades
 Spaette
-Spaetzle.
+Spaetzle
 Spaghetti
 Spago
 Spam
-Spam Wucket
 Spamela
 Spandex
 Spanky
 Spare
-Spare Cat
-Spare Parts
-Spare Tire
 Sparecat
 Sparkey
-Sparkey Or Sparkle
 Sparkle
 Sparkles
 Sparklett
@@ -12473,43 +10718,32 @@ Spazzster
 Spazzy
 Speagle
 Special
-Special K Special Kat
 Special Kay
 Speck
 Speckie
-Speckle Butt
 Speckles
 Specks
 Specs
 Specter
 Spectra
-Sped Special Ed
 Speed
 Speed Bump
 Speedie
 Speedy
-Speedy Gonzales
-Speedy Gonzalez
-Spellbinder
 Spencer
-Spencer The Power Meower
 Spenser
 Sphinx
 Spiccoli
 Spice
-Spice 'O Life
-Spice Girl
-Spice Kitty
 Spicecake
 Spicelab
 Spicy
 Spider
-Spider Kitty
 Spiderman
 Spidey
 Spiff
 Spiffy
-Spiggy One of Gods cats
+Spiggy
 Spigot
 Spike
 Spikey
@@ -12520,23 +10754,20 @@ Spinner
 Spinoza
 Spirit
 Spitfire
-Spitha Greek for "spark"
+Spitha
 Spitsey
-Spitz from the video game "Wario Ware"
+Spitz
 Splash
 Splasher
 Splat
-Splat reference to the Unix * symbol
 Spliff
 Splinter
-Splish and Splash
 Splodge
 Splotch
 Splotches
 Spluge
 Spock
 Spokane
-Sponge Bob Square Pants
 Spongebob
 Spoofy
 Spooge
@@ -12551,7 +10782,6 @@ Spooky
 Sport
 Sporty
 Spot
-Spot after Data's cat on "Star Trek: The Next Generation"
 Spotta
 Spotty
 Spotzilla
@@ -12568,7 +10798,7 @@ Spritzer
 Sprocket
 Sprout
 Spud
-Spudnik like Spud, but with a "Russian punny twist"
+Spudnik
 Spuds
 Spudster
 Spumanti
@@ -12592,13 +10822,10 @@ Squat
 Squeak
 Squeakbox
 Squeaker
-Squeaker Doodle
 Squeakers
 Squeakie
-Squeaks of the Long Whiskers
+Squeaks
 Squeaky
-Squeaky Cat
-Squeaky LaRue
 Squeek
 Squeekie
 Squeeks
@@ -12608,27 +10835,22 @@ Squeezebox
 Squeezy
 Squib
 Squibbly
-Squibbly Wibbly
 Squid
 Squidge
 Squidward
 Squierl Meat
 Squiffel
 Squiggy
-Squinklemeyer
-Squinklemeyer Jones
 Squinky
 Squir-Cat
 Squirm
 Squirrel
 Squirt
-Squirt Kitty
 Squirts
 Squishy
 Squit
 Sqwert
 Srinath
-St. Nicholas
 Stacey
 Stache
 Stackhouse
@@ -12640,17 +10862,15 @@ Stalin
 Stallone
 Stalone
 Stan
-Stan after the South Park character Stan Marsh
+Stan
 Stanislav
 Stanley
-Stanley Mitchell
-Stanley Tiggeywinkles
 Star
 Star Wars
 Starball
 Starbuck
 Starburst
-Stardust Or Starlight
+Stardust
 Stargazer
 Stark
 Starkey
@@ -12658,10 +10878,8 @@ Starla
 Starlet
 Starlight
 Starr
-Starr-O'-The-West
 Starry
 Starry Eyes
-Stars and Stripes
 Starsky
 Starstruck
 Stash
@@ -12669,7 +10887,6 @@ Stasha
 Static
 Stauby
 Stavanger
-Stay Put White Kitty
 Stealth
 Steamer
 Steave
@@ -12685,11 +10902,9 @@ Stennis
 Stephanie
 Stephen
 Sterling
-Sterling Price after the cat in John Wayne's movie "True Grit"
 Sterling Silver
 Stetson
 Steve
-Steve "I love to eat Papa John's Pizza"
 Steve O
 Steven
 Stevenstien
@@ -12698,79 +10913,48 @@ Stevers
 Steverspoo
 Stevester
 Stevie
-Stevie Ray
-Stevie Ray Vaughn
-Stevie Van
-Stevie Wonder
-Stevie Wondercat
 Steviekins
 Stew
 Stich
 Stick
 Sticky
 Stiffy
-Stig after the racing driver in the Top Gear tv show
+Stig
 Stigr
-Stillwell
-Stiltcat
-Stimpson J. Cat
 Stimpy
 Sting
 Stingray
 Stink
 Stinker
-Stinker Or Stinker Belle
-Stinker Pinker
-Stinkey Pukey
 Stinktapoo
-Stinkus Bodinkus
-Stinky
-Stinky-Butt Girl
-Stinkybutt
 Stippy
 Stir Fry
-Stirling Mossacino The First
+Stirling
 Stitch
-Stitch after the character in the Lilo And Stitch cartoon
 Stitchery
 Stitches
 Stolen
 Stoli
-Stoltzpus from the Pennsylvania Dutch name "Stoltzfus"
+Stoltzpus
 Stoner
 Stonewall
 Stoney
 Stoodle-Ann
-Stop That!
-Stop-That-You-Little-Bastard
 Stopper
 Storm
-Storm Cloud
-Storm Or Stormy
-Storm Shadow
-Storm`ee
 Stormdragon
 Stormie
 Stormy
-Stormy Belker
-Stormy Gail
-Stormy Teide
 Stout
 Stowaway
 Stranger
-Stranger Danger
-Stranger Ranger
-Stranger Than Most
 Stratford
 Strawberry
 Stray
 Streaker
-Street Walker
 Strega
 Strepe
-Strepe Afrikaans for "Stripes"
 Stress
-Stress Reliever
 Stretch
 Stribe
 Strider
@@ -12784,15 +10968,12 @@ Stripey
 Stripey Lady
 Stripeypants
 Stripington
-Stroker brother of McGurk - named after a '50s hot rod magazine cartoon
+Stroker
 Stroodles
 Strudel
 Strutter
-Stryper named after the Christian rock group
+Stryper
 Stuart
-Stuart Chester
-Stuart Chesters
-Stuart Little
 Stubb
 Stubbles
 Stubborn
@@ -12802,7 +10983,6 @@ Stubman
 Stud
 Studebaker
 Studley
-Studley J. Schackleford
 Studmuffin
 Stump
 Stumpy
@@ -12811,32 +10991,15 @@ Stupid
 Stupid Cat
 Stupid Kat
 Stymie
-Styx from Greek mythology, the river that formed the boundary between earth and the underworld
+Styx
 Sublime
 Succotash
 Sucky
 SuddenLee
-Sudi Egyptian for "Lucky"
+Sudi
 Sue
-Sue Ellen Mewing
 Suede
 Sugar
-Sugar And Spice
-Sugar Bear
-Sugar Magnolia
-Sugar Ray
-Sugar'n Spice
-Sugar-Plum
-Sugarbabe
-Sugarbaby
-Sugarbaker
-Sugarbear
-Sugarbob Funkybunch
-Sugarfoot
-Sugarlumpskittyjr
-Sugarpine
-Sugarplum
-Sugarpuss
 Sugie
 Sugie Bear
 Sugus
@@ -12844,11 +11007,10 @@ Suibne
 Suitcase
 Suk
 Sukanta
-Sukhothai Thai for "the dawn of happiness"
+Sukhothai
 Suki
 Suki Aki
 Sukiyaki
-Sula Eskimo for "rising sun"
 Sulayman
 Sulfur
 Sullivan
@@ -12859,20 +11021,13 @@ Sulu
 Sumatra
 Sumi
 Summer
-Summer Cherry
-Summer Lovin
-Summer Sol
-Sumo
 Sun
 Sun Ra
-Sun Tzu Liao Klein
 Sun-King
 Sun-Knife
 Sunball
 Sundae
 Sundance
-Sundance Kit
-Sundance Sunny Delight
 Sunday
 Sundown
 Sunflower
@@ -12888,15 +11043,7 @@ Sunrise
 Sunset
 Sunset Adria
 Sunshine
-Sunshine Kitty
 Super
-Super French
-Super Kitty
-Supercalafragelistic
-Supercat
-SuperGirl
-Superpuss
-Supertramp
 Surinai
 Surplus
 Survivor
@@ -12905,25 +11052,18 @@ Susanna
 Sushi
 Susi
 Susie
-Susie Creamcheese
-Susie Sex Change
 Suske
 Suss
 Sussudio
-Sussuro Spanisch for "purr"
+Sussuro
 Sussy
 Susu
-Susu Malay for "milk"
 Suzanka
 Suze
 Suzette
 Suzi
 Suzie
-Suzie Sweetheart
-Suzie-poo
 Suzy
-Suzy Q
-SV
 Svede
 Svedish
 Sven
@@ -12937,49 +11077,20 @@ Swayze
 Sweathog
 Swede
 Swedish
-Swedish Par-Toodles
-Swedish Pie
-Swedish Pie Tart
 Swee-Pea
 Swee-Pee
 Swee-Swee
 Sweeny
 Sweep
-Sweet
-Sweet Annie
-Sweet Baby Kitty
-Sweet Cheeks
-Sweet Feet
-Sweet Fluffums
-Sweet Girl
-Sweet Ness
-Sweet Pea
-Sweet Pee
-Sweet Tart
-Sweet Will
-Sweetcakes
-SweetFeet
-Sweetheart
-Sweetie
-Sweetie Bear
-Sweetie Kitty
-Sweetie Pie
-Sweetie-Cakes
-Sweetie-Heart
-Sweetiekins
-Sweetikins
 Sweeting
 Sweetness
 Sweetpea
 Sweets
 Sweetums
-Swimmer Girl
 Swiper
 Swiss
 Swizzle
-Swizzle Stix
 Swoozie
-Sy
 Sybil
 Sycko
 Sydney
@@ -12988,7 +11099,6 @@ Syiah
 Syian
 Sylmony
 Sylvester
-Sylvester Francis
 Sylvia
 Sylvie
 Sylvin
@@ -12999,19 +11109,11 @@ Symon
 Sympathy
 Symphony
 Synda
-Syndey Renee
 Syndi
-Syndrome after the character in the movie "The Incredibles"
+Syndrome
 Synergy
 Syntax
 Syracuse
-T.M. Tex Mex
-T.M. Thomas Magnum
-T.N.T.
-T.O.E.F.L. Test Of English as a Foreign Language
-T.P.
-T.S. Ellicat
-T.T.F.N. Ta Ta For Now
 Tab
 Tabakitty
 Tabarra
@@ -13021,24 +11123,17 @@ Tabaturd
 Tabba To
 Tabbella
 Tabby
-Tabby Too
-Tabby-Bo
 TaBet
 Tabether
 Tabian
 Tabioca
 Tabitha
-Tabitha Belle
-Tabitha Marie
-Tabitha the Wonder Mutt
-Tabitha Tick
 Taboo
 Tabriz
 Tabu
 Tac
 Tacky
 Taco
-Taco Bill
 Tacos
 Tacytusa
 Tad
@@ -13047,7 +11142,6 @@ Tadley
 Tadpole
 Tadzio
 Taeki
-Taffata aka Taffy
 Taffee
 Taffi
 Taffy
@@ -13060,19 +11154,10 @@ Tahj
 Tahja
 Tahoe
 Tai
-Tai Chi
-Tail Tuck Tom
-Tail-Or
-Tailchaser
-Tails
-Tailspin
-Tain
-Taittinger
 Taj
-Taka Native American for "rat cat"
+Taka
 Takeya
-Taki Japanese for "waterfall"
-Takishi-do Japanese for "tuxedo"
+Taki
 Talahache
 Talara
 Talbot
@@ -13101,14 +11186,12 @@ Tampest
 Tamrou
 Tamsin
 Tamère
-Tandy after the brand
+Tandy
 Tang
 Tangelo
 Tangent
 Tangerine
 Tango
-Tango Juliette from the spelling alphabet used in aviation
-Tango Terrortoes
 Tanier
 Taniika
 Tanimal
@@ -13152,18 +11235,16 @@ Tarquin
 Tarr
 Tarragon
 Tartine
-Tartuffe a classic Moliere play
+Tartuffe
 Tarzan
-Tarzan And Jane
+Tarzan
 Tasch
 Tash
 Tasha
 Tashi
-Tashiana Black Magic
 Tashie
 Tashka
 Tasma
-Tasmanian Devil
 Tasmin
 Tassam
 Tassle
@@ -13172,8 +11253,7 @@ Tastrophe
 Tatanya
 Taterman
 Tatiana
-Tatonka from movie "Dances With Wolves", means "buffalo"
-Tator Tot
+Tatonka
 Tatters
 Tattersall
 Tattianna
@@ -13181,12 +11261,11 @@ Tattletale
 Tattoo
 Tatty
 Taty
-Tatyana Meru Nikolaievitch
+Tatyana 
 Taurus
 Tauskey
 Tavi
 Tavia
-Tavish MacGregor
 Tavra
 Tawney
 Tawni
@@ -13196,20 +11275,16 @@ Tawnymom
 Taxi
 Taya
 Taylor
-Taylor Junior
 Tayna
 Taz
 Taz-Main
 Tazer
 Tazimoto
-Tazmanian Devil
 Tazmo
 Tazriel
 Tazziboo
 Tazzie
 Tazzie Maggo
-TC
-Tchibi Japanese for "tiny" or "midget"
 Tchikovsky
 Te Kats
 Tea Bone
@@ -13217,12 +11292,8 @@ Teabag
 Teacup
 Teak
 Teaka
-Teal
-Teal Mocha
 Tearose
-Tease Or Teaser
 Teaser
-Teaser Omaly Confetti Magee
 Teashzmo
 Teasle
 Teaspoon
@@ -13230,29 +11301,16 @@ Teazer
 Tech
 Tech 9
 Techno
-Techno-Cat
-Technology
-Tecky
-Teddie Marie Bear
-Teddy
-Teddy Bear
 Teddyroxben
 Tedither
-Tedley
-Tee-nuh R. Cat
 Teeko
 Teeney
 Teeny
-Teeny-Beeny
-Teeny-Weeny
-Teenybaby
 Teeti
 Tegan
-Tegan Keefer
-Tegoo The Tortishell
 Teka
 Telewhatsis
-Telhudo Portugease for bogey, elf, elfin, hob, hobgoblin, imp, leprechaun, pixie, spirit, sprite
+Telhudo
 Telker
 Telkie
 Tella
@@ -13261,44 +11319,34 @@ Telly
 Telstar
 Tempest
 Templeton
-Tempura after the Japanese food
+Tempura
 Tempus
 Ten Speed
-Tenchi after "Tenchi Nage", the name of a throw in the Aikido martial art
+Tenchi
 Tenessys
 Tennesee
 Tennessee
-Tennessee Tabby
 Tennis
 Tennyson
-Tennyson after Alfred Lord Tennyson, english poet 1809-1892
 Tension
 Tenzing
-Tenzing after Tenzing Norgay, a Nepalese Sherpa mountaineer
 Tenzlaa
 Teodolinda
 Teodora
-Teoyaomqui Aztec mythology: the god of dead warriors
-Teq short for Tequila
 Tequila
-Tequila Sunrise
-Tequila Willy
 Tereza
 Teri
 Teriyaki
 Terminator
 Terpsicore
 Terra
-Terra-Cotta
 Terrabyte
 Terracat
 Terrance
-Terrible Tabby
 Terror
 Terry
 Tess
 Tessa
-Tessa Kasinsky
 Tessie
 Tessla
 Testarossa
@@ -13309,8 +11357,6 @@ Tewey
 Tex
 Texas
 Thackeray
-Thackeray Daquiri Do
-Thackeray Daquiri Doc
 Thackie
 Thaddeus
 Thadeus
@@ -13319,107 +11365,19 @@ Thai Ling
 Thaicat
 Thalia
 Thangs
-That Cat On Naff
 Thatcher
 Thayer
-The Artful Dodger
-The Baby
-The Bear
-The Beeger
-The Big M
-The Big Stink
-The Caelin
-The Calvinator
-The Cat
-The Cheat
-The Cheezer
-The Chief
-The Coast-To-Coast Cat
-The Cold One
-The Crimson Chin
-The Crisco Kid
-The Drooler
-The Dude
-The Duke
-The Duke Alexander Blue
-The Emperor
-The Engine Of Destruction
-The Face
-The Fair Gwen
-The Feline Garbo
-The Flirt
-The Giz Word
-The Gizmonster
-The Godfather
-The Good Cat
-The Good Guy
-The Gray One
-The Great and Glorious Katman
-The Great Catsby
-The Great Pudge
-The Grey Mouser
-The Hobbit
-The Hog
-The Killer Attack Ball Of Fluff
-The King
-The King and I
-The Kitten
-The Kitty
-The Lacerator
-The Lion King
-The Lion Queen
-The Little Bastard
-The Little Guy
-The Little One
-The Little Prince
-The Lizard
-The Love Pig
-The Lurker At The Threshold
-The Merciless
-The Merlamonster
-The Mighty Mouser
-The Mollie
-The Mouth
-The Nanny
-The Pet That Should Not Be
-The Phantom
-The Pookster
-The Poop
-The Red One
-The Scribe
-The Scud
-The Shaynster
-The Smooch
-The Snork-Meister
-The Sponge/Sponge Kitty
-The Spudnick
-The Squirminator
-The Stealth
-The Stinker
-The Supervisor
-The Sylvan Pan
-The Terminator
-The Texas Thai Tycoon
-The Thing On The Doorstep
-The Weller
-The White Cat
-The Widget
-The Wildman
-The Zooter
 Thea
 Thelma
-Thelma Louise from the movie "Thelma and Louise"
 Thelonious
 Theo
 Theodopholous
 Theodore
-Theodore Locklyn Spook
 Theos
 Thermal
 Thessaloniki
 Thia
 Thimble
-Thing-a-ma-jig
 Thingy
 Thirston
 Thirteen
@@ -13429,21 +11387,15 @@ Thistle-A
 Tholu
 Thom Thumbs
 Thomas
-Thomas Mouth
-Thomas O' Maley
-Thomas T. Doolittle
-Thomas The Tank Engine
-Thomas Twelvetoes
 Thomasina
 Thomcat
 Thompson
 Thooni
-Thor Viking mythology: the ruler of the weather
+Thor
 Thor-Wegian
 Thoreau
 Thorgal
 Thorin
-Thorn Or Thistle
 Thorndike
 Thorne
 Thove
@@ -13460,7 +11412,6 @@ Thumper
 Thumpurr
 Thunder
 Thunder Cloud
-Thunder Cloud - Soft but LOUD
 Thunder Paw
 Thunderbolt
 Thundercat
@@ -13484,9 +11435,8 @@ Tibby
 Tiber
 Tiberius
 Tibo
-Tiburon after a freeway exit in Marin County, CA
+Tiburon
 Tic
-TICA
 Tick Tock
 Ticker
 Tickity-Boo
@@ -13503,7 +11453,6 @@ Tidus
 Tie-Dye
 Tiema
 Tiephareth
-Tiephareth from the Quaballah
 Tiff
 Tiffany
 Tiffany Marie
@@ -13516,29 +11465,12 @@ Tigar
 Tigaress
 Tigby
 Tiger
-Tiger Beat
-Tiger Lily
-Tiger Louie
-Tiger One
-Tiger Pete
-Tiger Shan
-Tiger Teich
-Tiger Three
-Tiger Two
 Tigerboy
 Tigerkitty
 Tigerlily
 Tigerman
 Tigerpaw
 Tigersloth
-Tigg R. Beast
-Tigger
-Tigger from Winnie the Pooh
-Tigger Lynn
-Tigger T. Leadbelly The 'T' stands for "Trouble
-Tiggerbutt
-Tiggrah, the Destroyer
-Tiggy
 Tigi
 Tigmeister
 Tigner
@@ -13553,17 +11485,16 @@ Tikka
 Tikki
 Tikko
 Tiko
-TikTok after the character in "The Wizard of Oz
+TikTok
 Tilda
 Tilda May
 Tildy
-Tillich after Paul Tillich
 Tillie
 Tilly
 Tillybug
 Tilts
 Tim
-Tim-Tam as in the chocolate biscuit
+Tim-Tam
 Tim-Tim
 Timba
 Timber
@@ -13573,15 +11504,14 @@ Timers
 Timex
 Timid
 Timmy
-Timmy Tiger
 Timon
 Timone
 Timothy
-Timothy Duncan Underfoot
+Timoth
 Timour
 Timpany
 Tims
-Tin Tan after the alias of Germán Valdés
+Tin Tan
 Tin-Tin
 Tina
 Tina Tesse
@@ -13595,49 +11525,25 @@ Tinka
 Tinka Tinka
 Tinkabella
 Tinkas-stinkas
-Tinker
-Tinker Tay
-Tinker Toy
-Tinkerbell
-Tinkerbelle
-Tinkertoy
-Tinkie
-Tinkle
-Tinkle Bell
-Tinkle Tinkle
-Tinky Trink
 Tinman
 Tinsel
 Tiny
-Tiny Dancer
-Tiny Elvis
-Tiny Teddy
-Tiny the Teddy Bear
-Tiny Tim
-Tiny Timmy
-Tiny Whiny
 Tip
 Tip E. Toes
 Tippecanoe
 Tipper
 Tippi
 Tippy
-Tippy Canoe
-Tippy Toe Chin
-Tippy Toes
 Tipsy
 Tiptoe
 Tipton
 Tiramisu
 Tirepump
 Tiruvacakam
-Tirya Clearsong
 Tirzah
 Tish
-Tish Tash Tosh
 Tisha
 Tishtry
-Tishy Baby
 Tisi
 Tisiphone
 Tissot
@@ -13648,7 +11554,7 @@ Titanic
 Titch
 Titi
 Titian
-Titicaca after the lake in the Andes Mountains
+Titicaca
 Titten
 Titter
 Titterbiddles
@@ -13657,16 +11563,13 @@ Titty Tat
 Titus
 Tivaly
 Tivvi
-Tivvy Tumples
-Tizer after the beverage
 Tizou
 Tizzie
 Tizzy
-Tizzy Or Tizz
 Tjuth
-Tlaloc Aztec mythology: the great rain and fertility god
-Tlalocan Aztec mythology: the paradise of Tlaloc
-Tlazolteotl Aztec mythology: the goddess of licentiousness
+Tlaloc
+Tlalocan
+Tlazolteotl
 Tnooky
 Toad
 Toadie
@@ -13685,21 +11588,11 @@ Tobkins
 Toblerone
 Tobs
 Toby
-Toby Juan Konobi
-Toby Jyinx
-Toby Keith
-Toby The Tubby Tabby
-Toby Tiberius Tucker Anthony Clark
 Tobycat
 Todd
 Toddles
 Todi
 Todor
-Toe
-Toe Kitten
-Toe Monster
-Toe Toe
-Toe Toes
 Toes
 Toff
 Toffee
@@ -13718,19 +11611,6 @@ Toledo
 Toler
 Tolstoy
 Tom
-Tom And Huck
-Tom Cat
-Tom E. Cat
-Tom Jones
-Tom Kaley
-Tom Katz
-Tom Kitten
-Tom Kitty
-Tom Slick
-Tom Tom
-Tom Tub O'Lard
-Tom-Tom
-Toma
 Tomahawk
 Tomard
 Tomas
@@ -13745,12 +11625,9 @@ Tomkinson
 Tomlinson
 Tommie
 Tommy
-Tommy Boy
-Tommy girl
 Tompson
 Tomtom
-Tonacatecuhtli Aztec mythology: the creator and provider of food
-Tonatiuh Aztec mythology: a sun-god, the eagle and heavenly warrior
+Tonatiuh
 Tonchi
 Tonga
 Toni
@@ -13758,19 +11635,11 @@ Tonia
 Tonic
 Tonk
 Tonka
-Tonka Toy
-Tons A Fun
 Tonto
 Tony
-Tony Fabio
 Tonya
-Too
-Too Slim the Tail Dragger
-Tooby Tooby Tooo
 Tood
 Toodles
-Toodles MacFarland
-Toodles McGrief
 Toody Boots
 Tooee
 Tookey
@@ -13781,7 +11650,6 @@ Toompers
 Toomperscoompers
 Toon
 Toonces
-Toonces named for Toonces the Driving Cat of Saturday Night Live fame
 Toonie
 Toonies
 Tooshy
@@ -13793,21 +11661,18 @@ Toots
 Tootsen
 Tootsie
 Top Cat
-Topanga from the sitcom "Boy Meets World"
+Topanga
 Topaz
 Topin
-Topka ot Vlas
 Topo
 Topo Gigio
 Topper
 Topsey
 Topsping
 Topsy
-Tora Japanese for "tiger"
-Torbie Tyler
+Tora
 Toreador
 Tori
-Tori Bell
 Toric
 Torie
 Torino
@@ -13834,16 +11699,14 @@ Tossum
 Toti
 ToTickleYa
 Toto
-Totoro after the character in the movie "My Neighbor Totoro" "Tonari No Totoro"
+Totoro
 Totot
 Touche
 Touché
-Toufon Persian for "storm"
-Tough Guy
+Toufon
 Toukie
-Toula after a character in the movie My Big Fat Greek Wedding
+Toula
 Toulouse
-Toulouse after a kitten in the movie Aristocats
 Tounces
 Toupee
 Tourmaline
@@ -13851,7 +11714,6 @@ Toussaint
 Toutou
 Tova
 Towser
-Toxic Kitty
 Toy
 Toya
 Toybox
@@ -13862,14 +11724,13 @@ Tracey
 Track Rat
 Tractor
 Tracy
-Tracy Tu-tu-wa-wa Queen of the Complex
 Traffinsci
 Trail Mix
 Trailblazer
 Trailor Trash
 Trakker
 Tramp
-Trampuss after Trampas in The Virginian
+Trampuss
 Trance
 Tranquility
 Trap
@@ -13878,11 +11739,9 @@ Trapper John
 Trash Cat
 Traut
 Traveler
-Traveling Wilbury
 Traviesa
 Travis
 Travis McGee
-Tre' as in a 3 point shot - basketball
 Treacle
 Treasure
 Treat
@@ -13896,7 +11755,6 @@ Tremor
 Trent
 Trevor
 Trevor Gray
-Tri-isopropylbenzenesulfonyl Kitty-Cat
 Tribble
 Tricia
 Trickster
@@ -13917,25 +11775,24 @@ Tripper
 Tripsy
 Tripsyl
 Tris
-Triscuit brother Biscuit
+Triscuit
 Trisha
 Tristan
-Tristen Farnon Campion
+Tristen
 Tristessa
 Tristin
-Triton after Neptune's moon
+Triton
 Trivia
 Trivit
 Trix
 Trixie
 Trixy
-Trixy Evil Pixy
 Trizzia
 Trogg
 Troic
 Trojan
 Troll
-Trollheimen name of a mountain
+Trollheime
 Tron
 Trondheim
 Trooper
@@ -13969,7 +11826,7 @@ Tse-Ping
 Tsif-tsif
 Tsimshian
 Tsuki
-Tsukikage Japanese for "moonlight"
+Tsukikage
 Tsunami
 Tsura
 Tu
@@ -13982,11 +11839,11 @@ Tubs
 Tuchie
 Tuchie Poo
 Tuck
-Tuck Uncommon wordplay on Tutankhamun
+Tuck
 Tucker
 Tucksy
 Tucky
-Tuco Benidito Pacifico Juan Maria Ramirez from the movie "The Good, The Bad, and The Ugly"
+Tuco
 Tuddy Woody
 Tudor
 Tuesday
@@ -14008,11 +11865,11 @@ Tula
 Tula Rose
 Tulip
 Tull
-Tulose after the character in the Disney movie "Aristocats"
+Tulose
 Tulsar
 Tum
-Tuma From "Kindergarten Cop" - Arnold says, "It is not a tuma!"
-Tumani pronounced Too Many
+Tuma
+Tumani
 Tumblebrutus
 Tumbleweed
 Tummy
@@ -14033,7 +11890,6 @@ Tuptin
 Tura
 Turandot
 Turbo
-Turbo 2 Toes
 Turd
 Turk
 Turkey
@@ -14042,28 +11898,22 @@ Turtle
 Turtle-face
 Turtleneck
 Turue
-Tuscany after the Italian region
+Tuscany
 Tush
-Tushii Butt
 Tusker
 Tusse
 Tussie
 Tustin
 Tut
-Tut after Tutankhamun, or King Tut
-Tutti Fruitti
-Tutti Frutti
-Tutti-Frutti
 Tuttles
 Tutu
 Tuula
-Tuvok after the vulcan character on the Star Trek Voyager tv series
+Tuvok
 Tux
 Tuxedo
 Tuxie
 Tuxt
 Tweek
-Tweek after the character in the South Park cartoons
 Tweeter
 Tweetie
 Tweetie-Pie
@@ -14077,17 +11927,15 @@ Twighlight
 Twilight
 Twilighteyes
 Twini
-Twinight Baseball term
+Twinight
 Twink
-Twinken after the character in "Barney's Magical Adventure" movie
+Twinken
 Twinkie
-Twinkie the Dominatrix
 Twinkle
 Twinkle Toes
 Twinkle-Toes
 Twinkleberry
 Twinkles
-Twinkles Betsy D.
 Twinkletoes
 Twinks
 Twinky
@@ -14125,17 +11973,12 @@ Tyke
 Tykkemis
 Tyla
 Tyler
-Tyler Lee Spangler
-Tyler Teich
-Tyler Too
-Tylis Ty Tyler
 Tymoch
 Typha
 Typhoo
 Typhoon
 Tyr
-Tyr Viking mythology: the god of war
-Tyrant Tiberius Tyranasorus
+Tyrant
 Tyrone
 Tyrone Cower
 Tyson
@@ -14147,36 +11990,19 @@ Ulee
 Ulian
 Ulla
 Ultimate
-Ultimate Kitty
-Ultimate Warrior
-Ultra
-Ultra Sonic
-Ultra Sound
 Ultraviolet
 Ulysses
 Uma
-Uma after the actress Uma Thurman
 Umbra
-Umgow after the old Tarzan movie word which meant anything
+Umgow
 Umgowa
 Umi
-Umma Turkish for "hope"
+Umma
 Umpa Lumpa
 Unagi
 Unbee
 Unbelievable
-Uncle Buster
-Uncle Charles
-Uncle Charles Willoughby
-Uncle Charlie
-Uncle Eeker
-Uncle Fester
-Uncle Marshmallows
-Uncle Pee
 Unco
-Uncommon
-Under My Foot
-Under My Thumb
 Underdog
 Underfoot
 Undun
@@ -14184,14 +12010,12 @@ Unicat
 Unicorn
 Unique
 Unit
-United Kittydom
 Unity
 Uno Emily
 Unusual
-Unusual Suspect
 Unzen
-Unzen after the vulcano in Japan
-Upside Down Kitty
+Unzen
+Upside
 Upton
 Uranium
 Uranus
@@ -14199,7 +12023,7 @@ Urban
 Urchin
 Urgent
 Uriah
-Urrp Purr inside-out, or for audiophiles, it's an out of phase purr
+Urrp Purr
 Ursa
 Ursa Major
 Ursa Minor
@@ -14208,9 +12032,8 @@ Urza
 Useless
 Usher
 Ushki
-Ushki Russian for "ears"
+Ushki
 Usual
-Usual Suspect
 Usually
 Usul
 Uther
@@ -14228,18 +12051,14 @@ Valume
 Vamp
 Vampira
 Van
-Van Gogh
-Van Morrison
-Van-Damme
-Vanadis Old Norwegian for "lady", also alternative name of Freya; the goddess of fertility
+Vanadis
 Vance
-Vanda Swedish for "orchid"
+Vanda
 Vandal
 Vandergraff
 Vanderputten
 Vandy
 Vanessa
-Vanessa Redpaws
 Vanilla
 Vanilla Ice
 Vanille
@@ -14277,21 +12096,13 @@ Veggie
 Vegimite
 Velcra
 Velcro
-Velcro Kitty
 Velma
 Velociroxy
 Velocity
 Velvet
-Velvet Bunny Paws
-Velvet Ears
-Velvet Jones
-Velvet Kitty
-Velvet Paws
 Venezia
 Venom
 Venus
-Venus And Mars
-Venus De Milo
 Vera
 Verdi
 Vermin
@@ -14303,56 +12114,40 @@ Verona
 Veronica
 Veronika
 Vertigo
-Veruca Salt named for the spoiled girl in Willy Wonka
+Veruca
 Verushka
 Vesper
 Vespucci
 Vezyah
 Vi
 Viagra
-Vibrissa Whiskers
 Vic
 Vichyssoise
 Vicious
 Vicky
 Victor
-Victor Victoria
 Victoria
-Vicuña after the animal from the camel family
-Vida
+Vicuña
 Videlle
 Viencke
-Vienna after the cat in a British tv comedy called "Rising Damp"
-Viking Princess
+Vienna
 Vikki
 Viktor
 Vilatika
 Vimbo
 Vince
 Vincent
-Vincent Chase
-Vincent Price
-Vincent Van Gogh
-Vincent Van Gray
-Vincent Vega
-Vincenzo Arturo Guiseppe
 Vinegar
 Vinnie
-Vinnie-my-boy
 Vinny
 Viola
 Violet
-Violet Violent
 Viper
 Vipurr
 Virgil
-Virginia Mew
 Virgule
-Virtual Kitty
-Vis'Kag The Bloodletter
 Visa
 Vito
-Vito Corleone
 Vittles
 Viva
 Vivaldi
@@ -14365,26 +12160,14 @@ Vix
 Vixen
 Vixie
 Vizzy
-Vlad after Vlad the Impaler
-Vlad the Impaler
-Vladimir
-Vladimir Ramses Pani
-Vladimir the Impaler Fearless Mau
-Vladimire
-Vladir
-Vladko the Warlord
-Vodka
 Voltaire
 Voltron
 Volvo
 Voodoo
-Voodoo Magic
 Vork
-Vorpal Kitty
 Vortigern
 Vouvray
 Voyager
-Vroom Vroom
 Vulcan
 Whitenose
 Whiteshoes
@@ -14393,14 +12176,9 @@ Whitman
 Whitney
 Whittaker
 Whittakers
-Whizzbang Kattwinkel
 Whizzer
 Whoopi
 Whoopie
-Whoopie Goldpaws
-Whoopie Goldpurrs
-Whoopie Goldtoes
-Whoosey
 Whooss
 Why Not
 Whyville
@@ -14422,10 +12200,6 @@ Wiggy
 Wiglaf
 Wilbur
 Wild
-Wild Bill
-Wild Child
-Wild Kat
-Wild Thing
 Wilder
 Wilderness
 Wildthing
@@ -14445,23 +12219,13 @@ Willamina
 Willard
 Willey
 William
-William T
-William The Conqueror
-William Thor
 Willie
-Willie Wonka
 Willis
 Willoughby
 Willow
 Wills
 Willum
 Willy
-Willy for short
-Willy G
-Willy Whiskers
-Willy Wonka
-Wilma and Betty
-Wilmer
 Wilmington
 Wilson
 Wilton
@@ -14491,51 +12255,38 @@ Winkster
 Winky
 Winnetoe
 Winnie
-Winnie Pooh
-Winnie The Pooh
 Winny
-Wino official mascot of a Napa Valley winery
+Wino
 Winsdor
-Winsdor Ketsl
 Winslow
 Winsome
 Winston
-Winston Churchcat
-Winston O Boogie
 Winter
-Wintermute named after William Gibson's AI in "Neuromancer"
+Wintermute
 Winthrop
 Wiseguy
 Wishbone
 Wiskers
-Wister after the wood-climbing vines Wisteria
+Wister
 Wistful
-Wistful Diffidence
 Witch
-Witchy-poo
-Witty Kitty
-Witvoet Dutch for "white foot"
+Witvoet
 Wixie
 Wiz
 Wizard
 Wizkid
 Wizz
 Woden
-Wolf
-Wolfcat Jack
 Wolfer
 Wolfgang
 Wolfie
 Womble
-Wonder Kitty
 Wong Mau
 Wonka
 Wonkity
 Wonton
 Woo Kitty
 Woobie
-Woodpile Karin
-Woodruff after the herb
 Woodstock
 Woodwind
 Woody
@@ -14547,24 +12298,14 @@ Woogiemiester
 Woogies
 Woois
 Wookie
-Wooley
-Wooley Wooten
-Woolly Bear
-Woolly Mammoth
-Wooly
-Wooly Bully
-Wooly Mammoth
-Woony Woo
 Woopit
 Wooshie
-Wooster as in sauce
 Woosy
 WooWoo
 Wordsworth
 Worf
 Worm
-Wort after the character in Disney's "Sword in the Stone"
-Worthless Ball of Fur
+Wort
 Wotan
 Wrangler
 Wren
@@ -14584,7 +12325,7 @@ Wuzzie
 Wuzzle
 Wuzzley
 Wuzzums
-Wyatt English name meaning "brave in war"
+Wyatt
 Wycliffe
 Wyla
 Wylie
@@ -14593,75 +12334,47 @@ Wynken
 Wynston
 Wynton
 Wysiwyg
-X Marks the Spots
-X-actly
-X-cess
-X-Files
-X-Ie-Poo
-X-Lax
-X-Man
-X-Quisit
-X-Rated
-X-Ray
-Xabi Alonso after the footballer Xabier Alonso Olano
 Xabier
 Xaliah
 Xanadu
 Xander
 Xanthus
-Xanthus Achille's horse
 Xany
 Xaram
 Xarello
 Xavier
 Xcell
 Xena
-Xena And Gabrielle
-Xena, Warrior Princess
 Xenia
 Xenophon
 Xerxes
 Xi'An
 Xia
-Xiao Meow Xiao is Chinese for "small"
-Xilonen Aztec mythology: the goddess of young maize
+Xiao
+Xilonen
 Xina
-Xio Ling
-Xipe Totec Aztec mythology: the god of seedtime
+Xipe
 Xit
 Xmas
-Xnlt Kittycat
-Xo
 Xochi
-Xochipilli Aztec mythology: the god of feasting and young maize
-XS
 Xtra
-Xtra Fun
 Xury
 Xuxa
-Xuxa la Gata
 Xylon
 Xylophone
-Xzana pronounced Zana
+Xzana
 Yawgmoth
 Yawhmoth
 Yawney
-Yaxche Maya mythology: the tree of heaven under which good souls rejoice
+Yaxche
 Yaya
 Yeager
 Yedi
 Yeep
-Yeller Yang
-Yellow
-Yellow Cat
-Yellow Man
-Yellow Mellow
 Yellppy
 Yeltsin
 Yemma
-Yemma-Lee
 Yenta
-Yenta Banana
 Yentyl
 Yeow
 Yes
@@ -14669,13 +12382,10 @@ Yessir
 Yessirree
 Yeti
 Yicks
-Yicky Sticky Chicky
 Yin
-Yin Mae beautiful female
 Yin-Yang
 Ying
 Yip
-Yipes Stripes
 Yippee
 Yitzak
 Ymie
@@ -14698,7 +12408,6 @@ Yoko Fudgeface
 Yoko Oh No!
 Yoko Ono
 Yolanda
-Yommie T. Bear
 Yonori
 Yoomper
 Yoppie
@@ -14706,21 +12415,8 @@ Yorcat
 Yorgy
 York
 Yosemite
-Yosemite Sam
 Yoshi
 Yosie
-You
-You Go
-You Rotten Feline!
-You Too
-Young Fella
-Young Yeller
-Your Cat
-Your Highness
-Your Hugeness
-Your Immensity
-Yours
-Yours, Mine and Ours
 Youser
 Yow-sers
 Yowler
@@ -14730,18 +12426,15 @@ Yue
 Yugo
 Yuki
 Yukon
-Yukon Cronilius
 Yul
 Yule
-Yum Kaax Maya mythology: the maize god
+Yum
 Yuma
 Yumi
 Yumiee
 Yummy
-Yumyum
-Yuppie Cat
 Yuppy
-Yuri Japanese for "Lily"
+Yuri
 Yushamishi
 Z Man
 Z-Cat
@@ -14755,17 +12448,12 @@ Zach
 Zacharia
 Zacharius
 Zachary
-Zachary Binks from the movie Hocus Pocus
-Zachary Tigger Pyat
 Zachie
 Zachy
 Zack
 Zackery
-Zada-Butt
 Zadi
 Zadok
-Zadok after the christian high priest
-Zadok Thadeous Jaquish III
 Zadora
 Zafer
 Zaffe
@@ -14773,7 +12461,7 @@ Zafyl
 Zag
 Zahir
 Zahlman
-Zahra Persian variation of Sarah
+Zahra
 Zaire
 Zak
 Zakaiah
@@ -14792,37 +12480,33 @@ Zamiec
 Zamm
 Zampa
 Zane
-Zane Grey
 Zang
 Zanie
 Zanuba
 Zanuck
 Zany
-Zany Spots
 Zanza
 Zanzi
 Zanzibar
 Zap
 Zapata
-Zapato Spanish for "shoe"
+Zapato
 Zapeli
 Zaphod
-Zaphod Beeblebrox from Hitchhiker's Guide to the Galaxy
 Zappa
 Zapper
 Zappi
 Zappy
 Zaq
 Zara
-Zara Arabic for "dawn"
 Zarabeth
 Zarathustra
 Zarenna
-Zaria City in Nigeria
+Zaria
 Zarina
 Zarko
-Zarya Russian for "sunrise"
-Zaspanec Slovenian for "sleepy"
+Zarya
+Zaspanec
 Zasu
 Zatara
 Zathras
@@ -14831,15 +12515,14 @@ Zatney
 Zaun
 Zaw
 Zayda
-Zaza from the Bible, meaning "belonging to all" or "plenty"
+Zaza
 Zazi
-Zazie cum Flops
+Zazie
 Zazou
 Zazu
 Zazzerus
-Zazzie Zoe
+Zazzie
 Zazzy
-Zazzy Osborne
 Zealot
 Zeb
 Zeba
@@ -14882,7 +12565,7 @@ Zenith
 Zeno
 Zenobia
 Zentaur
-Zenzero Italian for "ginger"
+Zenzero
 Zeodite
 Zepellin
 Zeph
@@ -14892,10 +12575,8 @@ Zephyr
 Zephyrus
 Zeppelin
 Zeppo
-Zer-Zer Kitty
 Zerkle
 Zero
-Zero Gravity Kitty
 Zesse
 Zesta
 Zesty
@@ -14907,7 +12588,7 @@ Zevo
 Zezalier
 Zhang
 Zhanna
-Zhazhda Russian for "thirst"
+Zhazhda
 Zhenja
 Zhukov
 Zia
@@ -14925,14 +12606,12 @@ Zigge
 Zigger
 Ziggy
 Ziggy Ba Ba
-Ziggy Stardust
-Ziggy Stardust after the album from David Bowie
 Ziggy Zops
 Zigi
 Zigzag
 Zilch
 Zilla
-Zilpha Pearl Draper
+Zilpha
 Zima
 Zimba
 Zimbabou
@@ -14956,20 +12635,16 @@ Zinko
 Zinnia
 Zion
 Zip
-Zip A Dee Doo Daa
 Zip Cody
 Zipcode
 Zipes
 Ziploc
 Zipper
 Zippity
-Zippity Do Da
 Zippo
 Zippy
-Zippy The Pinhead
-Zippy The Wondercat
 Zirconia
-Zisseleh Yiddish for "little sweet one"
+Zisseleh
 Zita
 Zither
 Zity
@@ -14981,7 +12656,7 @@ Zodiac
 Zody
 Zoe
 Zoeller
-Zoesephina Yoselinda McPheonix
+Zoesephina
 Zoey
 Zohar
 Zohara
@@ -14996,9 +12671,7 @@ Zollymilo
 Zoloft
 Zoltan
 Zoltar
-Zoltron the Moocher
 Zombie
-Zombie III
 Zona
 Zonker
 Zoo Pal
@@ -15027,9 +12700,6 @@ Zouzette
 Zowy
 Zoya
 Zoysia
-Zsa Zsa
-Zsa Zsa Gabor
-Zsazsa
 Zu Zu
 Zuba
 Zubbles
@@ -15048,15 +12718,9 @@ Zulu
 Zummo
 Zuni
 Zurich
-Zurich Direct
 Zutka
 Zutty
-Zuzzy Buzzy
 Zwieback
 Zwindler
 Zwing
 Zwingli
-ZZ Cat
-ZZ Top
-ZZ Top Cat
-ZzZzZzZz
