@@ -4016,8 +4016,8 @@ Evenrude
 Everest
 Everett
 Everitt
-Everly Brothers (Don and Phil)
-Evie (Hebrew for "living one")
+Everly Brothers
+Evie
 Eviesparrow
 Evil
 Evita
@@ -4032,7 +4032,6 @@ Exotic Dancer
 Exotica
 Expi
 Expialidocious
-Expialidocious (brother to Supercalafragilistic)
 Expresso
 Extra
 Extra Terrestrial
@@ -4043,11 +4042,6 @@ Ezekiel
 Ezmerelda
 Ezra
 Ezra Pound Kitty
-F'rb'l ("Furball")
-F. Lee Bailey
-F.C. (Funny Cat)
-F.K. (Fish Killer)
-F.W.
 Faberette
 Faberge
 Fabio
@@ -4056,7 +4050,7 @@ Face
 Faded
 Fadei
 Fafhrd
-Fafnir (Swedish mythology: a dragon)
+Fafnir
 Fagan
 Faina
 Faire
@@ -4091,7 +4085,7 @@ Fannymagee
 Fanta
 Fantasia
 Faraday
-Farasha (Female Arabian name, meaning "butterfly")
+Farasha
 Farber
 Farfel
 Fargo
@@ -4119,14 +4113,14 @@ Fat Puddin
 Fat Sam
 Fat Tail
 Fat Thing
-Fata (Italian for fairy, leprechaun, pixie)
+Fata
 Fatal Beauty
 Fataz
 FatBoy
 Fatboy Paddington
 Fatcat
 Fatima
-Fatouche (named after a type of Middle Eastern Salad)
+Fatouche
 Fatpants
 Fatrick
 Fats
@@ -4145,9 +4139,8 @@ Fattycat
 Fatz
 Faucet Face
 Fauna
-Fauna (Roman religion: also called Bona Dea, the female counterpart of Faunus)
 Fauntleroy
-Faunus (Roman religion: woodland deity, protector of herds and crops)
+Faunus
 Faust
 Faustus
 Faux Pas
@@ -4157,7 +4150,7 @@ Fax
 Fay
 Faya
 Fayd
-Fayoum (province in Egypt)
+Fayoum
 FBI Special Agent Kat
 Fearful
 Fearless
@@ -4181,35 +4174,35 @@ Feisty
 Fela
 Feldmann
 Feles
-Felice (combination of Faith and Elise, meaning Joy)
+Felice
 Felicia
 Felicicat
 Felicity
 Felicja
-Felidae (lions, tigers, cats and others are members of the Felidae (feline) family)
+Felidae
 Felina
 Feline
 Feline Unit
 Felini
 Felinoid
 Felinus Divinus
-Felipe Juan (after the Spanish prince Felipe Juan de Marichalar y Borbón)
+Felipe Juan
 Felis Domesticus MonoOculus Longintoothus
 Felisha
-Felix the Cat (cartoon character)
+Felix the Cat
 Feliz
 Fellini
 Felo
 Female Kitten
 Fender
 Fender Bender
-Fendi (after the fashion accessories brandname)
-Fenella (Irish name meaning "white shouldered")
+Fendi
+Fenella
 Fenestra
 Fennel
 Fenton
 Fenway
-Fenway Frank (Red Sox)
+Fenway Frank
 Fenwick
 Feo
 Feodor
@@ -4242,7 +4235,7 @@ Fetchercat
 Fettucine
 Fevronia
 Fezzik
-Fezziwig (character from Dickens' A Christmas Carol)
+Fezziwig
 Fia Fia
 Fianne
 Fiapinho
@@ -4284,7 +4277,7 @@ Filimon
 Fillmore
 Filo
 Filofei
-Filou (pronounced "fee-loo", meaning hyper or mischievious)
+Filou
 Filthy Cat
 Fima
 Fimo
@@ -4305,8 +4298,8 @@ Finniminnigan
 Finster
 Fintoozler
 Fiona
-Fiore (Italian for "flower")
-Fiorella (Italian for "little flower")
+Fiore
+Fiorella
 Firdy
 Fireball
 Firebird
@@ -4343,7 +4336,7 @@ Fiver
 Fizban
 Fizz
 Fizzgig
-Fizzgig Felix Potvin (after the Dark Crystal and the goalie)
+Fizzgig Felix Potvin
 Fizzie
 Fizzle
 Fizzo
@@ -4379,7 +4372,7 @@ FleeBag
 Fleetwood
 Fletch
 Fletcher
-Fleur (French for "flower")
+Fleur
 Fleurette
 Flexx
 Flick
@@ -4406,7 +4399,7 @@ Flopper
 Flopper Bopper
 Flopsy
 Flora Or Fauna
-Florence (after Florence Nightingale)
+Florence
 Florida
 Florida Kitty
 Florrie O'Driscoll
@@ -4416,7 +4409,7 @@ Flounder
 Flower
 Flower Face
 Flowerbelle
-Floyd (after Pink Floyd)
+Floyd
 Floydean
 Flubbadubba
 Flubberty
@@ -4452,7 +4445,7 @@ Flush
 Fly By Nite
 Fly Girl
 Focker
-Fog (from the line in the poem "Fog Creeps in on Little Cat's Feet")
+Fog
 Foggy
 Foggy Bottoms
 Foghorn
@@ -4461,7 +4454,7 @@ Foka
 Folderol
 Foldilocks
 Foley
-Folletto (Italian for bogey, elf, elfin, goblin, gremlin, hobgoblin, imp, pixie, sprite)
+Folletto
 Foma
 Fondue
 Fontaine
@@ -4505,7 +4498,7 @@ Four-Legged Reason For Living
 Four-Oh-Seven
 Fox
 Fox "spooky" Mulder
-Foxbat (after the animal, not the aircraft)
+Foxbat
 Foxi
 Foxie
 Foxx Il Madonna
@@ -4514,9 +4507,9 @@ Foxy
 Foxy Roo
 Foxy Roxy
 Foxykat
-Fozzy (from The Muppets)
+Fozzy
 Fozzy Bear
-Frac (companion to Fric)
+Frac
 Fracinator
 Frack
 Fractal
@@ -4546,11 +4539,11 @@ Frank N. Furter
 Frankenfurter
 Frankenstein
 Frankie
-Frankie Blue Eyes (after Frank Sinatra)
+Frankie Blue Eyes
 Frankincense and Purr
 Franklberry Mchooterflurry
 Franklin
-Franklin Blue (named after "Ol' Blue Eyes")
+Franklin Blue
 Franklin Delano Roosevelt
 Franklin Delano Rosencat
 Franko
@@ -4562,8 +4555,8 @@ Franz Lisp
 Franzie
 Frasier
 Frassy
-Frau (German for "Lady")
-Frau Grau (German for "Gray Lady")
+Frau
+Frau Grau
 Frau Hintze
 Frazer
 Frazier
@@ -4592,7 +4585,7 @@ Frederick Chopin
 Frederik
 Frederina Ballerina
 Fredie
-Fredo (from "The Godfather")
+Fredo
 Fredrika
 Fredsel
 Fredseletta
@@ -4614,8 +4607,8 @@ Freon
 Fresca
 Fresno
 Freud
-Frey (Viking mythology: the god of weather and fertility)
-Freya (Viking mythology: the goddess of fertility)
+Frey
+Freya
 Freyar
 Freydis
 Friar Tuck
@@ -4646,7 +4639,7 @@ Fritzi
 Fritzy
 Frizzle
 Frobisher
-Frodo (from The Lord of the Rings)
+Frodo
 Frog
 Froggy
 Froglet
@@ -4657,7 +4650,7 @@ Froopy
 Frost
 Frostbyte
 Froster
-Frostfur (cat from the "Warriors" bookseries)
+Frostfur
 Frostie
 Frosty
 Frou-Frou
@@ -4686,7 +4679,7 @@ Fuffy Kitty
 Fugazi
 Fuji
 Fujiama
-Fuki (Japanese for "freedom")
+Fuki
 Fulton
 Fungi
 Fungus
@@ -4780,16 +4773,10 @@ Fymi
 Fyvush
 G Whillikers
 G-man
-G.a.n.d.a.l.f. (Genetically Altered Naturally Deformed Alternative Lifeform)
-G.E.M. ("Green Eyed Monster")
-G.e.n.d.e.l.f. (Genetically Engineered Naturally Deformed Eligent Life Form)
-G.K. ("Givey Kitty")
-G.P.
-G.S.C.
 Gaazh
 Gab-EE-Boy
 Gabba-Goo
-Gabbie (short for Gabriella)
+Gabbie
 Gabby
 Gabby Tabby
 Gabe
@@ -4800,7 +4787,7 @@ Gabrielle
 Gabrielle St. Cloud
 Gaby
 Gadget
-Gadir (island in Lake Van, Turkey)
+Gadir
 Gaelic
 Gag
 Gage
@@ -4808,10 +4795,10 @@ Gageta
 Gaia
 Gaius
 Gala
-Galadriel (Lady of the Elves, Elven Princess)
+Galadriel
 Galahad
 Galaxy
-Galena (shiny gray stone known as the Truth Stone)
+Galena
 Galia
 Galileo
 Galina
@@ -4841,12 +4828,12 @@ Gandy
 Gangsta
 Gangster
 Ganit Gob
-Ganymede (named after the moon of Jupiter)
+Ganymede
 Gar-Gar
 Gara
 Garbo
 Garby
-Garcia (after Jerry Garcia, the Grateful Dead)
+Garcia
 Gareth
 Garf
 Garfeild
@@ -4877,11 +4864,10 @@ Gassy Boy
 Gassy Girl
 Gaston
 Gata
-Gata (Spanish for "female cat")
 Gatacito
 Gateau
 Gatekeeper
-Gatinha (Portuguese for "little cat")
+Gatinha
 Gatita
 Gatita Roofshadow
 Gato
@@ -4913,11 +4899,11 @@ Geena
 Geena Davis
 Geener
 Geepee
-Geesha (not Geisha)
+Geesha
 Geezer
 Geezer Guy Of Gisbourne
 Gefahr
-Gehenna (Hebrew for "hell")
+Gehenna
 Geisha
 Geisha Girl
 Gellar
@@ -4944,10 +4930,9 @@ Genius
 Genji
 Gennessee Cream Ale
 Genny
-Genny (short for Generic Cat)
 Geno
 Genova
-Gentile (pronounced Jean-tee-lay)
+Gentile
 Gentlegift
 Geoffrey
 Geoph
@@ -4973,10 +4958,10 @@ Gerbil
 German
 Geronimo
 Gershwin
-Gertjie (Afrikaans version of "Jerry")
+Gertjie
 Gertrude
 Gestapo
-Get A Load Of This (father)
+Get A Load Of This
 Get Down
 Get Off Of The Counter, Now!
 Get Shorty
@@ -5030,10 +5015,10 @@ Gilmore
 Gilroy
 Gimi
 Gimlet
-Gimli (after the dwarf in Lord of the Rings)
+Gimli
 Gimmy
 Gimp
-Gin (and Tonic)
+Gin
 Gin Gin
 Gina
 Gina Roo
@@ -5058,7 +5043,7 @@ Ginseng
 Giorgio Armani
 Giovanni
 Gipper
-Gipper (after football player George Gipp)
+Gipper
 Girl
 Girl Kitty
 Girl Power
@@ -5084,7 +5069,7 @@ Glacier
 Glacieroonie
 Gladstone
 Gladys
-Gladys Knight (with her baby, Pips)
+Gladys Knight
 Glaish
 Glasha
 Glasnost
@@ -5126,7 +5111,7 @@ Godzilla
 Godzilla Cat
 Goethe
 Goetta
-Gojino (As in Goldy)
+Gojino
 Golda
 Golda My Ears
 Goldberg
@@ -5194,7 +5179,7 @@ Gorgeous
 Gorgeous Furboy
 Gorilla
 Gork
-Gorky (after Arshielle Gorky, the painter)
+Gorky
 Gorman
 Goronwy
 Gosha
@@ -5208,7 +5193,6 @@ Goulash
 Goustav
 Graaben
 Grace
-Grace (after Grace Kelly)
 Grace and Glory
 Grace Elizabeth
 Grace Kitty
@@ -5252,7 +5236,7 @@ Grayboy
 Grayce
 Graycie
 Grayman
-Grayp's (Gray Puss)
+Grayp's
 Grayson
 Graystoke
 Grayus Kitty Cattus
@@ -5268,8 +5252,7 @@ Great-Grandma
 Greatest Hits
 Greco
 Gredie
-Greebo (after the witch's cat in the Terry Pratchett discworld novels)
-Greebo (cat in the Discworld novels)
+Greebo
 Greedy
 Green Eyed Monster
 Green-Eyes
@@ -5277,14 +5260,14 @@ Greeny Gerocious
 Greg
 Gregarious Gizmo
 Gregory
-Gregory the Great (Pope from 590)
+Gregory the Great
 Gremlin
 Grendel
 Greta
 Greta Marie
 Gretchec
 Gretchen
-Gretel (from "Hansel & Gretel")
+Gretel
 Gretzky
 Greven
 Grey
@@ -5305,24 +5288,24 @@ Greyfuss
 Greyjob
 Greykin
 Greyling
-Greymalkin (after the grey cat familiar of the witches in "MacBeth")
+Greymalkin
 Greyson
 Greystoke
 Griddlebone
 Griegerottoswanzig von der Bitte Doch Borussia Mönchengladbach
 Griffin
 Griffincat
-Griffon (after the building decoration)
+Griffon
 Griffy
 Grigoriy
-Grim (as in Reaper)
+Grim
 Grimalkin
 Grimmy
 Grincheux
 Gringo
 Griper
 Gripette
-Griselda (French for "gray")
+Griselda
 Grisha
 Grisou
 Grits
@@ -5339,7 +5322,7 @@ Grizzly
 Grizzly Bear
 Grizzy
 Grogan
-Grohl (after the Nirvana drummer Dave Grohl)
+Grohl
 Gromit
 Gromph
 Gronk
@@ -5366,13 +5349,13 @@ Grunge
 Grunion
 Grunt
 Guaymas
-Gub-Gub (Dr. Doolittle's pig)
+Gub-Gub
 Gucci
 Guenhwyvar
 Guenivere
 Guffaw
 Guffy
-Guga (after the tennis player Gustavo Kuerten)
+Guga
 Guido
 Guinevere
 Guinness
@@ -5398,7 +5381,7 @@ Gunsmoke
 Gunter
 Gunther
 Guppy
-Gurgi (after the character in the Disney movie "The Black Cauldron")
+Gurgi
 Gurgle
 Gurrumina
 Guru
@@ -5428,7 +5411,7 @@ Gwendolyn
 Gwenhyvar
 Gweniviere
 Gwennie
-Gwin (after the character in the Inkheart novel by Cornelia Funke)
+Gwin
 Gwynneth
 Gyges
 Gypper
@@ -5437,13 +5420,13 @@ Gypsy
 Gypsyrose
 Gyro
 Gyzmo
-Heimdall (Viking mythology: The guard of Bifrost)
+Heimdall
 Heiney Man
 Heiress
 Hektor
 Hekyll
 Hela
-Helado (Spanish for "icecream")
+Helado
 Helen
 Helen of Coy
 Helen of Troy
@@ -5455,7 +5438,7 @@ Helios
 Helix
 Hell Cat
 Hell on Paws
-Hellas (Greek for "Greece")
+Hellas
 Hellion
 Hello Kitty
 Hellodolly
@@ -5481,7 +5464,7 @@ Henrietta
 Henrijean
 Henry
 Henry Andres Midnight Moses
-Henry Jones (from the song "Save the Bones for Henry Jones")
+Henry Jones
 Hepcat
 Hephaistas
 Hepzibah
@@ -5529,7 +5512,7 @@ Hey
 Hey You
 Hey-Z
 Hi-Cat
-Hibernia (Roman name of Ireland)
+Hibernia
 Hickory
 Hide-A-Way
 Hidey
@@ -5541,7 +5524,7 @@ Higgins
 High-Tech
 Highlite
 Highway
-Hijo del pollo ("son of the chicken")
+Hijo del pollo
 Hilaria
 Hilary
 Hilary Clinton
@@ -5568,7 +5551,7 @@ Hippo Spottamus
 Hippodrome
 Hipster
 Hiram
-Hiri (Arabic for "wild cat")
+Hiri
 His Highness
 His Highness Sir Poo-Poo
 His Lordship
@@ -5690,9 +5673,9 @@ Horse
 Horshack
 Hortencia
 Hortense
-Horus (Egyptian god)
+Horus
 Hoser
-Hoskins (after Bob Hoskins)
+Hoskins
 Hot Dog
 Hot Java
 Hot Rod
@@ -5715,7 +5698,7 @@ Howe Bout This
 Howie
 Howler
 Howling Hannibal
-HRH Prince Andrew Tavin 2nd (Tav)
+HRH Prince Andrew Tavin 2nd
 Hrissa
 Hubba
 Hubba Bubba
@@ -5740,14 +5723,14 @@ Huey Newton
 Huffy
 Hugga Wugga
 Hugger-Mugger
-Huggins (after Henry Huggins, children's book)
+Huggins
 Huggy Bear
 Hugh
 Hugo
 Hugs
 Huh Rub
-Huitzilopochtli (Aztec mythology: god of war and the sun)
-Huixtocihuatl (Aztec mythology: the goddess of salt)
+Huitzilopochtli
+Huixtocihuatl
 Hulk
 Hulk Hogan
 Hulkster
