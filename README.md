@@ -1,3 +1,16 @@
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Current progress update - 02/20/2024
+
+added the GPTtrainingsample folder. This folder has python code for kernel 3.12.1
+This code takes the input.txt file which is a list of cat names. It then creates its own
+list of names that are unique and different from the 15000+ names on the input.txt file
+
+You can do this on your own computer using VS code. (you can replace the input.txt file with your own.)
+----------------------------------------------------------------
+
+----------------------------------------------------------------
 Current progress update - 02/17/2024
 
 adding a tokenizer called tiktoken. I believe this is the best option for python based AIs. I still am learning all of the requirements to make an AI run so my first milestone video may not have been very clear. My outline was still accurate but it is a ton of learning and I am unsure if I will be able to complete the project by semesters end.
@@ -9,6 +22,8 @@ I do feel confident in having a working model of some sort accomplished. Hopeful
 This is the link to my 5 minute milestone 1 video
 
 https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII
+----------------------------------------------------------------
+
 ----------------------------------------------------------------
 
 # ChatCat-GPT
