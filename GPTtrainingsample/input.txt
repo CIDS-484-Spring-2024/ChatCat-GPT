@@ -6866,7 +6866,6 @@ Koala Bear
 Kobi
 Kobie
 Kobie Kat
-Kobold German for bogey, elf, gnome, goblin, gremlin, hobgoblin, imp, leprechaun, pixie, puck, sprite
 Koby
 Koda
 Kodak
@@ -6876,7 +6875,6 @@ Kodesh
 Kodi
 Kodiak
 Kody
-Koh-i-Noor after the diamond, Persian for "Mountain of Light"
 Kohana
 Kohl
 Kohuna
@@ -6891,7 +6889,6 @@ Kokomo
 Kola
 Kolabara
 Kolja
-Kolle Afrikaans for English name "Spots"
 Kolumbo
 Kolumbus
 Komet
@@ -6917,12 +6914,12 @@ Kormi
 Koro
 Kosher
 Koshi
-Koshka Russian for "kitten"
+Koshka
 Kosmic
 Kosmo
 Kota
 Koten
-Kotyk Ukrainian for "cat"
+Kotyk
 Kouros
 Kow Kitty
 Koy
@@ -6934,7 +6931,7 @@ Kramer
 Krazy
 Krazy Kat
 Kremhilde
-Kribu meaning "petite"
+Kribu
 Kricket
 Kriis-Riit
 Krinkles
@@ -6957,21 +6954,19 @@ Kronos
 Kruga
 Kruger
 Krumel
-Kruschty after Kruschev, the former Russian president
-Krusty after Krusty the Clown from The Simpsons
+Kruschty
+Krusty
 Krutherscats Kactus
 Kryinshame
 Krylon
 Krypton
 Kryptonite
-KU
-Ku'u'Ipo hawaiian for "my sweetheart"
 Kubala Khan
 Kublah Kahn
 Kublai
 Kuble
-Kuce Ziarois for "quiet one"
-Kucha Aboriginal for "kangaroo"
+Kuce
+Kucha
 Kuddie
 Kuddles
 Kudos
@@ -6982,30 +6977,30 @@ Kujo
 Kuken
 Kuki
 Kukla
-Kukucan Maya mythology: the wind god
-Kula Hawaiian for "golden one"
+Kukucan
+Kula
 Kuma
-Kumani African word meaning "destiny"
+Kumani 
 Kumquat
 Kuna
-Kundun Tibettan name of Dalai Lama, meaning "the presence"
+Kundun
 Kung Fu Kitty
 Kunta Kinte
 Kunta Kitty
 Kunz
 Kupkake
 Kurly
-Kuronekosama Japanese for 'honorable black cat'
+Kuronekosama
 Kurre
 Kurt-Kat
 Kurtney
 Kushi Katu
-Kuskaq Alaskan Yupik for "cat"
+Kuskaq
 Kussin
 Kussy
 Kutenai
 Kutnshoot
-Kuuipo Hawaiian for "sweetheart"
+Kuuipo
 Kwai
 Kwan-Yen
 Kwanzaa
@@ -7038,7 +7033,7 @@ Larisa
 Larissa
 Lark Hill
 Larry
-Lars after the Metallica drummer Lars Ulrich
+Lars
 Laser
 Lasher
 Lashes
@@ -7047,19 +7042,18 @@ Lasorda
 Lass
 Lassie
 Lastat
-Laszlo after the character in the movie "Real Genius"
+Laszlo
 Lathrop
-Latke after the character on the TV show Taxi
+Latke
 Latte
 Laughing Cow
 Laughing Tree
 Laurant
 Laurel
-Laurel And Hardy
 Lauren
 Lavender
 Lavender Lace
-Laverne and Shirley
+Laverne
 Layla
 Lazar
 Lazaro
@@ -7082,7 +7076,7 @@ Lee Lee
 Leechee
 Leela
 Leela Mew
-Leeloo after the character in the movie "The Fifth Element"
+Leeloo
 Leemp
 Leener-Beaner
 Leeny
@@ -7091,19 +7085,19 @@ Lefty
 Legacy
 Legend
 Leggs
-Legolas Tolkien, "Lord of the Rings"
+Legolas
 Leia
 Leigh
 Leila
 Leilo
 Leland
 Lelani
-Lelu from the movie The Fifth Element
-Leluka Greek for "I am freed"
-Lembu Malay for "cow"
+Lelu
+Leluka
+Lembu
 Lemew
 Lemieux
-Lemmy after Lemmy Kilmister of Motorhead
+Lemmy
 Lemon
 Lemur
 Lemur Tail
@@ -7129,7 +7123,6 @@ Leopard
 Leopardetta
 Leopardette
 Leopold
-Leopold after "Leopoldo" in the movie "Blood and Roses"
 Lerium
 Leroy
 Leroy Brown
@@ -7169,7 +7162,7 @@ Liam
 Libbie
 Libby
 Libby Lu
-Libelula Spanish for "dragonfly"
+Libelula
 Liberty
 Liberty And Justice
 Libra
@@ -7388,10 +7381,10 @@ Lloyd
 Loadie
 Lobo
 Lobster
-Locke after the philosopher "John Locke"
+Locke
 Loco
-Locutus from Star Trek
-Loekie Dutch name of tv-character
+Locutus
+Loekie
 Loesje
 Lofton
 Lofty Softy
@@ -7400,7 +7393,7 @@ Logitech
 Lois
 Lois Lane
 Lokai
-Loke Viking mythology: the untrustworthy god
+Loke
 Loki
 Loki Anklebiter
 Lokiki
@@ -7432,9 +7425,6 @@ Loosey Loosem
 Lopez
 Lord Caspian de Fluff
 Lord Chubster
-Lord Julius L'Orange
-Lord Kitchner of Khartoum
-Lord Thomas Morris Gallagher III
 Lorelei
 Lorenzo
 Lorenzo Bandini
@@ -7458,7 +7448,6 @@ Louie
 Louie Louie
 Louie Waterlou
 Louis
-Louis Baudelaire after French poet Charles Baudelaire
 Louise
 Louise the Cat
 Louisiana
@@ -7485,7 +7474,6 @@ Lovey
 Lovey Dovey
 Lovey Kitty
 Low
-Low Chroma after the scientists term for dark-grey wetland soil
 Lowell
 Lowenbrau
 Lowes
@@ -7505,7 +7493,7 @@ Lucifur
 Lucilla
 Lucille
 Lucinda
-Luciole French for "firefly"
+Luciole
 Lucius
 Luck 'O The Irish
 Lucky
@@ -7525,21 +7513,20 @@ Lucy-Fur
 Lucy-lou
 Lude
 Ludlow
-Ludo after the character in the movie "Labyrinth"
+Ludo
 Ludwig
 Luey
-Luffy after Monkey D. Luffy, character in the "One Piece" anime
+Luffy
 Lug
 Lugh
 Lugi
-Lugosi after 1940s Dracula actor "Bela Lugosi"
+Lugosi
 Luigi
-Lujak Named for Larry Lujack, a radio DJ in Chicago
+Lujak
 Luka
 Luke
-Luke Skywalker
 Lukie
-Lukin after Matt Lukin, bassist
+Lukin
 Lukmee
 Lukrets
 Luky
@@ -7552,7 +7539,7 @@ Lum
 Lump Of Fluff
 Lumps
 Lumpy
-Lumumba after the hot drink with cocoa and cognac or brandy
+Lumumba
 Luna
 Lunatic
 Lunchbox
@@ -7566,8 +7553,8 @@ Lurky
 Luron
 Luschia
 Luther
-Lutin French for pixie
-Lux latin for "light"
+Lutin
+Lux
 Luxor
 Luzie
 Lycos
@@ -7576,7 +7563,7 @@ Lydia
 Lyndon Johnson
 Lynx
 Lyonhart
-Lyonne short for Lioness
+Lyonne
 Lypsinka
 Lyra
 Lyric
@@ -7593,41 +7580,35 @@ Marieka
 Marietta
 Marigold
 Marika
-Marikatin Olga Andrejevna
 Marilla
 Marilou
 Marilyn
-Marilyn Monroe
 Marin
 Marina
 Marinara
 Mario
 Mariole
 Marion
-Mariposa Spanish for "butterfly"
+Mariposa
 Mariska
 Marja
 Marjoram
 Mark
-Mark Antonia
-Mark I love you
 Markel
 Marker
 Markiz
-Marky-pooh Whiskers Nibble Corn
 Marla
-Marla Maples
 Marlboro
 Marlena
 Marley
 Marlin
 Marlo
 Marloe
-Marlowe after Philip
+Marlowe
 Marmaduke
 Marmalade
 Marmelade
-Marmie short for Marmalade
+Marmie
 Marmite
 Marmsyduke
 Marney
@@ -7648,7 +7629,6 @@ Martina
 Martini
 Marty
 Marvelous
-Marvelous Imperial Pussycat
 Marvin
 Mary
 Mary Bagpipe Donut
@@ -7661,7 +7641,6 @@ Maryellen
 Marykay
 Marylou
 Marzipan
-Marzipan from the Flash cartoon Homestar Runner
 Mascara
 Mascot
 Masha
@@ -7669,22 +7648,20 @@ Mashka
 Mashmaloo
 Masia
 Masik
-Masika Swahili for "born in the rain"
+Masika
 Maso
 Mason
 Masquerade
-Massander after Massandra, a little village near Yalta, Crimea, Ukraine
+Massander
 Master
 Master Nicholas Christian
 Master Sebastian
-Master Sebastian, The Bastu Of Fu Manchu
 Mastro
 Masya
 Masza
 Mata Hari
 Matador
-Matca Croatian for 'female cat'
-Match Maker
+Matca
 Matches
 Mater
 Mateus
@@ -7692,7 +7669,7 @@ Matewis
 Mathilda
 Matilda
 Matisse
-Matje Flemish for "little mat"
+Matje
 Matka
 Matok
 Matou
@@ -7716,9 +7693,7 @@ Maui
 Maule
 Mauler
 Maulie
-Mauly Ringworm
 Maunz
-Maunz catname in Struwwelpeter
 Maunzi
 Maura
 Maureen
@@ -7770,7 +7745,7 @@ May Thai
 May-Ling
 May-pole
 Maya
-Mayahuel Aztec mythology: goddess of maguey
+Mayahuel
 Maybe
 Maybe Baby
 Maybelline
@@ -7792,12 +7767,11 @@ McConnell
 McCoy
 McDuffy
 McEntire
-McGraw after the american country music singer Tim McGraw
 McGreggor
 McGurk
 McKenzie
 McKinley
-McNeil Sylvester Waller-Orth
+McNeil
 McNutt
 McNuttless
 McQue
@@ -7806,12 +7780,12 @@ McTavish
 Me Too
 Me-Too
 Mea
-Mea Culpa Latin for "my fault"
+Mea
 Meade
 Meadow
 Meaghan
 Mealy
-Mealykaleekymacka Christmas
+Mealykaleekymacka
 Meander
 Meaness
 Measles
@@ -7821,8 +7795,6 @@ Meathead
 Meathook
 Meatious Maximus
 Meatloaf
-Meatloaf after the rock band
-Meatloaf Of Death
 Meaty Boy
 Meaty Feets
 Meatyboy
@@ -7851,9 +7823,8 @@ Meesh
 Meesha
 Meeth
 Meethie
-Meetsi German for "kitty"
-Meeuw Afrikaans for "meow"
-Meeuw Dutch for "pigeon"
+Meetsi
+Meeuw 
 Meewow
 Meezee
 Meg
@@ -7876,10 +7847,10 @@ Mei Ling Shan
 Mei Sin
 Meisha
 Meisie
-Meissa after Lambda Orionis, one of the stars in the Orion constellation
+Meissa
 Meistoe
 Meiya Harley
-Mejo Spanish for "black"
+Mejo
 Meko
 Mel
 Mel Gibson
@@ -7889,22 +7860,22 @@ Melange
 Melanie
 Melanippos
 Melanistic
-Melas Biblical Greek word for black
+Melas
 Melbourne
 Mele
-Meli Greek for "honey"
-Meliot after Arthurian literary character "Sir Meliot de Logres"
+Meli
+Meliot
 Melissa
 Melitrissa
 Mello
-Mellon Means "Friend"
+Mellon
 Mellow
 Melodie
 Melody
 Melon
 Melon-Head
 Melquiades
-Meluseth she who loves the moon
+Meluseth
 Melville
 Melvin
 Melvis
@@ -7912,7 +7883,7 @@ Mem
 Meme
 Memmy
 Memmycat
-Memnoch after the character in Anne Rice's 'Vampire Chronicles'
+Memnoch
 Memoir
 Memphis
 Menage
@@ -7957,11 +7928,11 @@ Mephistopheles
 Mercedes
 Mercer
 Mercury
-Mercutio character in Romeo and Juliet
+Mercutio
 Mercy
 Meredith
 Meri Ubastet
-Meri-Mehkmet after an Egyptian queen
+Meri-Mehkmet
 Meriadoc
 Meringue
 Merissa
@@ -7991,10 +7962,10 @@ Messy
 Messyfase
 Meta
 Meta Mae
-Metallica after the rock/metal band
+Metallica
 Metaphor
 Metaxa
-Methos an enigmatic TV show character with many cat characteristics
+Methos
 Methyl
 Metis
 Metoo
@@ -8003,38 +7974,35 @@ Metricat
 Metrick
 Metrik
 Metro
-Metztli Aztec mythology: the moon god
+Metztli
 Meuser
 Mew
 Mewbles
 Mewlan
-Mewler after the Irish tenor
+Mewler
 Mewy
 Mewymew
 Meyer
-Mi Nyo Burmese for "Miss Brown"
+Mi Nyo
 Mi Tu
-Mi-kay Seven Japanese for "tricolor-feline-unit-seven"
+Mi-kay
 Mi-Ke
 Mia
-Miacis 50 million year old ancestor of the cat
+Miacis
 Miaow-Miaow
 Miasma
 Miata
 Miauert
-Miaumoto Japanese swordsman/strategist
+Miaumoto
 Miav Danish for "meow"
 Mic Mac
-Mica Pisika Romanian for "little cat"
+Mica
 Micaela
 Micah
 Micari
 Mice Master
 Micester
 Michael
-Michael Jordan
-Michael Patrick O'Kittycat
-Michael Thomas
 Michaela
 Michaelangelo
 Michant
@@ -8051,19 +8019,16 @@ Micia
 Micio
 Mick
 Mick Jagger
-Mick St. Charles
 Mickey
-Mickey And Minnie
 Mickey Blue
 Mickey Mouser
 Micki
 Mickin
 Mico
-Mico Spanish for "little monkey"
 Micro
 Microbes
-Mictlan Aztec mythology: the underworld
-Mictlantecuhtli Aztec mythology: the god of Mictlan and the dead
+Mictlan
+Mictlantecuhtli
 Midas
 MiddieMeow
 Middles
@@ -8071,18 +8036,11 @@ Midge
 Midget
 Midi
 Midnight
-Midnight Amber Foxy Kamber
-Midnight Blue
-Midnight Mariah from the song "They Call The Wind Mariah"
-Midnight Rider after the song by the Allman Brothers Band
-Midnight Shadow
-Midnight Smedley
-Midnight Special
 Midnite
 Midori
 Midrange
 Mie
-Mie Mie pronounced "My My
+Mie Mie
 Mie moe moe
 Mieko
 Miele
@@ -8100,42 +8058,34 @@ Mighty Mouth
 Mighty Thor
 Mignon
 Miguel
-Miika after the finnish football player Miika Koppinen
-Mija Spanisch for "little girl"
+Miika
+Mija
 Mika
 Mikail
 Mikaso
 Mike
-Mike Hammer
-Mike Malone
-Mike Malone Of Suzeran
-Mike P. Hoover
 Mikey
-Mikey Jordan
 Mikhail
 Miki
 Mikie
 Mikkar
 Mikkel
-Mikkelbar Nelson after the character on the Bob and Ray Radio show
+Mikkelbar
 Mikki
 Mikko
 Miklo
 Miko
 Mila
 Milady
-Milagros Spanish for "miracles"
+Milagros
 Milano
 Mildew
 Mile High
 Milea
 Milennium
 Miles
-Miles of smiles
 Milhouse
 Milk
-Milk Misty
-Milk Monster
 Milkdud
 Milkshake
 Milky
@@ -8148,13 +8098,10 @@ Miller
 Milli
 Milli Vanilli
 Millicent
-Millicent after the character in D.C. Simpson's online comic "Ozy and Millie"
 Millie
 Millie T. Cat
 Millwood
 Milly
-Milly and Millford
-Milly Molly Mandy
 Milmil
 Milo
 Miloe
@@ -8173,19 +8120,19 @@ Mimsy
 Min
 Min-min
 Mina
-Mincer catname in Struwwelpeter
+Mincer
 Mindinao
 Mindy
 Mindy Rae
 Mine
 Mineau
-Minerva after the Roman goddess of the hunt
+Minerva
 Minet
 Minette
 Ming
 Ming Foo
 Ming Li
-Ming Ming the Circus Monkey
+Ming Ming
 Ming Sue
 Ming-Ling
 Minga
@@ -8231,7 +8178,7 @@ Minny
 Mino French for "Puss"
 Minoe
 Minoes
-Minon from the poem "Prince Dorus" by Charles Lamb, 1811
+Minon
 Minoosh
 Minor
 Minou
