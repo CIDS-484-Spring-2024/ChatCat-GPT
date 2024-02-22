@@ -1,8 +1,7 @@
 
 Current progress update - 02/22/2024
 
-I was deleted 5000 names and trained the AI multiple times which resulted in the current file. This caused a lack of data and after you run the gpt_dev many times over.
-It eventually understood that the letter "C" was the most likely to be the first letter it should use cause "input.txt" had the most cat names that started with "C".
+I deleted 5000 of 15000+ names from input list. Which left roughly 5000 names and trained the AI multiple times which resulted in the current file. This caused a lack of data and after you run the gpt_dev many times over. It eventually understood that the letter "C" was the most likely to be the first letter it should use cause "input.txt" had the most cat names that started with "C".
 
 ----------------------------------------------------------------
 
