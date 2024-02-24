@@ -1,6 +1,13 @@
 # ChatCat-GPT
 
 ----------------------------------------------------------------
+Current progress update - 02/24/2024
+
+Currently learning exactly how the "Transformer" neural network works.
+Python for example has something called "Lightning" or Pytorch Lightning.
+Once I completely understand this part I will find out if I can create a functioning Transformer neural network without having ot spend $
+
+----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Current progress update - 02/20/2024
