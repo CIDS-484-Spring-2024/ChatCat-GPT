@@ -1,6 +1,13 @@
 # ChatCat-GPT
 
 ----------------------------------------------------------------
+
+Word Embedding in PyTorch + Lightning for the python language.
+https://youtu.be/Qf06XDYXCXI
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
 Current progress update - 02/24/2024
 
 Currently learning exactly how the "Transformer" neural network works.
