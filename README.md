@@ -1,6 +1,11 @@
 # ChatCat-GPT
 
 ----------------------------------------------------------------
+Current progress update - 02/26/2024
+
+A big part of GPTs is Neural Networks. Python has one of it's own and is called "Lightning" 
+which is something created in "PyTorch" so it got the name "PyTorch Lightning".
+Following is one of a few videos I am watching about this specific part of my project (Neural Network)
 
 Word Embedding in PyTorch + Lightning for the python language.
 https://youtu.be/Qf06XDYXCXI
