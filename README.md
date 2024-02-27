@@ -3,7 +3,7 @@
 ----------------------------------------------------------------
 Current progress update - 02/26/2024
 
-A big part of GPTs is Neural Networks. Python has one of it's own and is called "Lightning" 
+A big part of GPTs is Neural Networks and what you use to train those Neural Networks. Python has a training library of it's own called and known as "Lightning" 
 which is something created in "PyTorch" so it got the name "PyTorch Lightning".
 Following is one of a few videos I am watching about this specific part of my project (Neural Network)
 
