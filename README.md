@@ -1,6 +1,13 @@
 # ChatCat-GPT
 
 ----------------------------------------------------------------
+Current progress update - 03/01/2024
+
+This is the link to my 5 minute milestone 2 video - https://www.youtube.com/watch?v=0rmQ_D9AQlY&ab_channel=IIRII
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
 Current progress update - 02/26/2024
 
 A big part of GPTs is Neural Networks and what you use to train those Neural Networks. Python has a training library of it's own called and known as "Lightning" 
@@ -42,8 +49,8 @@ I do feel confident in having a working model of some sort accomplished. Hopeful
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
-This is the link to my 5 minute milestone 1 video
 
+This is the link to my 5 minute milestone 1 video
 <https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII>
 
 ----------------------------------------------------------------
