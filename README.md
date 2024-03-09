@@ -1,12 +1,11 @@
 # ChatCat-GPT
-
+----------------------------------------------------------------
 ----------------------------------------------------------------
 Current progress update - 03/01/2024
 
 This is the link to my 5 minute milestone 2 video - https://www.youtube.com/watch?v=0rmQ_D9AQlY&ab_channel=IIRII
 
 ----------------------------------------------------------------
-
 ----------------------------------------------------------------
 Current progress update - 02/26/2024
 
@@ -18,7 +17,6 @@ Word Embedding in PyTorch + Lightning for the python language.
 https://youtu.be/Qf06XDYXCXI
 
 ----------------------------------------------------------------
-
 ----------------------------------------------------------------
 Current progress update - 02/24/2024
 
@@ -27,7 +25,6 @@ Python for example has something called "Lightning" or Pytorch Lightning.
 Once I completely understand this part I will find out if I can create a functioning Transformer neural network without having to spend $
 
 ----------------------------------------------------------------
-
 ----------------------------------------------------------------
 Current progress update - 02/20/2024
 
@@ -38,7 +35,6 @@ list of names that are unique and different from the 10000+ names on the input.t
 You can do this on your own computer using VS code. (you can replace the input.txt file with your own.
 
 ----------------------------------------------------------------
-
 ----------------------------------------------------------------
 Current progress update - 02/17/2024
 
@@ -54,7 +50,6 @@ This is the link to my 5 minute milestone 1 video
 <https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII>
 
 ----------------------------------------------------------------
-
 ----------------------------------------------------------------
 
 ChatCat-GPT
