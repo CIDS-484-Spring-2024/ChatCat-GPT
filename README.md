@@ -8,6 +8,8 @@ I am going to attempt a LLM/NN "Large Language Model" which was suggested in a p
 
 https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/
 
+https://lightning.ai/blog/scaling-large-language-models-with-pytorch-lightning/
+
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 Current progress update - 03/01/2024
