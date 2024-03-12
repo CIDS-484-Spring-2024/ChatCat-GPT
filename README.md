@@ -16,7 +16,8 @@ https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-
 Scaling Large (Language) Models with PyTorch Lightning - Lightning AI
 https://lightning.ai/blog/scaling-large-language-models-with-pytorch-lightning/
 
-Using Lightning with DeepSpeed (https://github.com/microsoft/DeepSpeed)
+Using Lightning with DeepSpeed - (https://github.com/microsoft/DeepSpeed)
+
 https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html#deepspeed
 
 ----------------------------------------------------------------
