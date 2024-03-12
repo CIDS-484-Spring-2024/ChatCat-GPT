@@ -1,4 +1,13 @@
 # ChatCat-GPT
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+Current progress update - 03/12/2024
+
+I am going to attempt a LLM/NN "Large Language Model" which was suggested in a peer review from milestone 1.
+
+https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/
+
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 Current progress update - 03/01/2024
