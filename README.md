@@ -6,7 +6,9 @@ Current progress update - 03/12/2024
 
 I am going to attempt a LLM/NN "Large Language Model" which was suggested in a peer review from milestone 1.
 
-Here are a couple of links I will be using to learn about LLM using PyTorch Lightning.
+I will be using to learn about LLM using PyTorch Lightning.
+
+Tons of code high level code is introduced and explained in the below links.
 
 https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/
 
