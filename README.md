@@ -10,8 +10,10 @@ I will be using to learn about LLM using PyTorch Lightning.
 
 Tons of code high level code is introduced and explained in the below links.
 
+How to build a chatbot using open-source LLMs like Llama 2 and Falcon
 https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/
 
+Scaling Large (Language) Models with PyTorch Lightning - Lightning AI
 https://lightning.ai/blog/scaling-large-language-models-with-pytorch-lightning/
 
 ----------------------------------------------------------------
