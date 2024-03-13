@@ -20,6 +20,9 @@ Using Lightning with DeepSpeed - (https://github.com/microsoft/DeepSpeed)
 
 https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html#deepspeed
 
+Here is the offocial site!
+https://www.deepspeed.ai/
+
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 Current progress update - 03/01/2024
