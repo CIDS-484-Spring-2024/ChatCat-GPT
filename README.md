@@ -4,6 +4,9 @@
 ----------------------------------------------------------------
 Current progress update - 03/12/2024
 
+Currently working to resolve this issue.
+(Windows 11 has an issue with newer version of python and a package. Many many many blogs about this issue which is directly connected to Pytorch Lightning and installing the DeepSpeed package)
+
 I am going to attempt a LLM/NN "Large Language Model" which was suggested in a peer review from milestone 1.
 
 I will be using to learn about LLM using PyTorch Lightning.
