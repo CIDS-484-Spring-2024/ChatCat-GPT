@@ -4,6 +4,10 @@
 ----------------------------------------------------------------
 Current progress update - 03/12/2024
 
+DeepSpeed was added THIS IS AN INVISIBLE FILE. You must download the code in order to access the DeepSpeed folder.
+
+Even better. Just go to this Github page and see it for yourself - https://github.com/microsoft/DeepSpeed
+
 Currently working to resolve this issue.
 (Windows 11 has an issue with newer version of python and a package. Many many many blogs about this issue which is directly connected to Pytorch Lightning and installing the DeepSpeed package)
 
