@@ -5,6 +5,8 @@ Current progress update - 03/17/2024
 
 Successfully downloaded DeepSpeed using WSL(Ubunutu) in Visual Studio Code. Finally got around the biggest issue I have ran into so far in my project! Hopefully I can start moving at "Lightning" speed now!
 
+![DeepSpeed Successful](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/25736c5f-712f-4916-b286-7e21d3d0d71e)
+
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 Current progress update - 03/16/2024
