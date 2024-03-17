@@ -1,4 +1,15 @@
 # ChatCat-GPT
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+Current progress update - 03/16/2024
+
+Looks like I have found the work around for the issue that I ran into with DeepSpeed! You install something called WSL which is short for "Windows Subsystem for Linux". DeepSpeed has zero support and can not run on Windows as of right now unfortunately.
+
+here is the windows offocial website where you can learn more - https://learn.microsoft.com/en-us/windows/wsl/install
+
+I am currently in progress of implementing the work around. Will update later or next update if it was successful.
+
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 Current progress update - 03/12/2024
