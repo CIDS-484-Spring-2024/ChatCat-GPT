@@ -3,10 +3,7 @@
 ----------------------------------------------------------------
 Current progress update - 03/17/2024
 
-Successfully downloaded DeepSpeed using WSL in Visual Studio Code. Finally got around the biggest issue I have ran into so far in my project! Hopefully I can start moving at "Lightning" speed now!
-
-----------------------------------------------------------------
-----------------------------------------------------------------
+Successfully downloaded DeepSpeed using WSL(Ubunutu) in Visual Studio Code. Finally got around the biggest issue I have ran into so far in my project! Hopefully I can start moving at "Lightning" speed now!
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
