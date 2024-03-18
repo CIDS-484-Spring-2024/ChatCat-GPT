@@ -7,7 +7,7 @@ Successfully downloaded DeepSpeed using WSL(Ubunutu) in Visual Studio Code. Fina
 
 ![DeepSpeed Successful](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/25736c5f-712f-4916-b286-7e21d3d0d71e)
 
-I wanted to point out the DeepSpeed (https://github.com/microsoft/DeepSpeed) is programmed by Microsoft but not support by Windows OS. I am unsure why they don't have support for their code on their own systems.
+I wanted to point out the DeepSpeed (https://github.com/microsoft/DeepSpeed) is programmed by Microsoft but not support by Windows OS. I am unsure why they don't have support for their code on their own systems (Unless it is a marketing thing . . . That would be my only logical assumption).
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
