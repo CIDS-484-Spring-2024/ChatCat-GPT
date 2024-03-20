@@ -1,6 +1,14 @@
 # ChatCat-GPT
 ----------------------------------------------------------------
 ----------------------------------------------------------------
+Current progress update - 03/20/2024
+
+Adding a DeepSpeed try out GPT sample. It is not visible unless you download the code. They have it set up within the github page for DeepSpeed and anyone can try and set up the sample on their own computer.
+
+Turns out I was right about $$$ money becoming an issue. As of right now I would have to pay to train my AI if I were to use DeepSpeed. I would have to look to see if their is any free LLM (Might be SOL)
+
+----------------------------------------------------------------
+----------------------------------------------------------------
 Current progress update - 03/17/2024
 
 Successfully downloaded DeepSpeed using WSL(Ubunutu) in Visual Studio Code. Finally got around the biggest issue I have ran into so far in my project! Hopefully I can start moving at "Lightning" speed now!
