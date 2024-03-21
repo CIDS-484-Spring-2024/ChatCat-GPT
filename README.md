@@ -1,6 +1,14 @@
 # ChatCat-GPT
 ----------------------------------------------------------------
 ----------------------------------------------------------------
+Current progress update - 03/21/2024
+
+Added the offocial Pytorch Lightning code.
+
+https://github.com/Lightning-AI
+
+----------------------------------------------------------------
+----------------------------------------------------------------
 Current progress update - 03/20/2024
 
 Adding a DeepSpeed try out GPT sample. It is not visible unless you download the code. They have it set up within the github page for DeepSpeed and anyone can try and set up the sample on their own computer.
