@@ -1,6 +1,14 @@
 # ChatCat-GPT
 ----------------------------------------------------------------
 ----------------------------------------------------------------
+Current progress update - 03/26/2024
+
+ran into many issues when trying to put everything together the training code using Pytorch Lightning. 
+
+Will have to create my own training code from scratch it seems. I will explain thoroughly in my upcoming 5 minute milestone 3 video.
+
+----------------------------------------------------------------
+----------------------------------------------------------------
 Current progress update - 03/21/2024
 
 Added the offocial Pytorch Lightning code.
