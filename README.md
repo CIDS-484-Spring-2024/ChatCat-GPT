@@ -1,6 +1,14 @@
 # ChatCat-GPT
 ----------------------------------------------------------------
 ----------------------------------------------------------------
+Current progress update - 03/27/2024
+
+I am trying to decide if I should revert to a smaller model so I can have a working final project. I believe there is to much debugging to accomplish a large model with my OWN implemented code.
+
+I will still be working on a LLM until the 31st before I make my decision on reverting to a smaller model or continuing to attempt the large model (LLM).
+
+----------------------------------------------------------------
+----------------------------------------------------------------
 Current progress update - 03/26/2024
 
 ran into many issues when trying to put everything together the training code using Pytorch Lightning. 
