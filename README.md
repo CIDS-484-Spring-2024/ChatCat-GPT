@@ -1,6 +1,14 @@
 # ChatCat-GPT
 ----------------------------------------------------------------
 ----------------------------------------------------------------
+Current progress update - 03/29/2024
+
+This is the link to my 5 minute milestone 3 video
+
+https://www.youtube.com/watch?v=Q3HmhYu4dtE&ab_channel=IIRII
+
+----------------------------------------------------------------
+----------------------------------------------------------------
 Current progress update - 03/27/2024
 
 I am trying to decide if I should revert to a smaller model so I can have a working final project. I believe there is to much debugging to accomplish a large model with my OWN implemented code.
@@ -125,7 +133,6 @@ adding a tokenizer called tiktoken. I believe this is the best option for python
 I do feel confident in having a working model of some sort accomplished. Hopefully before milestone 2
 
 ----------------------------------------------------------------
-
 ----------------------------------------------------------------
 
 This is the link to my 5 minute milestone 1 video
