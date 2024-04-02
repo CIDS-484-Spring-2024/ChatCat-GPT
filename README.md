@@ -3,7 +3,7 @@
 ----------------------------------------------------------------
 Current progress update - 04/02/2024
 
-Will look for a GPT-2 sized model. I would consider this a medium sized GPT.
+Will be on the look for a GPT-2 sized model using PyTorch!
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
