@@ -65,6 +65,15 @@ One of the key features of ChatCat-GPT is its ability to generate responses like
 
 ----------------------------------------------------------------
 
+## Current progress update - 04/08/2024
+
+CatChat-GPT-2 Training a GPT2 model using google colab. This was the only way I can accomplish a working model of
+medium sized without having to spend money. This is ideal when thinking about success rate. 
+
+https://colab.research.google.com/drive/1bqSvsFq2kBBbx-ZT3I_8lYXHnulaHol3#scrollTo=aeXshJM-Cuaf
+
+----------------------------------------------------------------
+
 ## Current progress update - 04/02/2024
 
 Will be on the look for a GPT-2 sized model using PyTorch!
