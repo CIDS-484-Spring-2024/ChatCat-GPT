@@ -83,7 +83,7 @@ Will be on the look for a GPT-2 sized model using PyTorch!
 
 ----------------------------------------------------------------
 
-## Current progress update - 03/29/2024
+## Milestone 3 - 03/29/2024
 
 This is the link to my 5 minute milestone 3 video
 
@@ -173,7 +173,7 @@ Here is the offocial site!
 
 ----------------------------------------------------------------
 
-## Current progress update - 03/01/2024
+## Milestone 2 - 03/01/2024
 
 This is the link to my 5 minute milestone 2 video - <https://www.youtube.com/watch?v=0rmQ_D9AQlY&ab_channel=IIRII>
 
@@ -215,6 +215,7 @@ adding a tokenizer called tiktoken. I believe this is the best option for python
 I do feel confident in having a working model of some sort accomplished. Hopefully before milestone 2
 
 ----------------------------------------------------------------
+## Milestone 1
 
 This is the link to my 5 minute milestone 1 video
 <https://www.youtube.com/watch?v=ORlQ82_WnYo&ab_channel=IIRII>
