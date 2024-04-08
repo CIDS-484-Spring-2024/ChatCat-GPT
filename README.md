@@ -1,13 +1,13 @@
 # ChatCat-GPT
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 04/02/2024
+# Current progress update - 04/02/2024
 
 Will be on the look for a GPT-2 sized model using PyTorch!
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/29/2024
+# Current progress update - 03/29/2024
 
 This is the link to my 5 minute milestone 3 video
 
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=Q3HmhYu4dtE&ab_channel=IIRII
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/27/2024
+# Current progress update - 03/27/2024
 
 I am trying to decide if I should revert to a smaller model so I can have a working final project. I believe there is to much debugging to accomplish a large model with my OWN implemented code.
 
@@ -23,7 +23,7 @@ I will still be working on a LLM until the 31st before I make my decision on rev
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/26/2024
+# Current progress update - 03/26/2024
 
 ran into many issues when trying to put everything together the training code using Pytorch Lightning. 
 
@@ -31,7 +31,7 @@ Will have to create my own training code from scratch it seems. I will explain t
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/21/2024
+# Current progress update - 03/21/2024
 
 Added the offocial Pytorch Lightning code.
 
@@ -39,7 +39,7 @@ https://github.com/Lightning-AI
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/20/2024
+# Current progress update - 03/20/2024
 
 Adding a DeepSpeed try out GPT sample. It is not visible unless you download the code. They have it set up within the github page for DeepSpeed and anyone can try and set up the sample on their own computer.
 
@@ -47,7 +47,7 @@ Turns out I was right about $$$ money becoming an issue. As of right now I would
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/17/2024
+# Current progress update - 03/17/2024
 
 Successfully downloaded DeepSpeed using WSL(Ubunutu) in Visual Studio Code. Finally got around the biggest issue I have ran into so far in my project! Hopefully I can start moving at "Lightning" speed now!
 
@@ -57,7 +57,7 @@ I wanted to point out the DeepSpeed (https://github.com/microsoft/DeepSpeed) is 
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/16/2024
+# Current progress update - 03/16/2024
 
 Looks like I have found the work around for the issue that I ran into with DeepSpeed! You install something called WSL which is short for "Windows Subsystem for Linux". DeepSpeed has zero support and can not run on Windows as of right now unfortunately.
 
@@ -67,7 +67,7 @@ I am currently in progress of implementing the work around. Will update later or
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/12/2024
+# Current progress update - 03/12/2024
 
 DeepSpeed was added THIS IS AN INVISIBLE FILE. You must download the code in order to access the DeepSpeed folder.
 
@@ -97,13 +97,13 @@ https://www.deepspeed.ai/
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 03/01/2024
+# Current progress update - 03/01/2024
 
 This is the link to my 5 minute milestone 2 video - https://www.youtube.com/watch?v=0rmQ_D9AQlY&ab_channel=IIRII
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 02/26/2024
+# Current progress update - 02/26/2024
 
 A big part of GPTs is Neural Networks and what you use to train those Neural Networks. Python has a training library of it's own called and known as "Lightning" 
 which is something created in "PyTorch" so it got the name "PyTorch Lightning".
@@ -114,7 +114,7 @@ https://youtu.be/Qf06XDYXCXI
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 02/24/2024
+# Current progress update - 02/24/2024
 
 Currently learning exactly how the "Transformer" neural network works.
 Python for example has something called "Lightning" or Pytorch Lightning.
@@ -122,7 +122,7 @@ Once I completely understand this part I will find out if I can create a functio
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 02/20/2024
+# Current progress update - 02/20/2024
 
 added the GPTtrainingsample folder. This folder has python code (use kernel 3.12.1 to make it work when it asks which environment to use)
 This code takes the input.txt file which is a list of cat names. It then creates its own
@@ -132,7 +132,7 @@ You can do this on your own computer using VS code. (you can replace the input.t
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-Current progress update - 02/17/2024
+# Current progress update - 02/17/2024
 
 adding a tokenizer called tiktoken. I believe this is the best option for python based AIs. I still am learning all of the requirements to make an AI run so my first milestone video may not have been very clear. My outline was still accurate but it is a ton of learning and I am unsure if I will be able to complete the project by semesters end.
 
