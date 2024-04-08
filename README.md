@@ -1,16 +1,19 @@
 
 # ChatCat-GPT
+
 This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically.
 
 I love cats and wanted to create or replicate something similar to Chat-GPT to further my understanding while gaining knowledge about Generative Pre-trained Transformers (GPT).
 
 # Overview
+
 ChatCat-GPT is an artificial intelligence program that generates dialogue. Created by open-AI, this highly capable chatbot uses machine learning algorithms to process and analyze large amounts of data. This data is then used to generate responses to the users’ inquiries. This language processing program can understand human language as it is spoken and written, allowing it to understand the information it is fed, and what to spit back out. Anyone can type out a question retaining to cats, and ChatCat-GPT spits back out an easily understandable answer – in a variety of formats with precise stipulations.
 For example, you can ask the question, “Why does my cat want to scratch all of my furniture?”.
 
 One of the key features of ChatCat-GPT is its ability to generate responses like humans in real-time, based on the user’s input. It can give natural answers to questions in a conversational tone and can generate any questions that is about cats.
 
 # Outline
+
 ## I. Introduction
 
 --- A. Brief explanation of AI and its applications in chatbots.
@@ -68,9 +71,9 @@ One of the key features of ChatCat-GPT is its ability to generate responses like
 ## Current progress update - 04/08/2024
 
 CatChat-GPT-2 Training a GPT2 model using google colab. This was the only way I can accomplish a working model of
-medium sized without having to spend money. This is ideal when thinking about success rate. 
+medium sized without having to spend money. This is ideal when thinking about success rate.
 
-https://colab.research.google.com/drive/1qRIMC8DTDykc_BXSnSDvtZrLM5kxG-zn?usp=sharing
+<https://colab.research.google.com/drive/1qRIMC8DTDykc_BXSnSDvtZrLM5kxG-zn?usp=sharing>
 
 ----------------------------------------------------------------
 
@@ -84,7 +87,7 @@ Will be on the look for a GPT-2 sized model using PyTorch!
 
 This is the link to my 5 minute milestone 3 video
 
-https://www.youtube.com/watch?v=Q3HmhYu4dtE&ab_channel=IIRII
+<https://www.youtube.com/watch?v=Q3HmhYu4dtE&ab_channel=IIRII>
 
 ----------------------------------------------------------------
 
@@ -98,16 +101,17 @@ I will still be working on a LLM until the 31st before I make my decision on rev
 
 ## Current progress update - 03/26/2024
 
-ran into many issues when trying to put everything together the training code using Pytorch Lightning. 
+ran into many issues when trying to put everything together the training code using Pytorch Lightning.
 
 Will have to create my own training code from scratch it seems. I will explain thoroughly in my upcoming 5 minute milestone 3 video.
 
 ----------------------------------------------------------------
 
 ## Current progress update - 03/21/2024
+
 Added the offocial Pytorch Lightning code.
 
-https://github.com/Lightning-AI
+<https://github.com/Lightning-AI>
 
 ----------------------------------------------------------------
 
@@ -125,7 +129,7 @@ Successfully downloaded DeepSpeed using WSL(Ubunutu) in Visual Studio Code. Fina
 
 ![DeepSpeed Successful](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/25736c5f-712f-4916-b286-7e21d3d0d71e)
 
-I wanted to point out the DeepSpeed (https://github.com/microsoft/DeepSpeed) is programmed by Microsoft but not support by Windows OS. I am unsure why they don't have support for their code on their own systems (Unless it is a marketing thing . . . That would be my only logical assumption).
+I wanted to point out the DeepSpeed (<https://github.com/microsoft/DeepSpeed>) is programmed by Microsoft but not support by Windows OS. I am unsure why they don't have support for their code on their own systems (Unless it is a marketing thing . . . That would be my only logical assumption).
 
 ----------------------------------------------------------------
 
@@ -133,7 +137,7 @@ I wanted to point out the DeepSpeed (https://github.com/microsoft/DeepSpeed) is 
 
 Looks like I have found the work around for the issue that I ran into with DeepSpeed! You install something called WSL which is short for "Windows Subsystem for Linux". DeepSpeed has zero support and can not run on Windows as of right now unfortunately.
 
-here is the windows offocial website where you can learn more - https://learn.microsoft.com/en-us/windows/wsl/install
+here is the windows offocial website where you can learn more - <https://learn.microsoft.com/en-us/windows/wsl/install>
 
 I am currently in progress of implementing the work around. Will update later or next update if it was successful.
 
@@ -143,7 +147,7 @@ I am currently in progress of implementing the work around. Will update later or
 
 DeepSpeed was added THIS IS AN INVISIBLE FILE. You must download the code in order to access the DeepSpeed folder.
 
-Even better. Just go to this Github page and see it for yourself - https://github.com/microsoft/DeepSpeed
+Even better. Just go to this Github page and see it for yourself - <https://github.com/microsoft/DeepSpeed>
 
 Currently working to resolve this issue.
 (Windows 11 has an issue with newer version of python and a package. Many many many blogs about this issue which is directly connected to Pytorch Lightning and installing the DeepSpeed package)
@@ -155,34 +159,34 @@ I will be using to learn about LLM using PyTorch Lightning.
 Tons of code high level code is introduced and explained in the below links.
 
 How to build a chatbot using open-source LLMs like Llama 2 and Falcon
-https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/
+<https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/>
 
 Scaling Large (Language) Models with PyTorch Lightning - Lightning AI
-https://lightning.ai/blog/scaling-large-language-models-with-pytorch-lightning/
+<https://lightning.ai/blog/scaling-large-language-models-with-pytorch-lightning/>
 
-Using Lightning with DeepSpeed - (https://github.com/microsoft/DeepSpeed)
+Using Lightning with DeepSpeed - (<https://github.com/microsoft/DeepSpeed>)
 
-https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html#deepspeed
+<https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html#deepspeed>
 
 Here is the offocial site!
-https://www.deepspeed.ai/
+<https://www.deepspeed.ai/>
 
 ----------------------------------------------------------------
 
 ## Current progress update - 03/01/2024
 
-This is the link to my 5 minute milestone 2 video - https://www.youtube.com/watch?v=0rmQ_D9AQlY&ab_channel=IIRII
+This is the link to my 5 minute milestone 2 video - <https://www.youtube.com/watch?v=0rmQ_D9AQlY&ab_channel=IIRII>
 
 ----------------------------------------------------------------
 
 ## Current progress update - 02/26/2024
 
-A big part of GPTs is Neural Networks and what you use to train those Neural Networks. Python has a training library of it's own called and known as "Lightning" 
+A big part of GPTs is Neural Networks and what you use to train those Neural Networks. Python has a training library of it's own called and known as "Lightning"
 which is something created in "PyTorch" so it got the name "PyTorch Lightning".
 Following is one of a few videos I am watching about this specific part of my project (Neural Network)
 
 Word Embedding in PyTorch + Lightning for the python language.
-https://youtu.be/Qf06XDYXCXI
+<https://youtu.be/Qf06XDYXCXI>
 
 ----------------------------------------------------------------
 
