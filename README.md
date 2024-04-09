@@ -76,7 +76,9 @@ medium sized without having to spend money. This is ideal when thinking about su
 <https://colab.research.google.com/drive/1qRIMC8DTDykc_BXSnSDvtZrLM5kxG-zn?usp=sharing>
 
 I'm also working on my own .txt file which may sound like it would be easy. It is easy but very time consuming. You
-need a large amount of data to have a valid working GPT. When I say valid I mean easy to follow responses from the GPT. 
+need a large amount of data to have a valid working GPT. When I say valid I mean easy to follow responses from the GPT.
+
+P.S. ( If you go and read the first sample output from the GPT2 model you can go read it now. It will make you laugh I promise! )
 
 ----------------------------------------------------------------
 
