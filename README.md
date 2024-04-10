@@ -7,8 +7,9 @@ I love cats and wanted to create or replicate something similar to Chat-GPT to f
 
 # Overview
 
-This project is meant to be strictly to learn and gain knowledge about Generative AIs (GPTs). I would like to finish with a successful LLM (Large Language Model).
-I know this is pretty much impossible to do but I like to push my limits! Scroll Past the Outline to see the most current update!
+This project is strictly mean for learning purposes. I want to gain knowledge about Generative AIs (GPTs). I would love to finish with a successful LLM (Large Language Model) 
+but I know this is next to impossible working alone in 4 months. This actually motivates me and helps me learn more with the small amount of time I have! I know this is pretty 
+much impossible to do but I like to push my limits! Scroll Past the Outline to see the most current update!
 
 # Outline
 
