@@ -7,10 +7,8 @@ I love cats and wanted to create or replicate something similar to Chat-GPT to f
 
 # Overview
 
-ChatCat-GPT is an artificial intelligence program that generates dialogue. Created by open-AI, this highly capable chatbot uses machine learning algorithms to process and analyze large amounts of data. This data is then used to generate responses to the users’ inquiries. This language processing program can understand human language as it is spoken and written, allowing it to understand the information it is fed, and what to spit back out. Anyone can type out a question retaining to cats, and ChatCat-GPT spits back out an easily understandable answer – in a variety of formats with precise stipulations.
-For example, you can ask the question, “Why does my cat want to scratch all of my furniture?”.
-
-One of the key features of ChatCat-GPT is its ability to generate responses like humans in real-time, based on the user’s input. It can give natural answers to questions in a conversational tone and can generate any questions that is about cats.
+This project is meant to be strictly to learn and gain knowledge about Generative AIs (GPTs). I would like to finish with a successful LLM (Large Language Model).
+I know this is pretty much impossible to do but I like to push my limits! Scroll Past the Outline to see the most current update!
 
 # Outline
 
