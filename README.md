@@ -3,14 +3,12 @@
 
 ## Scroll Past the Overview and Outline to see the current updates!
 
-This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically. I love cats and wanted to create or replicate something similar 
-to Chat-GPT to further my understanding while gaining knowledge about Generative Pre-trained Transformers (GPT).
-
 # Overview
 
-This project is strictly mean for learning purposes. I want to gain knowledge about Generative AIs (GPTs). I would love to finish with a successful LLM (Large Language Model) 
-but I know this is next to impossible working alone in 4 months. This actually motivates me and helps me learn more with the small amount of time I have! I know this is pretty 
-much impossible to do but I like to push my limits!
+This project is suppose to act like Chat-GPT. It will be targeting information retaining cats specifically. I love cats and wanted to create or replicate something similar 
+to Chat-GPT to further my understanding while gaining knowledge about Generative Pre-trained Transformers (GPT). This project is strictly mean for learning purposes. 
+I want to gain knowledge about Generative AIs (GPTs). I would love to finish with a successful LLM (Large Language Model) but I know this is next to impossible working 
+alone in 4 months. This actually motivates me and helps me learn more with the small amount of time I have! I know this is pretty much impossible to do but I like to push my limits!
 
 # Outline
 
