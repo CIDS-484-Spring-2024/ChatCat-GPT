@@ -68,6 +68,14 @@ helps me learn more with the small amount of time I have! I know this is pretty 
 
 ## Current progress update - 04/08/2024
 
+Looks like I am SOL. The medium model is no longer in existence!
+
+![image](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/bdef5494-e0ff-4f88-a21c-5aee50c741d2)
+
+----------------------------------------------------------------
+
+## Current progress update - 04/08/2024
+
 CatChat-GPT-2 Training a GPT2 model using google colab. This was the only way I can accomplish a working model of
 medium sized model without having to spend money. This is ideal when thinking about success rate.
 
