@@ -71,7 +71,7 @@ helps me learn more with the small amount of time I have! I know this is pretty 
 CatChat-GPT-2 Training a GPT2 model using google colab. This was the only way I can accomplish a working model of
 medium sized model without having to spend money. This is ideal when thinking about success rate.
 
-<https://colab.research.google.com/drive/1qRIMC8DTDykc_BXSnSDvtZrLM5kxG-zn?usp=sharing>
+<https://colab.research.google.com/drive/1X3RrO1RFRpwzVg6AvVXoW_HICu-2viZM#scrollTo=P8wSlgXoDPCR>
 
 I'm also working on my own .txt file which may sound like it would be easy. It is easy but very time consuming. You
 need a large amount of data to have a valid working GPT. When I say valid I mean easy to follow responses from the GPT.
