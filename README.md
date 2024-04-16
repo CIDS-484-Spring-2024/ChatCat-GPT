@@ -68,7 +68,13 @@ helps me learn more with the small amount of time I have! I know this is pretty 
 
 ## Current progress update - 04/15/2024
 
-The Large free models are not able to be finetuned and which is why they are free. This defeats the purpose as well. No Bueno!
+The LLMs are no longer in existence either. This is likely due to them not actually being free sadly.
+
+![image](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/5a11271b-8bed-46f3-9275-a24d3ab911b1)
+
+
+![image](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/3152442a-f0ba-4e0b-b63c-8fe73ffb3689)
+
 
 ----------------------------------------------------------------
 
