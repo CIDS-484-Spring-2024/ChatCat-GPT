@@ -66,6 +66,12 @@ helps me learn more with the small amount of time I have! I know this is pretty 
 
 ----------------------------------------------------------------
 
+## Current progress update - 04/15/2024
+
+The Large free models are not able to be finetuned and which is why they are free. This defeats the purpose as well. No Bueno!
+
+----------------------------------------------------------------
+
 ## Current progress update - 04/11/2024
 
 Looks like I am SOL. The medium model is no longer in existence!
