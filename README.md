@@ -70,6 +70,8 @@ helps me learn more with the small amount of time I have! I know this is pretty 
 
 The LLMs are no longer in existence either. This is likely due to them not actually being free sadly.
 
+(I am checking the correct models . . . wish is wasn't true!)
+
 ![image](https://github.com/CIDS-484-Spring-2024/ChatCat-GPT/assets/117781469/5a11271b-8bed-46f3-9275-a24d3ab911b1)
 
 
