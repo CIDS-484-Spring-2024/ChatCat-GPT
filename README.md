@@ -66,7 +66,7 @@ helps me learn more with the small amount of time I have! I know this is pretty 
 
 ----------------------------------------------------------------
 
-## Current progress update - 04/XX/2024
+## Current progress update - 0X/XX/2024
 
 ----------------------------------------------------------------
 
